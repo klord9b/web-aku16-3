@@ -1,0 +1,30 @@
+.elementor-51 .elementor-element.elementor-element-86c135a .aux-widget-testimonial .aux-testimonial-image{width:200px;}.elementor-51 .elementor-element.elementor-element-86c135a .aux-testimonial-image{margin-top:0px;margin-bottom:0px;}.elementor-51 .elementor-element.elementor-element-86c135a .col-title a, .elementor-51 .elementor-element.elementor-element-86c135a .col-title{color:var( --e-global-color-text );}.elementor-51 .elementor-element.elementor-element-86c135a .col-title, .elementor-51 .elementor-element.elementor-element-86c135a .col-title a{font-size:25px;font-weight:500;line-height:1.2em;}.elementor-51 .elementor-element.elementor-element-86c135a .col-title{margin-top:0px;margin-bottom:10px;}.elementor-51 .elementor-element.elementor-element-86c135a .col-subtitle{color:rgba(36,36,36,0.7) !important;font-size:14px;font-weight:400;line-height:1.4em;letter-spacing:0px;margin-bottom:0px;}.elementor-51 .elementor-element.elementor-element-86c135a .aux-testimonial-content{color:var( --e-global-color-8cee1d4 );font-size:31px;line-height:1.9em;}.elementor-51 .elementor-element.elementor-element-86c135a .aux-widget-testimonial{text-align:center;}@media(max-width:1024px){.elementor-51 .elementor-element.elementor-element-86c135a .aux-widget-testimonial .aux-testimonial-image{width:275px;}.elementor-51 .elementor-element.elementor-element-86c135a .aux-testimonial-content{font-size:20px;line-height:38px;}}@media(max-width:767px){.elementor-51 .elementor-element.elementor-element-86c135a .aux-widget-testimonial .aux-testimonial-image{width:120px;}.elementor-51 .elementor-element.elementor-element-86c135a .col-title, .elementor-51 .elementor-element.elementor-element-86c135a .col-title a{font-size:18px;}.elementor-51 .elementor-element.elementor-element-86c135a .col-subtitle{font-size:12px;}.elementor-51 .elementor-element.elementor-element-86c135a .aux-testimonial-content{font-size:16px;}}/* Start custom CSS for aux_testimonial, class: .elementor-element-86c135a */.elementor-51 .elementor-element.elementor-element-86c135a .aux-testimonial-infobox{
+    margin: 20px auto 0;  
+}
+
+.elementor-51 .elementor-element.elementor-element-86c135a .aux-testimonial-info{
+    padding-left: 12px;
+    text-align: left;
+    vertical-align: middle;
+   
+}
+
+.elementor-51 .elementor-element.elementor-element-86c135a .aux-testimonial-info .col-subtitle{
+    margin: 0;
+}
+
+.elementor-51 .elementor-element.elementor-element-86c135a .entry-content::after{
+    display: none;
+}
+
+.elementor-51 .elementor-element.elementor-element-86c135a .aux-testimonial-content .entry-content::before{
+    content: "“";
+    font-size: 134px;
+    font-family: 'Rufina', serif !important;
+    color: var(--e-global-color-primary);
+    font-weight: bold;
+    text-shadow: 0 9px 11px rgba(255, 187, 6, 0.46);
+    position: relative;
+    display: block;
+    line-height: 80px;
+}/* End custom CSS */
