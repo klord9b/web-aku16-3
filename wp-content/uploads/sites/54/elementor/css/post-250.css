@@ -1,0 +1,58 @@
+.elementor-250 .elementor-element.elementor-element-907b1a0 > .elementor-container{max-width:1400px;}.elementor-250 .elementor-element.elementor-element-907b1a0{margin-top:100px;margin-bottom:0px;padding:0px 35px 0px 35px;}.elementor-250 .elementor-element.elementor-element-5829ec9 .entry-media img{border-radius:20px 20px 20px 20px !important;}.elementor-250 .elementor-element.elementor-element-5829ec9 .entry-title a{color:var( --e-global-color-accent );font-size:23px;font-weight:400;}.elementor-250 .elementor-element.elementor-element-5829ec9 .entry-info a, .elementor-250 .elementor-element.elementor-element-5829ec9 .entry-info{color:#FFFFFF59;}.elementor-250 .elementor-element.elementor-element-5829ec9 .entry-info, .elementor-250 .elementor-element.elementor-element-5829ec9 .entry-info a{font-size:15px;font-weight:400;}.elementor-250 .elementor-element.elementor-element-5829ec9 .type-post .entry-main{padding:26px 20px 29px 53px;}.elementor-250 .elementor-element.elementor-element-5829ec9 .aux-col .column-entry{box-shadow:0px 6px 20px 0px rgba(0, 0, 0, 0.07);}.elementor-250 .elementor-element.elementor-element-5829ec9{text-align:left;animation-timing-function:cubic-bezier(0.25,0.46,0.45,0.94);}@media(max-width:1024px){.elementor-250 .elementor-element.elementor-element-5829ec9 .entry-title a{font-size:20px;}.elementor-250 .elementor-element.elementor-element-5829ec9 .entry-info, .elementor-250 .elementor-element.elementor-element-5829ec9 .entry-info a{font-size:13px;}.elementor-250 .elementor-element.elementor-element-5829ec9 .type-post .entry-main{padding:20px 15px 20px 30px;}}@media(max-width:767px){.elementor-250 .elementor-element.elementor-element-5829ec9 .entry-title a{font-size:18px;}}/* Start custom CSS for aux_recent_posts, class: .elementor-element-5829ec9 */.elementor-250 .elementor-element.elementor-element-5829ec9 .entry-main{
+    background: transparent linear-gradient(180deg, var(--e-global-color-primary) 0%, var(--e-global-color-d762115) 100%);
+    box-shadow: 0px 6px 20px #00000012;
+    border-radius: 21px 21px 21px 15px;
+    position: absolute;
+    bottom: 0;
+}
+.elementor-250 .elementor-element.elementor-element-5829ec9 .aux-col{
+    border-radius: 20px
+}
+.elementor-250 .elementor-element.elementor-element-5829ec9 .entry-info{
+    position: relative;
+    z-index: 9;
+}
+.elementor-250 .elementor-element.elementor-element-5829ec9 .aux-col .entry-main:before{
+    content: '';
+    width: 100%;
+    height: 100%;
+    background: transparent linear-gradient(180deg, var(--e-global-color-b291146) 0%, var(--e-global-color-4ba5b4b) 100%);
+    border-radius: 21px 21px 21px 15px;
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    opacity: 0;
+    transition: all 250ms ease-in;
+}
+.elementor-250 .elementor-element.elementor-element-5829ec9 .aux-load-more{
+    width: 142px;
+    background: transparent linear-gradient(0deg, var(--e-global-color-b291146) 0%, var(--e-global-color-4ba5b4b) 100%);
+    border-radius: 0px 50px;
+}
+.elementor-250 .elementor-element.elementor-element-5829ec9 .aux-load-more svg circle{
+    stroke:transparent;
+}
+.elementor-250 .elementor-element.elementor-element-5829ec9 .aux-label-text , .elementor-250 .elementor-element.elementor-element-5829ec9 .aux-loading-label{
+    color: var(--e-global-color-primary);
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.elementor-250 .elementor-element.elementor-element-5829ec9 .entry-title:before{
+    content: '';
+    width: 15px;
+    height: 15px;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='15.382' height='15.012' viewBox='0 0 15.382 15.012'%3E%3Cdefs%3E%3ClinearGradient id='linear-gradient' x1='0.5' y1='1' x2='0.5' gradientUnits='objectBoundingBox'%3E%3Cstop offset='0' stop-color='%23FCAD25'/%3E%3Cstop offset='1' stop-color='%23FFE046'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cpath id='Path_2305' data-name='Path 2305' d='M333.922,178.24l.049,15.012h-.543a14.9,14.9,0,0,1-14.838-14.963h0Z' transform='translate(-318.59 -178.24)' fill='url(/wp-content/uploads/sites/54/elementor/css/%23linear-gradient)'/%3E%3C/svg%3E");    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    margin-right: 10px;
+    position: absolute;
+    left: -25px;
+    top: 10px;
+    opacity: 0;
+    transition: all 250ms ease-in;
+}
+.elementor-250 .elementor-element.elementor-element-5829ec9 .aux-col:hover .entry-main:before , .elementor-250 .elementor-element.elementor-element-5829ec9 .aux-col:hover .entry-title:before{
+    opacity: 1;
+}/* End custom CSS */
