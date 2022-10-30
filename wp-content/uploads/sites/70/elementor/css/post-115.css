@@ -1,0 +1,12 @@
+.elementor-115 .elementor-element.elementor-element-4337eb9 .aux-widget-text .aux-text-widget-header{padding:0px 0px 0px 0px;}.elementor-115 .elementor-element.elementor-element-4337eb9 .aux-ico{font-size:46px;}.elementor-115 .elementor-element.elementor-element-4337eb9 .aux-ico-box{padding:24px 25px 24px 25px;color:#FFFFFF;}.elementor-115 .elementor-element.elementor-element-4337eb9 .col-title a, .elementor-115 .elementor-element.elementor-element-4337eb9 .col-title{color:var( --e-global-color-secondary );}.elementor-115 .elementor-element.elementor-element-4337eb9 .col-title, .elementor-115 .elementor-element.elementor-element-4337eb9 .col-title a{font-size:28px;font-weight:600;text-transform:capitalize;}.elementor-115 .elementor-element.elementor-element-4337eb9 .widget-content{color:var( --e-global-color-text );font-size:16px;font-weight:400;}.elementor-115 .elementor-element.elementor-element-4337eb9 .aux-widget-text .aux-text-widget-content{padding:0px 0px 0px 0px;}.elementor-115 .elementor-element.elementor-element-4337eb9 .aux-widget-advanced-text{text-align:left !important;padding:33px 5px 32px 75px;}.elementor-115 .elementor-element.elementor-element-4337eb9 > .elementor-widget-container{background-color:#FFFFFF;border-radius:10px 10px 10px 10px;box-shadow:0px 6px 30px 0px rgba(0, 0, 0, 0.09019607843137255);}.elementor-115 .elementor-element.elementor-element-4337eb9{max-width:415px;}@media(max-width:1024px){.elementor-115 .elementor-element.elementor-element-4337eb9 .aux-ico-box{padding:22px 23px 22px 23px;}.elementor-115 .elementor-element.elementor-element-4337eb9 .col-title, .elementor-115 .elementor-element.elementor-element-4337eb9 .col-title a{font-size:22px;}.elementor-115 .elementor-element.elementor-element-4337eb9 .widget-content{font-size:14px;}.elementor-115 .elementor-element.elementor-element-4337eb9 .aux-widget-advanced-text{padding:33px 5px 32px 60px;}}/* Start custom CSS for aux_text, class: .elementor-element-4337eb9 */.elementor-115 .elementor-element.elementor-element-4337eb9 .aux-text-widget-header{
+    border-radius: 10px;
+    position: absolute;
+    left: -50px;
+}
+.elementor-115 .elementor-element.elementor-element-4337eb9 .aux-text-widget-header{
+    background: linear-gradient(180deg, var( --e-global-color-accent ) 0%, var( --e-global-color-9aea99b ) 100%);
+    transition: all 250ms ease-in;
+}
+.elementor-115 .elementor-element.elementor-element-4337eb9:hover .aux-text-widget-header{
+    background: var(--e-global-color-secondary);
+}/* End custom CSS */
