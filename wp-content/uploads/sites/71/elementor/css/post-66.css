@@ -1,0 +1,67 @@
+.elementor-66 .elementor-element.elementor-element-9b69abb{margin-top:100px;margin-bottom:0px;padding:0px 35px 0px 35px;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-66 .elementor-element.elementor-element-c294f2c .entry-header .entry-title a{color:var( --e-global-color-text );font-family:"Rubik", Sans-serif;font-size:25px;font-weight:500;line-height:29px;}.elementor-66 .elementor-element.elementor-element-c294f2c  .entry-header{margin-bottom:11px;}.elementor-66 .elementor-element.elementor-element-c294f2c .entry-tax a{color:var( --e-global-color-text );}.elementor-66 .elementor-element.elementor-element-c294f2c .entry-tax{font-size:17px;font-weight:400;font-style:normal;line-height:20px;margin-bottom:0px;}.elementor-66 .elementor-element.elementor-element-c294f2c .entry-main{padding:40px 40px 40px 40px !important;}.elementor-66 .elementor-element.elementor-element-c294f2c .aux-iso-item{margin-bottom:60px !important;}.elementor-66 .elementor-element.elementor-element-6fd24cae > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-66 .elementor-element.elementor-element-6fd24cae:not(.elementor-motion-effects-element-type-background), .elementor-66 .elementor-element.elementor-element-6fd24cae > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#f6f6f6;}.elementor-66 .elementor-element.elementor-element-6fd24cae{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:70px;margin-bottom:0px;padding:60px 35px 60px 35px;}.elementor-66 .elementor-element.elementor-element-6fd24cae > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-66 .elementor-element.elementor-element-48ac4cdc .aux-widget-image{text-align:center;}.elementor-66 .elementor-element.elementor-element-6490d6a9 .aux-widget-image{text-align:center;}.elementor-66 .elementor-element.elementor-element-1f34451e .aux-widget-image{text-align:center;}.elementor-66 .elementor-element.elementor-element-783001e4 .aux-widget-image{text-align:center;}.elementor-66 .elementor-element.elementor-element-325f1ee9 .aux-widget-image{text-align:center;}.elementor-66 .elementor-element.elementor-element-44ae669f .aux-widget-image{text-align:center;}@media(max-width:1024px) and (min-width:768px){.elementor-66 .elementor-element.elementor-element-7a20afdc{width:50%;}.elementor-66 .elementor-element.elementor-element-5e7d5b88{width:50%;}.elementor-66 .elementor-element.elementor-element-4ff2af12{width:50%;}.elementor-66 .elementor-element.elementor-element-35ef302a{width:50%;}.elementor-66 .elementor-element.elementor-element-3228c20e{width:50%;}.elementor-66 .elementor-element.elementor-element-582010a0{width:50%;}}@media(max-width:1024px){.elementor-66 .elementor-element.elementor-element-6fd24cae{margin-top:0px;margin-bottom:0px;}}/* Start custom CSS for aux_recent_portfolios_grid, class: .elementor-element-c294f2c */.elementor-66 .elementor-element.elementor-element-c294f2c .aux-filters ul{
+    padding-left: 10px;
+    font-weight: 400;
+}
+
+.elementor-66 .elementor-element.elementor-element-c294f2c .aux-portfolio-columns{
+    overflow: visible;
+}
+
+.elementor-66 .elementor-element.elementor-element-c294f2c .aux-filters{
+    margin-bottom: 50px;
+}
+
+.elementor-66 .elementor-element.elementor-element-c294f2c .aux-filters:after{
+    content: "";
+    display: block;
+    width: 100%;
+    height: 1px;
+    background: rgba(112, 112, 112, 0.3);
+    margin: 38px 15px 0;
+}
+
+.elementor-66 .elementor-element.elementor-element-c294f2c .aux-selected{
+    background-image: linear-gradient(180deg, var(--e-global-color-primary) 0%, var(--e-global-color-accent) 100%);
+    box-shadow: 0 3px 20px rgba(255, 207, 14, 0.5); 
+    border-radius: 50em;
+    
+}
+
+.elementor-66 .elementor-element.elementor-element-c294f2c .aux-filters li > a{
+    padding: 10px 16px;
+}
+
+.elementor-66 .elementor-element.elementor-element-c294f2c .aux-filters.aux-slideup li > a span::after {
+    font-weight: 400;
+    color: var(--e-global-color-text);
+}
+
+.elementor-66 .elementor-element.elementor-element-c294f2c .hentry .entry-info{
+    margin: 0;
+    position: relative;
+}
+
+.elementor-66 .elementor-element.elementor-element-c294f2c .entry-media {
+    margin: 0;
+}
+
+.elementor-66 .elementor-element.elementor-element-c294f2c .entry-main{
+    position: relative;
+    box-shadow: 0 3px 20px rgba(0,0,0,0.16)
+}
+
+.elementor-66 .elementor-element.elementor-element-c294f2c .entry-main:before{
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(104deg, var(--e-global-color-primary) 0%, var(--e-global-color-accent) 100%);
+    opacity: 0;
+    transition: all 900ms cubic-bezier(0.190, 1.000, 0.220, 1.000); 
+}
+
+.elementor-66 .elementor-element.elementor-element-c294f2c .hentry:hover .entry-main:before{
+    opacity: 1;
+}/* End custom CSS */
