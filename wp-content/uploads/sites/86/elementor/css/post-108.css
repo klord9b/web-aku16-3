@@ -1,0 +1,54 @@
+.elementor-108 .elementor-element.elementor-element-42d3535{margin-top:50px;margin-bottom:150px;padding:0px 35px 0px 35px;}.elementor-108 .elementor-element.elementor-element-5bb43f4 .entry-media img{border-radius:20px 20px 20px 20px !important;}.elementor-108 .elementor-element.elementor-element-5bb43f4 .post:hover .aux-media-image{box-shadow:-15px 20px 50px 0px rgba(0, 0, 0, 0.1607843137254902);}.elementor-108 .elementor-element.elementor-element-5bb43f4 .entry-title a{color:#081420;font-size:25px;font-weight:800;text-transform:capitalize;}.elementor-108 .elementor-element.elementor-element-5bb43f4 .entry-info a, .elementor-108 .elementor-element.elementor-element-5bb43f4 .entry-info{color:#000000B3;}.elementor-108 .elementor-element.elementor-element-5bb43f4 .entry-info, .elementor-108 .elementor-element.elementor-element-5bb43f4 .entry-info a{font-size:16px;font-weight:700;text-transform:capitalize;}.elementor-108 .elementor-element.elementor-element-5bb43f4 .entry-content{color:#081420B3;font-size:16px;font-weight:500;}.elementor-108 .elementor-element.elementor-element-5bb43f4 .type-post .entry-main{padding:0px 40px 0px 60px;}.elementor-108 .elementor-element.elementor-element-5bb43f4{text-align:left;animation-duration:1800ms;animation-delay:250ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-108 .elementor-element.elementor-element-5bb43f4 .entry-meta .aux-read-more{background-color:var( --e-global-color-secondary );color:var( --e-global-color-4fe1a49 );font-size:16px;font-weight:500;letter-spacing:-0.48px;padding:15px 43px 15px 43px;}.elementor-108 .elementor-element.elementor-element-5bb43f4 > .elementor-widget-container{margin:50px 0px 0px 0px;}@media(max-width:767px){.elementor-108 .elementor-element.elementor-element-5bb43f4 .entry-title a{font-size:22px;}.elementor-108 .elementor-element.elementor-element-5bb43f4 .entry-info, .elementor-108 .elementor-element.elementor-element-5bb43f4 .entry-info a{font-size:15px;}.elementor-108 .elementor-element.elementor-element-5bb43f4 .entry-content{font-size:15px;}.elementor-108 .elementor-element.elementor-element-5bb43f4 .type-post .entry-main{padding:30px 20px 0px 20px;}.elementor-108 .elementor-element.elementor-element-5bb43f4 .entry-meta .aux-read-more{font-size:15px;padding:12px 34px 12px 34px;}}/* Start custom CSS for aux_recent_posts, class: .elementor-element-5bb43f4 */.elementor-108 .elementor-element.elementor-element-5bb43f4 .aux-media-frame{
+    border-radius: 20px;
+}
+.elementor-108 .elementor-element.elementor-element-5bb43f4 .post{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: 2px solid #2E303433;
+    border-radius: 20px;
+    padding: 40px 0 40px 40px;
+}
+.elementor-108 .elementor-element.elementor-element-5bb43f4 .entry-media{
+    margin-bottom: 0;
+    max-width: 40%;
+}
+.elementor-108 .elementor-element.elementor-element-5bb43f4 .aux-after-content{
+    position: relative;
+    padding-left: 0;
+}
+.elementor-108 .elementor-element.elementor-element-5bb43f4 .aux-read-more::after{
+    display: none;
+}
+.elementor-108 .elementor-element.elementor-element-5bb43f4 .entry-meta .aux-read-more{
+    border-radius: 40px;
+}
+.elementor-108 .elementor-element.elementor-element-5bb43f4 .aux-col:hover .entry-info a{
+    color: var(--e-global-color-203b7c7);
+}
+.elementor-108 .elementor-element.elementor-element-5bb43f4 .aux-col:hover .entry-meta .aux-read-more {
+    background-color: var(--e-global-color-primary);
+    box-shadow: 0px 20px 60px #00000029;
+}
+.elementor-108 .elementor-element.elementor-element-5bb43f4 .aux-media-image{
+    transition:all 250ms ease-in;
+}
+@media screen and (max-width:1440px) and (min-width:1025px){
+    .elementor-108 .elementor-element.elementor-element-5bb43f4 .type-post .entry-main {
+        padding: 0px 20px 0px 20px;
+    }
+    .elementor-108 .elementor-element.elementor-element-5bb43f4 .entry-meta .aux-read-more{
+        padding: 12px 32px 12px 32px !important;
+        font-size: 15px !important;
+    }
+}
+@media screen and (max-width:767px){
+    .elementor-108 .elementor-element.elementor-element-5bb43f4 .post{
+        display: flex;
+        flex-direction: column;
+        padding: 40px 20px 40px 20px !important;
+    }
+    .elementor-108 .elementor-element.elementor-element-5bb43f4 .entry-media{
+        max-width: 100%;
+    }
+}/* End custom CSS */
