@@ -1,0 +1,113 @@
+.elementor-62 .elementor-element.elementor-element-2e62115{margin-top:120px;margin-bottom:0px;}.elementor-62 .elementor-element.elementor-element-45dfe43 .aux-widget-inner > *{text-align:center;margin-left:auto !important;margin-right:auto !important;}.elementor-62 .elementor-element.elementor-element-45dfe43 .aux-modern-heading-primary{font-family:"Poppins", Sans-serif;font-size:40px;font-weight:bold;line-height:56px;letter-spacing:-2px;color:#000000;}.elementor-62 .elementor-element.elementor-element-45dfe43 .aux-modern-heading-secondary{font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:500;line-height:15px;color:#cfcfcf;}.elementor-62 .elementor-element.elementor-element-45dfe43{animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-62 .elementor-element.elementor-element-0da8413{margin-top:40px;margin-bottom:0px;padding:0px 0px 0px 30px;animation-delay:150ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-62 .elementor-element.elementor-element-4577637 .entry-title a{color:#0c0c0c;font-family:"Poppins", Sans-serif;font-size:20px;font-weight:bold;line-height:30px;}.elementor-62 .elementor-element.elementor-element-4577637 .entry-title{margin-bottom:25px;}.elementor-62 .elementor-element.elementor-element-4577637 .entry-info a, .elementor-62 .elementor-element.elementor-element-4577637 .entry-info{color:#000000;}.elementor-62 .elementor-element.elementor-element-4577637 .entry-info, .elementor-62 .elementor-element.elementor-element-4577637 .entry-info a{font-family:"Montserrat", Sans-serif;font-size:15px;font-weight:400;line-height:19px;}.elementor-62 .elementor-element.elementor-element-4577637 .entry-info{margin-bottom:36px;}.elementor-62 .elementor-element.elementor-element-4577637 .entry-content{color:#0c0c0c;font-family:"Montserrat", Sans-serif;font-size:15px;font-weight:500;line-height:22px;margin-bottom:28px;}.elementor-62 .elementor-element.elementor-element-4577637 .entry-meta a, .elementor-62 .elementor-element.elementor-element-4577637 .entry-meta, .elementor-62 .elementor-element.elementor-element-4577637 .entry-meta span{color:#ffffff;}.elementor-62 .elementor-element.elementor-element-4577637 .entry-meta, .elementor-62 .elementor-element.elementor-element-4577637 .entry-meta a, .elementor-62 .elementor-element.elementor-element-4577637 .entry-meta span{font-family:"Montserrat", Sans-serif;font-size:15px;font-weight:500;text-transform:uppercase;line-height:19px;letter-spacing:2px;}.elementor-62 .elementor-element.elementor-element-4577637 .entry-meta{padding:20px 0px 17px 0px;}.elementor-62 .elementor-element.elementor-element-4577637 .type-post .entry-main{padding:85px 58px 115px 58px;}.elementor-62 .elementor-element.elementor-element-4577637{text-align:left;}@media(max-width:767px){.elementor-62 .elementor-element.elementor-element-0da8413{padding:0px 15px 0px 15px;}.elementor-62 .elementor-element.elementor-element-4577637 .entry-title a{font-size:20px;line-height:25px;}.elementor-62 .elementor-element.elementor-element-4577637 .entry-info, .elementor-62 .elementor-element.elementor-element-4577637 .entry-info a{font-size:12px;}.elementor-62 .elementor-element.elementor-element-4577637 .entry-content{font-size:13px;}.elementor-62 .elementor-element.elementor-element-4577637 .entry-meta, .elementor-62 .elementor-element.elementor-element-4577637 .entry-meta a, .elementor-62 .elementor-element.elementor-element-4577637 .entry-meta span{font-size:12px;}.elementor-62 .elementor-element.elementor-element-4577637 .column-entry{padding:0% 0% 0% 0%;}.elementor-62 .elementor-element.elementor-element-4577637 .type-post .entry-main{padding:50px 40px 120px 40px;}}/* Start custom CSS for aux_recent_posts, class: .elementor-element-4577637 */.elementor-62 .elementor-element.elementor-element-4577637 .readmore a:after{
+    display: none;
+}
+.elementor-62 .elementor-element.elementor-element-4577637 .readmore{
+    text-align: center;
+    width: 100%;
+}
+.elementor-62 .elementor-element.elementor-element-4577637 .aux-after-content{
+    max-width:70%!important;
+    right: 0;
+    left: 0;
+    margin: auto;
+    background-color: #000;
+    margin-bottom: 60px;
+}
+@media screen and (min-width: 1500px){
+    .elementor-62 .elementor-element.elementor-element-4577637 .entry-main{
+     position: absolute;
+    right: 5%;
+    width: 65%;
+    margin-right:10px;
+    top:14%!important;
+    
+}
+}
+.elementor-62 .elementor-element.elementor-element-4577637 .aux-col{
+    padding: 0;
+}
+@media screen and (max-width: 1500px) and (min-width: 1024px){
+    .elementor-62 .elementor-element.elementor-element-4577637 .entry-main{
+    position: absolute;
+    top:8%;
+    right: 5%;
+    width: 65%;
+    margin-right:10px;
+}
+}
+@media screen and (max-width: 1024px) and (min-width: 767px){
+    .elementor-62 .elementor-element.elementor-element-4577637 .entry-main{
+    position: absolute;
+    top:12%;
+    right: 5%;
+    width: 65%;
+    margin-right:10px;
+}
+}
+
+
+@media screen and (min-width: 767px){
+    .elementor-62 .elementor-element.elementor-element-4577637 .entry-media img{
+   
+    margin-left: -150px
+}
+}
+@media screen and (min-width: 767px){
+    .elementor-62 .elementor-element.elementor-element-4577637 .aux-widget-recent-posts .aux-grid-carousel-modern-layout .aux-col:hover .entry-main,.elementor-62 .elementor-element.elementor-element-4577637 .aux-widget-recent-posts .aux-grid-carousel-modern-layout .aux-mc-item:hover .entry-main {
+    top: 25px;
+    background-color: var(--auxin-featured-color-1);
+   
+}
+    
+}
+.elementor-62 .elementor-element.elementor-element-4577637 .aux-match-height .aux-col{
+    margin-bottom: -14px;
+}
+@media screen and (max-width: 1358px) and (min-width: 767px){
+    .elementor-62 .elementor-element.elementor-element-4577637 .entry-main{
+        padding: 55px 38px 125px 38px!important;
+    width: 280px!important;   
+        
+    }
+}
+@media screen and (max-width: 1358px) and (min-width: 767px){
+   .entry-media img {
+    margin-left: -120px!important;
+        
+    }
+}
+ 
+@media screen and (max-width: 1358px) and (min-width: 767px){
+    .elementor-62 .elementor-element.elementor-element-4577637 .entry-info{
+    margin-bottom: 10px!important;    
+        
+    }
+}
+
+ 
+@media screen and (max-width: 1358px) and (min-width: 767px){
+    .elementor-62 .elementor-element.elementor-element-4577637 .entry-title{
+    margin-bottom: 9px!important;    
+        
+    }
+}
+
+ 
+@media screen and (max-width: 1358px) and (min-width: 767px){
+    .elementor-62 .elementor-element.elementor-element-4577637 .entry-content{
+    margin-bottom: 8px!important;    
+        
+    }
+}
+@media screen and (max-width: 767px){
+    .elementor-62 .elementor-element.elementor-element-4577637 .entry-main{
+   top: -200px;    
+        
+    }
+}
+
+@media screen and (max-width: 767px){
+    .elementor-62 .elementor-element.elementor-element-4577637 .column-entry{
+   margin-bottom: -25%;
+}
+}/* End custom CSS */
