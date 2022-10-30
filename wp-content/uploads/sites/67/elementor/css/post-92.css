@@ -1,0 +1,169 @@
+.elementor-92 .elementor-element.elementor-element-d3ba44e > .elementor-container{max-width:1920px;}.elementor-92 .elementor-element.elementor-element-d3ba44e{margin-top:0px;margin-bottom:125px;}.elementor-92 .elementor-element.elementor-element-ad8bde4 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-92 .elementor-element.elementor-element-ad8bde4 > .elementor-element-populated > .elementor-widget-wrap{padding:0px 0px 0px 0px;}.elementor-92 .elementor-element.elementor-element-e5ecb13 .entry-media::after{background-color:rgba(12,12,12,0.9);}.elementor-92 .elementor-element.elementor-element-e5ecb13 .entry-header .entry-title a{color:var( --e-global-color-accent );font-family:"Poppins", Sans-serif;font-size:20px;font-weight:600;letter-spacing:-1px;}.elementor-92 .elementor-element.elementor-element-e5ecb13 .entry-tax{font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:500;font-style:normal;line-height:1.4em;}.elementor-92 .elementor-element.elementor-element-e5ecb13 .aux-iso-item{margin-bottom:30px !important;}/* Start custom CSS for aux_recent_portfolios_grid, class: .elementor-element-e5ecb13 */@media screen and (min-width:1430px) {
+.elementor-92 .elementor-element.elementor-element-e5ecb13 .aux-widget-recent-portfolios .aux-filters {
+    top: -80px;
+    left: 50%;
+    }
+}
+
+.elementor-92 .elementor-element.elementor-element-e5ecb13 .aux-filters.aux-slideup li>a span {
+    padding: 0 1.5em;
+}
+
+.elementor-92 .elementor-element.elementor-element-e5ecb13 .aux-iso-item {
+    margin-bottom: 0 !important;
+    transition: box-shadow 500ms ease-in-out;
+}
+
+.elementor-92 .elementor-element.elementor-element-e5ecb13 .aux-iso-item:hover {
+    box-shadow: 0 3px 70px rgba(0, 0, 0, 0.3);
+}
+
+.elementor-92 .elementor-element.elementor-element-e5ecb13 .aux-isotope-animated {
+    overflow: visible;
+}
+
+.elementor-92 .elementor-element.elementor-element-e5ecb13 .aux-arrow-post-link  {
+    display: none;
+}
+
+.elementor-92 .elementor-element.elementor-element-e5ecb13 .type-portfolio.hentry .entry-main {
+    opacity:0;
+    position: absolute;
+    margin: 0;
+    opacity: 0;
+    position: absolute;
+    width: 27%;
+    height: 64%;
+    left: 15%;
+    bottom: 0;
+    overflow: hidden;
+    background-color: rgba(0,0,0,0.9);
+    transition: all 500ms;
+}
+
+.elementor-92 .elementor-element.elementor-element-e5ecb13 .entry-main::after {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    box-shadow: 0px 20px 30px #000 inset;
+    pointer-events: none;
+    transition: all 500ms;
+}
+
+.elementor-92 .elementor-element.elementor-element-e5ecb13 .entry-info {
+    position: absolute;
+    margin-bottom: 0;
+    transform: rotate(-90deg);
+    transform-origin: left;
+    left: 37%;
+    bottom: 5%;
+}
+
+.elementor-92 .elementor-element.elementor-element-e5ecb13 .entry-tax {
+    min-width: 450px;
+    white-space: nowrap;
+}
+
+.elementor-92 .elementor-element.elementor-element-e5ecb13 .entry-tax a {
+    color: var(--e-global-color-accent);
+}
+
+.elementor-92 .elementor-element.elementor-element-e5ecb13 .aux-arrow-nav.aux-round .aux-overlay {
+    transition-duration: 500ms;
+}
+
+.elementor-92 .elementor-element.elementor-element-e5ecb13 .entry-header {
+    white-space: nowrap;
+    position: absolute;
+    bottom: -53px;
+    left: 60%;
+    transform-origin: left;
+    transform: rotate(-90deg);
+}
+
+
+.elementor-92 .elementor-element.elementor-element-e5ecb13 .aux-hover-circle-plus {
+    transform: none;
+    width: 100%;
+    transition: opacity 500ms !important;
+    position: relative;
+}
+
+.elementor-92 .elementor-element.elementor-element-e5ecb13 .aux-arrow-nav.aux-round.aux-semi-small {
+    box-shadow: none;
+    border-radius: 0;
+    background-color: rgba(0,0,0,0.9);
+    width: 100%;
+    padding-top: 100%;
+}
+
+.elementor-92 .elementor-element.elementor-element-e5ecb13 .type-portfolio.hentry .entry-main:hover {
+    background-color: var(--e-global-color-secondary) !important;
+}
+
+.elementor-92 .elementor-element.elementor-element-e5ecb13 .type-portfolio.hentry .entry-main .entry-title a {
+    line-height: 106px;
+    display: inline-block;
+    min-width: 500px;
+    padding-left: 28%;
+}
+
+.elementor-92 .elementor-element.elementor-element-e5ecb13 .type-portfolio.hentry .entry-main:hover a {
+    color: #000;
+}
+
+.elementor-92 .elementor-element.elementor-element-e5ecb13 .entry-main:hover::after {
+    box-shadow: 0px 20px 30px var(--e-global-color-secondary) inset;
+}
+
+.elementor-92 .elementor-element.elementor-element-e5ecb13 .entry-title a:hover {
+    color: rgba(0,0,0,0.8) !important;
+}
+
+.elementor-92 .elementor-element.elementor-element-e5ecb13 .type-portfolio.hentry:hover .entry-main {
+        opacity:1;
+}
+
+.elementor-92 .elementor-element.elementor-element-e5ecb13 .aux-widget-recent-portfolios .aux-portfolio-columns .aux-overlay-content {
+    transform: none;
+    top: 0;
+    bottom: 0;
+    padding:0;
+}
+
+.elementor-92 .elementor-element.elementor-element-e5ecb13 .aux-frame-darken::after {
+    display: none
+}
+
+.elementor-92 .elementor-element.elementor-element-e5ecb13 .aux-overlay-content {
+    top: 0;
+    left: 0;
+    transform: none;
+    padding: 0;
+    height: 100%;
+    text-align: left;
+}
+
+.elementor-92 .elementor-element.elementor-element-e5ecb13 .aux-arrow-nav.aux-outline.aux-white .aux-overlay::after {
+    background-color: var(--e-global-color-secondary);
+    border-radius: 0;
+}
+
+
+.elementor-92 .elementor-element.elementor-element-e5ecb13 .aux-portfolio-overlay-buttons {
+    width: auto;
+    position: absolute;
+    left: 15%;
+    right: 58%;
+}
+
+.elementor-92 .elementor-element.elementor-element-e5ecb13 .aux-hover-circle-plus  > a {
+    display: block;
+    margin: 0;
+    
+}/* End custom CSS */
