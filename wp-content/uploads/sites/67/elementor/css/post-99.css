@@ -1,0 +1,43 @@
+.elementor-99 .elementor-element.elementor-element-6d244bc{margin-top:-20px;margin-bottom:100px;}.elementor-99 .elementor-element.elementor-element-38f3a78{margin-top:0px;margin-bottom:55px;}.elementor-99 .elementor-element.elementor-element-97b8aca .aux-modern-heading-primary{font-family:"Poppins", Sans-serif;font-size:50px;font-weight:700;line-height:1em;letter-spacing:-3px;color:var( --e-global-color-text );margin:0px 0px 25px 0px;}.elementor-99 .elementor-element.elementor-element-97b8aca .aux-modern-heading-divider{height:2px;width:53px;background-color:var( --e-global-color-text );}.elementor-99 .elementor-element.elementor-element-a7ba5e1 .entry-title a{font-family:"Poppins", Sans-serif;font-size:20px;font-weight:700;line-height:1.2em;letter-spacing:-0.6px;}.elementor-99 .elementor-element.elementor-element-a7ba5e1 .entry-info a, .elementor-99 .elementor-element.elementor-element-a7ba5e1 .entry-info{color:var( --e-global-color-text );}.elementor-99 .elementor-element.elementor-element-a7ba5e1 .entry-info, .elementor-99 .elementor-element.elementor-element-a7ba5e1 .entry-info a{font-family:"Montserrat", Sans-serif;font-size:14px;font-weight:500;line-height:1.5em;letter-spacing:-0.4px;}.elementor-99 .elementor-element.elementor-element-a7ba5e1 .entry-info{margin-bottom:15px;}/* Start custom CSS for aux_recent_posts, class: .elementor-element-a7ba5e1 */@media screen and (max-width: 990px), screen and (min-width: 1400px) {
+    .elementor-99 .elementor-element.elementor-element-a7ba5e1 .entry-media {
+        margin-bottom: 0;
+    }
+    
+    
+    .elementor-99 .elementor-element.elementor-element-a7ba5e1 .aux-col {
+        padding: 0;
+        margin: 0;
+    }
+    
+    .elementor-99 .elementor-element.elementor-element-a7ba5e1 .entry-main {
+        bottom: 10%;
+        left: 10%;
+        right: 10%;
+        position: absolute;
+        z-index: 1;
+        background-color: var(--e-global-color-secondary);
+    }
+    
+    
+    .elementor-99 .elementor-element.elementor-element-a7ba5e1 .aux-widget-recent-posts .type-post:hover .entry-main {
+        background-color: #000;
+    }
+    
+    .elementor-99 .elementor-element.elementor-element-a7ba5e1 .aux-widget-recent-posts .type-post:hover .entry-title {
+        color: var(--e-global-color-accent);
+    }
+    
+    .elementor-99 .elementor-element.elementor-element-a7ba5e1 .aux-widget-recent-posts .type-post:hover .entry-info a
+     {
+        color: var(--e-global-color-accent) !important;
+    }
+    
+    .elementor-99 .elementor-element.elementor-element-a7ba5e1 .entry-info {
+        padding-top: 40px;
+        padding-left: 66px;
+    }
+    
+    .elementor-99 .elementor-element.elementor-element-a7ba5e1 .entry-header {
+        padding: 0 66px 20px 66px;
+    }
+}/* End custom CSS */
