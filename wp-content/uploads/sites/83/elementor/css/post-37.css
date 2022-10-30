@@ -1,0 +1,19 @@
+.elementor-37 .elementor-element.elementor-element-b3e4f9b{margin-top:38px;margin-bottom:0px;padding:0px 35px 0px 35px;}.elementor-37 .elementor-element.elementor-element-0c19fef{width:auto;max-width:auto;animation-duration:1800ms;animation-delay:250ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);flex-grow:1;}.elementor-37 .elementor-element.elementor-element-917ed68{text-align:left;width:auto;max-width:auto;align-self:center;animation-duration:1800ms;animation-delay:650ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-37 .elementor-element.elementor-element-917ed68 .aux-vertical .aux-menu-depth-0 .aux-item-content{text-align:left;}.elementor-37 .elementor-element.elementor-element-917ed68 .aux-menu-depth-0 > .aux-item-content{color:#6D6D6D;font-size:16px;font-weight:500;text-transform:capitalize;padding:0px 22px 0px 22px;}.elementor-37 .elementor-element.elementor-element-917ed68 .aux-menu-depth-0.aux-hover > .aux-item-content {color:var( --e-global-color-text );}.elementor-37 .elementor-element.elementor-element-917ed68 .aux-menu-depth-0.current-menu-item > a{color:var( --e-global-color-text );font-weight:700;}.elementor-37 .elementor-element.elementor-element-917ed68 .aux-fs-menu .aux-menu-item > .aux-item-content{color:var( --e-global-color-accent );font-family:"Playfair Display", Montserrat;padding:30px 0px 30px 0px;}.elementor-37 .elementor-element.elementor-element-917ed68 .aux-fs-menu .aux-menu-item.aux-hover > .aux-item-content{color:var( --e-global-color-text );}.elementor-37 .elementor-element.elementor-element-917ed68 .aux-fs-menu .aux-master-menu{text-align:left;}.elementor-37 .elementor-element.elementor-element-917ed68 > .elementor-widget-container{margin:-6px 0px 0px 0px;padding:0px 0px 0px 15px;}@media(max-width:1024px){.elementor-37 .elementor-element.elementor-element-917ed68 .aux-fs-menu .aux-menu-item > .aux-item-content{font-size:46px;}}@media(max-width:767px){.elementor-37 .elementor-element.elementor-element-917ed68 .aux-fs-menu .aux-menu-item > .aux-item-content{font-size:38px;}.elementor-37 .elementor-element.elementor-element-917ed68 > .elementor-widget-container{margin:0px 0px 0px 0px;}}/* Start custom CSS for aux_logo, class: .elementor-element-0c19fef */body.home header .elementor-37 .elementor-element.elementor-element-0c19fef {
+    flex-grow: 0.1;    
+}
+
+@media screen and (max-width:900px){
+    .elementor-37 .elementor-element.elementor-element-0c19fef{
+        flex-grow:1;
+    }
+}/* End custom CSS */
+/* Start custom CSS for aux_menu_box, class: .elementor-element-917ed68 */.elementor-37 .elementor-element.elementor-element-917ed68 .aux-menu-depth-0.current-menu-item a .aux-menu-label:before{
+    content: "";
+    width: 2px;
+    height: 13px;
+    background-color: var(--e-global-color-text);
+    display: inline-block;
+    position: absolute;
+    left: 10px;
+    top:6px;
+}/* End custom CSS */
