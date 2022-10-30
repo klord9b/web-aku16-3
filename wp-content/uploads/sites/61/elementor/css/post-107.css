@@ -1,0 +1,21 @@
+.elementor-107 .elementor-element.elementor-element-81fb455 .aux-widget-text .aux-text-widget-header{padding:0px 0px 0px 0px;}.elementor-107 .elementor-element.elementor-element-81fb455 .aux-ico-box{padding:0px 0px 0px 0px;color:#ffffff;}.elementor-107 .elementor-element.elementor-element-81fb455 .col-title a, .elementor-107 .elementor-element.elementor-element-81fb455 .col-title{color:var( --e-global-color-text );}.elementor-107 .elementor-element.elementor-element-81fb455 .col-title, .elementor-107 .elementor-element.elementor-element-81fb455 .col-title a{font-size:28px;font-weight:500;text-transform:capitalize;}.elementor-107 .elementor-element.elementor-element-81fb455 .widget-content{color:var( --e-global-color-text );font-size:18px;font-weight:500;}.elementor-107 .elementor-element.elementor-element-81fb455 .aux-widget-advanced-text{text-align:center !important;}.elementor-107 .elementor-element.elementor-element-81fb455{width:auto;max-width:auto;}@media(max-width:1024px){.elementor-107 .elementor-element.elementor-element-81fb455 .col-title, .elementor-107 .elementor-element.elementor-element-81fb455 .col-title a{font-size:22px;}.elementor-107 .elementor-element.elementor-element-81fb455 .widget-content{font-size:15px;}}/* Start custom CSS for aux_text, class: .elementor-element-81fb455 */.elementor-107 .elementor-element.elementor-element-81fb455 .aux-text-widget-content{
+    display: flex;
+    justify-content: space-between;
+}
+.elementor-107 .elementor-element.elementor-element-81fb455 .col-title{
+    position: absolute;
+    left: 8%;
+    top: -70%;
+}
+.elementor-107 .elementor-element.elementor-element-81fb455 .widget-content{
+    position: absolute;
+    right: 8%;
+    top: -75%;
+}
+.elementor-107 .elementor-element.elementor-element-81fb455 img{
+    border-radius: 30px;
+}
+.elementor-107 .elementor-element.elementor-element-81fb455 .aux-ico-box, .elementor-107 .elementor-element.elementor-element-81fb455{
+    width: 100%!important;
+    max-width: 100%!important;
+}/* End custom CSS */
