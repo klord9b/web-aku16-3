@@ -1,0 +1,83 @@
+.elementor-90 .elementor-element.elementor-element-2550446 > .elementor-container{max-width:1680px;min-height:400px;}.elementor-90 .elementor-element.elementor-element-2550446:not(.elementor-motion-effects-element-type-background), .elementor-90 .elementor-element.elementor-element-2550446 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("/wp-content/uploads/sites/73/2019/07/succesful-businesswoman-ceo-of-company-1.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-90 .elementor-element.elementor-element-2550446{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;z-index:1;}.elementor-90 .elementor-element.elementor-element-2550446 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-90 .elementor-element.elementor-element-76cd3fe > .elementor-element-populated{margin:0px 0px 0px 25px;--e-column-margin-right:0px;--e-column-margin-left:25px;}.elementor-90 .elementor-element.elementor-element-76cd3fe{animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-90 .elementor-element.elementor-element-ea62c37 .aux-icon-list-item{margin-right:-8px;}.elementor-90 .elementor-element.elementor-element-ea62c37 .aux-direction-horizontal .aux-icon-list-item:after{right:calc(--8px/2);}.elementor-90 .elementor-element.elementor-element-ea62c37 .aux-icon-list-item, .elementor-90 .elementor-element.elementor-element-ea62c37 .aux-icon-list-items{justify-content:left;}.elementor-90 .elementor-element.elementor-element-ea62c37 .aux-icon-list-item .aux-list-connector{border-bottom-style:dashed;}.elementor-90 .elementor-element.elementor-element-ea62c37 .aux-icon-list-text{color:rgba(255,255,255,0.60);font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:400;line-height:19px;}.elementor-90 .elementor-element.elementor-element-ea62c37 .aux-icon-list-icon{color:#24af29;}.elementor-90 .elementor-element.elementor-element-ea62c37 > .elementor-widget-container{margin:0px 0px -2px 0px;}.elementor-90 .elementor-element.elementor-element-c3d1a2b .aux-modern-heading-primary{font-family:"Bai Jamjuree", Sans-serif;font-size:50px;font-weight:bold;line-height:67px;letter-spacing:-1px;color:var( --e-global-color-text );}.elementor-90 .elementor-element.elementor-element-c3d1a2b > .elementor-widget-container{margin:-28px 0px -24px 0px;}.elementor-90 .elementor-element.elementor-element-d97a49f > .elementor-container{max-width:1620px;}.elementor-90 .elementor-element.elementor-element-d97a49f{margin-top:120px;margin-bottom:0px;padding:0px 25px 0px 25px;}.elementor-90 .elementor-element.elementor-element-6fa456c{position:absolute;top:-962px;right:-503px;}.elementor-90 .elementor-element.elementor-element-8e70d30 .entry-header .entry-title a{color:var( --e-global-color-text );font-family:"Montserrat", Sans-serif;font-size:20px;font-weight:bold;line-height:24px;letter-spacing:-1px;}.elementor-90 .elementor-element.elementor-element-8e70d30 .entry-tax a{color:var( --e-global-color-c5a9c22 );}.elementor-90 .elementor-element.elementor-element-8e70d30 .entry-tax{font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:400;font-style:normal;line-height:23px;}.elementor-90 .elementor-element.elementor-element-8e70d30 .aux-iso-item{margin-bottom:30px !important;}.elementor-90 .elementor-element.elementor-element-8e70d30 > .elementor-widget-container{margin:0px 0px -100px 0px;}@media(max-width:1024px){.elementor-90 .elementor-element.elementor-element-76cd3fe > .elementor-element-populated{margin:0px 0px 0px 20px;--e-column-margin-right:0px;--e-column-margin-left:20px;}.elementor-90 .elementor-element.elementor-element-6fa456c{top:-315px;right:-238px;}.elementor-90 .elementor-element.elementor-element-8e70d30 .entry-header .entry-title a{font-size:16px;}.elementor-90 .elementor-element.elementor-element-8e70d30 .entry-tax{font-size:13px;}}@media(max-width:767px){.elementor-90 .elementor-element.elementor-element-76cd3fe > .elementor-element-populated{margin:0px 0px 0px 25px;--e-column-margin-right:0px;--e-column-margin-left:25px;}.elementor-90 .elementor-element.elementor-element-d97a49f{margin-top:45px;margin-bottom:0px;padding:0px 30px 0px 30px;}.elementor-90 .elementor-element.elementor-element-6fa456c{top:-158px;right:-72px;}}/* Start custom CSS for aux_image, class: .elementor-element-6fa456c */.elementor-90 .elementor-element.elementor-element-6fa456c .aux-widget-image .aux-media-image img{
+    position: relative;
+    z-index: -1;
+}/* End custom CSS */
+/* Start custom CSS for aux_recent_portfolios_grid, class: .elementor-element-8e70d30 */.elementor-90 .elementor-element.elementor-element-8e70d30 .aux-overlay-content{
+    bottom: -87px;
+    text-align: left;
+    top:auto;
+}
+ @media screen and (max-width: 556px){
+    .elementor-90 .elementor-element.elementor-element-8e70d30 .aux-overlay-content{
+       bottom: 25px;
+   
+}
+ }
+.elementor-90 .elementor-element.elementor-element-8e70d30 .aux-hover-circle-link{
+    display: none;
+}
+.elementor-90 .elementor-element.elementor-element-8e70d30 .aux-hover-circle-plus .aux-delay-2x{
+    position: absolute;
+    right: 0;
+}
+.elementor-90 .elementor-element.elementor-element-8e70d30 .aux-arrow-nav.aux-round.aux-semi-small{
+    border-radius: 0;
+    background-color: var(--e-global-color-secondary);
+    border-color: var(--e-global-color-secondary);
+    box-shadow: 0 0 0 1px var(--e-global-color-secondary);
+    width: 55px;
+    height: 55px;
+}
+.elementor-90 .elementor-element.elementor-element-8e70d30 .aux-hover-circle-plus{
+    position: absolute;
+    bottom: 37px;
+    right: 15px;
+    z-index: 1;
+}
+.elementor-90 .elementor-element.elementor-element-8e70d30 .aux-svg-arrow.aux-small-left,
+.elementor-90 .elementor-element.elementor-element-8e70d30 .aux-svg-symbol.aux-small-left{
+    width: 20px;
+    height: 15px;
+}
+.elementor-90 .elementor-element.elementor-element-8e70d30 .aux-mc-controls .aux-arrow-nav{
+    width: 50px;
+    height: 50px;
+    background-color: #3d3d3d;
+}
+.elementor-90 .elementor-element.elementor-element-8e70d30 .aux-hover-fill:hover{
+    background-color: var(--e-global-color-accent);
+}
+ @media screen and (max-width: 1025px ) and (min-width: 767px ){
+     .elementor-90 .elementor-element.elementor-element-8e70d30 .aux-arrow-nav.aux-round.aux-semi-small{
+    width: 35px;
+    height: 35px;
+     }
+ }
+ .elementor-90 .elementor-element.elementor-element-8e70d30 .portfolio-filter-uncategorized{
+        margin-top:19px!important;
+}
+@media screen and (max-width: 557px ){
+     .elementor-90 .elementor-element.elementor-element-8e70d30  .aux-col{
+   margin-top:-118px;
+}
+}@media screen and (max-width: 557px ){
+     .elementor-90 .elementor-element.elementor-element-8e70d30  .aux-col:first-child {
+   margin-top:0px;
+}
+}
+.elementor-90 .elementor-element.elementor-element-8e70d30 .aux-frame-darken::after{
+  background-color: var(--e-global-color-bc85e5a);
+  content: '';
+  display: block;
+  width: 100%;
+  height: 100%;
+  mix-blend-mode: darken;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.elementor-90 .elementor-element.elementor-element-8e70d30 .aux-hover-circle-plus  .aux-arrow-nav .aux-overlay:after{
+    border-radius:0px;
+    background-color: var(--e-global-color-accent);
+    border: none;
+}/* End custom CSS */
