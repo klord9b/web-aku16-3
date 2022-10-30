@@ -1,0 +1,67 @@
+.elementor-54 .elementor-element.elementor-element-d4e6928 > .elementor-widget-container{margin:0px 0px 48px 0px;}/* Start custom CSS for aux_image, class: .elementor-element-d4e6928 */.elementor-54 .elementor-element.elementor-element-d4e6928 .aux-media-image{
+    overflow: visible;
+}
+
+.elementor-54 .elementor-element.elementor-element-d4e6928 .aux-media-image:before{
+    content:"";
+    width: 86px;
+    height: 86px;
+    position: absolute;
+    bottom:-20px;
+    right: -20px;
+    border: 2px solid var( --e-global-color-primary );
+    z-index: -1;
+}
+
+.elementor-54 .elementor-element.elementor-element-d4e6928 .aux-hover-scale-circle-plus .aux-symbol-circle{
+   width: 71px;
+    height:71px;
+    background-color: var(--e-global-color-primary);
+    border-radius: 0%;
+    border: none;
+}
+.elementor-54 .elementor-element.elementor-element-d4e6928 .aux-hover-scale-circle-plus{
+    bottom: 65px;
+    right: 70px;
+    left:unset;
+    top: unset;
+}
+.elementor-54 .elementor-element.elementor-element-d4e6928 .aux-frame-darken::after {
+    background-color: transparent;
+}
+.elementor-54 .elementor-element.elementor-element-d4e6928 .aux-hover-scale-circle-plus .aux-symbol-plus::before {
+     height: 2px;
+    width: 50%;
+   left: 8px;
+}
+.elementor-54 .elementor-element.elementor-element-d4e6928 .aux-hover-scale-circle-plus .aux-symbol-plus::after {
+     height: 2px;
+    width: 50%;
+   left: 8px;
+}/* End custom CSS */
+/* Start custom CSS for aux_image, class: .elementor-element-75c1030 */.elementor-54 .elementor-element.elementor-element-75c1030 .aux-hover-scale-circle-plus .aux-symbol-circle{
+   width: 71px;
+    height:71px;
+    background-color: var(--e-global-color-primary);
+    border-radius: 0%;
+    border: none;
+}
+.elementor-54 .elementor-element.elementor-element-75c1030 .aux-hover-scale-circle-plus{
+    bottom: 65px;
+    right: 70px;
+    left:unset;
+    top: unset;
+}
+.elementor-54 .elementor-element.elementor-element-75c1030 .aux-frame-darken::after {
+    background-color: transparent;
+}
+.elementor-54 .elementor-element.elementor-element-75c1030 .aux-hover-scale-circle-plus .aux-symbol-plus::before {
+     height: 2px;
+    width: 50%;
+   left: 8px;
+}
+.elementor-54 .elementor-element.elementor-element-75c1030 .aux-hover-scale-circle-plus .aux-symbol-plus::after {
+     height: 2px;
+    width: 50%;
+   left: 8px;
+}/* End custom CSS */
