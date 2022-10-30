@@ -1,0 +1,69 @@
+.elementor-244 .elementor-element.elementor-element-0025895{margin-top:200px;margin-bottom:0px;}.elementor-244 .elementor-element.elementor-element-8b3fcc6 .aux-testimonial-image img{border-radius:100% 100% 100% 100%;overflow:hidden;}.elementor-244 .elementor-element.elementor-element-8b3fcc6 .aux-testimonial-image{margin-top:0px;margin-bottom:0px;}.elementor-244 .elementor-element.elementor-element-8b3fcc6 .col-title a, .elementor-244 .elementor-element.elementor-element-8b3fcc6 .col-title{color:var( --e-global-color-primary );}.elementor-244 .elementor-element.elementor-element-8b3fcc6 .col-title, .elementor-244 .elementor-element.elementor-element-8b3fcc6 .col-title a{font-size:16px;font-weight:600;line-height:1.4em;}.elementor-244 .elementor-element.elementor-element-8b3fcc6 .aux-widget-testimonial:hover .col-title{color:var( --e-global-color-accent );}.elementor-244 .elementor-element.elementor-element-8b3fcc6 .aux-widget-testimonial:hover .col-title a{color:var( --e-global-color-accent );}.elementor-244 .elementor-element.elementor-element-8b3fcc6 .col-title{margin-top:10px;margin-bottom:0px;}.elementor-244 .elementor-element.elementor-element-8b3fcc6 .aux-testimonial-content{color:var( --e-global-color-primary );font-size:18px;font-weight:400;font-style:italic;}.elementor-244 .elementor-element.elementor-element-8b3fcc6 .aux-widget-testimonial:hover .aux-testimonial-content{color:var( --e-global-color-accent );}.elementor-244 .elementor-element.elementor-element-8b3fcc6 .aux-testimonial-content .entry-content{padding:0px 0px 0px 0px;}.elementor-244 .elementor-element.elementor-element-8b3fcc6 .aux-widget-testimonial{text-align:left;border-radius:50px 0px 50px 0px;padding:55px 73px 30px 73px;background-color:var( --e-global-color-accent );box-shadow:0px 11px 35px 0px rgba(43.00000000000003, 97.99999999999991, 192, 0.2);}@media(max-width:767px){.elementor-244 .elementor-element.elementor-element-8b3fcc6 .aux-testimonial-image{margin-top:20px;margin-bottom:0px;}.elementor-244 .elementor-element.elementor-element-8b3fcc6 .aux-testimonial-content{font-size:16px;}.elementor-244 .elementor-element.elementor-element-8b3fcc6 .aux-widget-testimonial{padding:55px 30px 40px 40px;}}/* Start custom CSS for aux_testimonial, class: .elementor-element-8b3fcc6 */@media screen and (min-width:2000px){
+    .elementor-244 .elementor-element.elementor-element-8b3fcc6 .aux-testimonial-image {
+        width: 150px !important;
+        right: 30px;
+        bottom: -70px;
+    }
+}
+.elementor-244 .elementor-element.elementor-element-8b3fcc6 .entry-content::before{
+    content:'';
+    width:78px;
+    height: 78px;
+    background: linear-gradient(180deg, var(--e-global-color-331eb86) 0%, var(--e-global-color-text) 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 8px 10px #0000001A;
+    border-radius: 15px;
+    position: absolute;
+    top: -100px;
+    left: 0;
+}
+.elementor-244 .elementor-element.elementor-element-8b3fcc6 .entry-content:after{
+    content: '';
+    width: 78px;
+    height: 78px;
+    background-color: transparent !important;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='71.99' height='56.285' viewBox='0 0 71.99 56.285'%3E%3Cdefs%3E%3ClinearGradient id='linear-gradient' x1='0.5' x2='0.5' y2='1' gradientUnits='objectBoundingBox'%3E%3Cstop offset='0' stop-color='%232ae5c5'/%3E%3Cstop offset='1' stop-color='%2306b598'/%3E%3C/linearGradient%3E%3Cfilter id='noun_Quote_89663' x='0' y='0' width='71.99' height='56.285' filterUnits='userSpaceOnUse'%3E%3CfeOffset dy='3' input='SourceAlpha'/%3E%3CfeGaussianBlur stdDeviation='5' result='blur'/%3E%3CfeFlood flood-opacity='0.102'/%3E%3CfeComposite operator='in' in2='blur'/%3E%3CfeComposite in='SourceGraphic'/%3E%3C/filter%3E%3C/defs%3E%3Cg transform='matrix(1, 0, 0, 1, 0, 0)' filter='url(/wp-content/uploads/sites/54/elementor/css/%23noun_Quote_89663)'%3E%3Cpath id='noun_Quote_89663-2' data-name='noun_Quote_89663' d='M46.912,38.411a8.454,8.454,0,0,0-7.979-7.139c.98-3.64,3.36-5.086,6.253-5.926a.338.338,0,0,0,.233-.373l-.467-2.893s-.047-.233-.42-.187c-9.986,1.12-16.752,8.726-15.492,17.965,1.167,6.393,6.159,8.866,10.779,8.212a8.508,8.508,0,0,0,7.093-9.659Zm-31.87-7.139c.933-3.64,3.406-5.086,6.253-5.926a.338.338,0,0,0,.233-.373l-.42-2.893s-.047-.233-.42-.187C10.7,22.966,3.983,30.572,5.15,39.811,6.363,46.25,11.4,48.723,15.975,48.07a8.441,8.441,0,0,0,7.046-9.659A8.328,8.328,0,0,0,15.042,31.272Z' transform='translate(9.98 -9.89)' fill='url(/wp-content/uploads/sites/54/elementor/css/%23linear-gradient)'/%3E%3C/g%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    top: -90px;
+}
+.elementor-244 .elementor-element.elementor-element-8b3fcc6 .aux-testimonial-image{
+    width: 140px;
+    position: absolute;
+    right: 30px;
+}
+.elementor-244 .elementor-element.elementor-element-8b3fcc6 .col-title:before{
+    content: '';
+    width: 16px;
+    height: 16px;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='15.382' height='15.012' viewBox='0 0 15.382 15.012'%3E%3Cdefs%3E%3ClinearGradient id='linear-gradient' x1='0.5' y1='1' x2='0.5' gradientUnits='objectBoundingBox'%3E%3Cstop offset='0' stop-color='%232ae5c5'/%3E%3Cstop offset='1' stop-color='%2306b598'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cpath id='Path_2305' data-name='Path 2305' d='M333.922,178.24l.049,15.012h-.543a14.9,14.9,0,0,1-14.838-14.963h0Z' transform='translate(-318.59 -178.24)' fill='url(/wp-content/uploads/sites/54/elementor/css/%23linear-gradient)'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    margin-right: 10px;
+    position: relative;
+    left: 0;
+    top: 0;
+}
+.elementor-244 .elementor-element.elementor-element-8b3fcc6 .aux-widget-testimonial:before{
+    content: '';
+    width: 100%;
+    height: 100%;
+    background: transparent linear-gradient(359deg, var(--e-global-color-primary) 0%, var(--e-global-color-d762115) 100%);
+    border-radius: 50px 0px;
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+    transition: all 250ms ease-in;
+}
+.elementor-244 .elementor-element.elementor-element-8b3fcc6:hover .aux-widget-testimonial:before{
+    opacity: 1;
+}
+.elementor-244 .elementor-element.elementor-element-8b3fcc6 .aux-testimonial-info{
+    position: relative;
+    z-index: 99;
+}/* End custom CSS */
