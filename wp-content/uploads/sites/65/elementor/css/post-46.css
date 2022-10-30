@@ -1,0 +1,84 @@
+.elementor-46 .elementor-element.elementor-element-e3f9fd1 > .elementor-container{max-width:1200px;min-height:32vh;}.elementor-46 .elementor-element.elementor-element-e3f9fd1:not(.elementor-motion-effects-element-type-background), .elementor-46 .elementor-element.elementor-element-e3f9fd1 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("/wp-content/uploads/sites/65/2020/07/watercolour-4799196_1920-1.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-46 .elementor-element.elementor-element-e3f9fd1 > .elementor-background-overlay{background-color:var( --e-global-color-6978a99 );opacity:0.3;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-46 .elementor-element.elementor-element-e3f9fd1{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0px 35px 0px 35px;}.elementor-46 .elementor-element.elementor-element-3e5ec5d .aux-modern-heading-primary{font-size:55px;font-weight:bold;text-transform:capitalize;line-height:1.2em;color:#FFFFFF;max-width:420px;}.elementor-46 .elementor-element.elementor-element-3e5ec5d{animation-duration:3500ms;animation-delay:200ms;animation-timing-function:cubic-bezier(0.77,0,0.175,1);}.elementor-46 .elementor-element.elementor-element-454d3f1{overflow:hidden;margin-top:50px;margin-bottom:100px;padding:0px 35px 0px 35px;}.elementor-46 .elementor-element.elementor-element-11291a6{z-index:9;}.elementor-46 .elementor-element.elementor-element-33932b4 .aux-modern-heading-primary{font-size:50px;font-weight:500;text-transform:capitalize;letter-spacing:0px;color:var( --e-global-color-text );margin:0px 0px 0px 0px;}.elementor-46 .elementor-element.elementor-element-33932b4{animation-duration:2500ms;animation-delay:250ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-46 .elementor-element.elementor-element-7e8fd4d .entry-header .entry-title a{color:var( --e-global-color-text );font-size:30px;font-weight:500;text-transform:capitalize;}.elementor-46 .elementor-element.elementor-element-7e8fd4d .entry-header {margin-bottom:15px;}.elementor-46 .elementor-element.elementor-element-7e8fd4d .entry-tax a{color:rgba(0, 0, 0, 0.6);}.elementor-46 .elementor-element.elementor-element-7e8fd4d .entry-tax{font-size:16px;font-weight:400;font-style:normal;}.elementor-46 .elementor-element.elementor-element-7e8fd4d > .elementor-widget-container{margin:-4% 0% 3% 0%;}.elementor-46 .elementor-element.elementor-element-7e8fd4d{animation-delay:500ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-46 .elementor-element.elementor-element-99ad887 .aux-widget-container{text-align:center;}.elementor-46 .elementor-element.elementor-element-99ad887{position:absolute;top:15%;left:-40%;}@media(max-width:1024px){.elementor-46 .elementor-element.elementor-element-e3f9fd1 > .elementor-container{min-height:25vh;}.elementor-46 .elementor-element.elementor-element-3e5ec5d .aux-modern-heading-primary{font-size:44px;max-width:300px;}.elementor-46 .elementor-element.elementor-element-33932b4 .aux-modern-heading-primary{font-size:42px;}.elementor-46 .elementor-element.elementor-element-7e8fd4d .entry-header .entry-title a{font-size:22px;}.elementor-46 .elementor-element.elementor-element-7e8fd4d .entry-tax{font-size:14px;}.elementor-46 .elementor-element.elementor-element-7e8fd4d > .elementor-widget-container{margin:0% 0% 0% 0%;}.elementor-46 .elementor-element.elementor-element-99ad887{top:30%;}}@media(max-width:767px){.elementor-46 .elementor-element.elementor-element-3e5ec5d .aux-modern-heading-primary{font-size:38px;max-width:250px;}.elementor-46 .elementor-element.elementor-element-33932b4 .aux-modern-heading-primary{font-size:38px;}.elementor-46 .elementor-element.elementor-element-99ad887{left:-30%;}}/* Start custom CSS for aux_recent_portfolios_masonry, class: .elementor-element-7e8fd4d */.elementor-46 .elementor-element.elementor-element-7e8fd4d ul li a{
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--e-global-color-text);
+}
+.elementor-46 .elementor-element.elementor-element-7e8fd4d ul .aux-selected{
+    font-weight: bold;
+}
+.elementor-46 .elementor-element.elementor-element-7e8fd4d .aux-filters.aux-underline span::after{
+    background: var(--e-global-color-primary);
+    height: 2px;
+}
+.elementor-46 .elementor-element.elementor-element-7e8fd4d .entry-main:after{
+    content: '\e1e2';
+    color: #fff;
+    width: 66px;
+    height: 66px;
+    background-color: var(--e-global-color-primary);
+    font-size: 18px;
+    font-family: "auxin-front";
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom: 20px;
+    right: 5%;
+    transition:all 400ms ease-in-out;
+    opacity: 0;
+}
+.elementor-46 .elementor-element.elementor-element-7e8fd4d .aux-col:hover .entry-main:after{
+    opacity: 1;
+    right: calc(0%);
+}
+.elementor-46 .elementor-element.elementor-element-7e8fd4d .entry-media{
+    transition:all 400ms ease-in-out;
+}
+.elementor-46 .elementor-element.elementor-element-7e8fd4d .aux-col:hover .entry-media{
+    box-shadow: rgba(0, 0, 0, 0.2) 10px 20px 50px;
+}
+.elementor-46 .elementor-element.elementor-element-7e8fd4d .aux-filters ul{
+    position: relative;
+    top: -20px;
+}
+.elementor-46 .elementor-element.elementor-element-7e8fd4d .aux-load-more svg{
+    display: none;
+}
+.elementor-46 .elementor-element.elementor-element-7e8fd4d .aux-load-more{
+    width: 228px;
+    height: 65px;
+    border: 1px solid #00000033;
+    border-radius: 0;
+}
+.elementor-46 .elementor-element.elementor-element-7e8fd4d  .aux-load-more .aux-label-text{
+    line-height: 1em !important;
+    padding: 25px 37px 19px 36px;
+    font-family: 'Heebo';
+    font-size: 16px;
+    color: var(--e-global-color-text);
+    text-transform: capitalize !important;
+}
+.elementor-46 .elementor-element.elementor-element-7e8fd4d  .aux-load-more:hover{
+    background-color: var(--e-global-color-6978a99);
+}
+.elementor-46 .elementor-element.elementor-element-7e8fd4d  .aux-load-more:hover .aux-label-text{
+    color: #fff;
+}
+.elementor-46 .elementor-element.elementor-element-7e8fd4d .aux-widget-recent-portfolios .aux-isotope-animated{
+    overflow: initial;
+}
+@media screen and (max-width:900px){
+    .elementor-46 .elementor-element.elementor-element-7e8fd4d .entry-main:after{
+        width:45px;
+        height:45px;
+    }
+    .elementor-46 .elementor-element.elementor-element-7e8fd4d ul li a{
+        font-size: 14px;
+    }
+}/* End custom CSS */
+/* Start custom CSS for aux_simple_svg, class: .elementor-element-99ad887 */.elementor-46 .elementor-element.elementor-element-99ad887{
+    transform: rotate(-100deg);
+}
+.elementor-46 .elementor-element.elementor-element-99ad887 .aux-the-svg{
+    max-width: 85%;
+}/* End custom CSS */
