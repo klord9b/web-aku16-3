@@ -1,0 +1,27 @@
+.elementor-50 .elementor-element.elementor-element-58845f2{margin-top:40px;margin-bottom:40px;padding:0px 35px 0px 35px;}.elementor-bc-flex-widget .elementor-50 .elementor-element.elementor-element-d18fa21.elementor-column .elementor-column-wrap{align-items:center;}.elementor-50 .elementor-element.elementor-element-d18fa21.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-50 .elementor-element.elementor-element-d18fa21.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:space-between;}.elementor-50 .elementor-element.elementor-element-28b5b18{width:auto;max-width:auto;animation-duration:3500ms;animation-delay:250ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-50 .elementor-element.elementor-element-276cdf3{text-align:left;width:auto;max-width:auto;}.elementor-50 .elementor-element.elementor-element-276cdf3 .aux-vertical .aux-menu-depth-0 .aux-item-content{text-align:left;}.elementor-50 .elementor-element.elementor-element-276cdf3 .aux-menu-depth-0 > .aux-item-content{color:rgba(255, 255, 255, 0.3);font-family:"Cormorant", Sans-serif;font-size:70px;font-weight:500;text-transform:capitalize;letter-spacing:-2.1px;padding:20px 0px 20px 0px;}.elementor-50 .elementor-element.elementor-element-276cdf3 .aux-menu-depth-0.aux-hover > .aux-item-content {color:#FFFFFF !important;}.elementor-50 .elementor-element.elementor-element-276cdf3 .aux-menu-depth-0.current-menu-item > a{color:#F5F5F5;}.elementor-50 .elementor-element.elementor-element-276cdf3 .aux-burger:before,  .elementor-50 .elementor-element.elementor-element-276cdf3 .aux-burger:after, .elementor-50 .elementor-element.elementor-element-276cdf3 .aux-burger .mid-line{border-color:var( --e-global-color-text );}.elementor-50 .elementor-element.elementor-element-276cdf3 .aux-offcanvas-menu{background-color:var( --e-global-color-6978a99 );}@media(max-width:1024px){.elementor-50 .elementor-element.elementor-element-276cdf3 .aux-menu-depth-0 > .aux-item-content{font-size:48px;}}@media(max-width:767px){.elementor-50 .elementor-element.elementor-element-28b5b18 .aux-has-logo img{width:90%;}.elementor-50 .elementor-element.elementor-element-276cdf3 .aux-menu-depth-0 > .aux-item-content{font-size:32px;}}/* Start custom CSS for aux_menu_box, class: .elementor-element-276cdf3 */.elementor-50 .elementor-element.elementor-element-276cdf3 .aux-offcanvas-menu{
+    width: 32%;
+}
+.elementor-50 .elementor-element.elementor-element-276cdf3 .offcanvas-content{
+    display: flex;
+    align-items: center;
+    position: relative;
+    top:-5%;
+}
+.elementor-50 .elementor-element.elementor-element-276cdf3 .aux-cross-symbol::before , .elementor-50 .elementor-element.elementor-element-276cdf3 .aux-cross-symbol::after{
+    background-color: #fff;
+    height: 2px;
+    width: 150%;
+}
+.elementor-50 .elementor-element.elementor-element-276cdf3 ul{
+    text-align: right;
+}
+.elementor-50 .elementor-element.elementor-element-276cdf3 .aux-offcanvas-menu.aux-pin-right .aux-close{
+    float: right;
+    margin: 10% 20%;
+}
+
+@media screen and (max-width:900px){
+    .elementor-50 .elementor-element.elementor-element-276cdf3 .aux-offcanvas-menu{
+        width: 50%;
+    }
+}/* End custom CSS */
