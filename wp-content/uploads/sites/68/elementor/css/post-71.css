@@ -1,0 +1,52 @@
+.elementor-71 .elementor-element.elementor-element-d03570e{padding:55px 0px 120px 0px;}.elementor-71 .elementor-element.elementor-element-3d525cf.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:center;}.elementor-71 .elementor-element.elementor-element-b2bab2b .aux-widget-container{text-align:center;}.elementor-71 .elementor-element.elementor-element-b2bab2b{z-index:2;position:absolute;top:-55px;}.elementor-71 .elementor-element.elementor-element-38add16 .aux-testimonial-image img{border-style:solid;border-width:4px 4px 4px 4px;border-color:#FFFFFF;border-radius:100% 100% 100% 100%;overflow:hidden;}.elementor-71 .elementor-element.elementor-element-38add16 .col-title a, .elementor-71 .elementor-element.elementor-element-38add16 .col-title{color:var( --e-global-color-primary );}.elementor-71 .elementor-element.elementor-element-38add16 .col-title, .elementor-71 .elementor-element.elementor-element-38add16 .col-title a{font-family:"Roboto", Sans-serif;font-size:28px;font-weight:bold;line-height:1.07em;}.elementor-71 .elementor-element.elementor-element-38add16 .col-subtitle{color:var( --e-global-color-secondary );font-size:22px;line-height:1.36em;}.elementor-71 .elementor-element.elementor-element-38add16 .aux-testimonial-content{color:var( --e-global-color-text );font-size:24px;line-height:1.375em;}.elementor-71 .elementor-element.elementor-element-38add16 .aux-widget-testimonial{text-align:center;border-radius:25px 25px 25px 25px;padding:150px 50px 20px 50px;background-color:#FFFFFF;box-shadow:0px 10px 30px 0px rgba(0, 0, 0, 0.10196078431372549);border-style:solid;border-width:0px 0px 0px 0px;}.elementor-71 .elementor-element.elementor-element-38add16{z-index:1;max-width:786px;}@media(max-width:1024px){.elementor-71 .elementor-element.elementor-element-b2bab2b .aux-the-svg{width:80%;}.elementor-71 .elementor-element.elementor-element-38add16 .col-title, .elementor-71 .elementor-element.elementor-element-38add16 .col-title a{font-size:20px;}.elementor-71 .elementor-element.elementor-element-38add16 .col-title{margin-top:-20px;margin-bottom:0px;}.elementor-71 .elementor-element.elementor-element-38add16 .col-subtitle{font-size:16px;}.elementor-71 .elementor-element.elementor-element-38add16 .aux-testimonial-content{font-size:18px;}.elementor-71 .elementor-element.elementor-element-38add16 .aux-widget-testimonial{padding:70px 20px 10px 20px;}}/* Start custom CSS for aux_simple_svg, class: .elementor-element-b2bab2b */.elementor-71 .elementor-element.elementor-element-b2bab2b .aux-the-svg img {
+    padding: 44px 40px 44px 41px ;
+}
+
+@media only screen and (max-width:1024px){
+    .elementor-71 .elementor-element.elementor-element-b2bab2b .aux-the-svg img {
+    padding: 22px 20px 22px 21px;}
+}
+.elementor-71 .elementor-element.elementor-element-b2bab2b .aux-the-svg {
+    border-radius: 100px 100px 100px 100px;
+    box-shadow: 0px 10px 20px 0px rgb(255 209 0 / 30%);
+    border-style: solid;
+    border-width: 4px 4px 4px 4px;
+    border-color: #FFFFFF;
+    background-color: #FFD100BD;
+}/* End custom CSS */
+/* Start custom CSS for aux_testimonial, class: .elementor-element-38add16 */.elementor-71 .elementor-element.elementor-element-38add16 .aux-widget-testimonial{
+    display: flex;
+    flex-direction: column-reverse;
+}
+.elementor-71 .elementor-element.elementor-element-38add16 .aux-widget-testimonial.aux-testimonial-image-top .aux-testimonial-infobox{
+    margin-top: 50px
+}
+
+
+.elementor-71 .elementor-element.elementor-element-38add16 .entry-content{
+    max-width:616px 
+}
+.elementor-71 .elementor-element.elementor-element-38add16 .aux-testimonial-content {
+    margin: 0 auto;
+}
+.elementor-71 .elementor-element.elementor-element-38add16 .aux-widget-testimonial:before{
+    content: '';
+    width: 82%;
+    height: 90%;
+    border-radius: 25px;
+    box-shadow: 0px 10px 30px #0000001A;
+    top: 80px;
+    left: 9%;
+    position: absolute;
+    background-color: #ffffff;
+    z-index: -1;
+}
+
+@media only screen and (max-width:1024px){
+     .elementor-71 .elementor-element.elementor-element-38add16 .aux-widget-testimonial:before{
+         top:50px;
+     }
+ }
+ .elementor-71 .elementor-element.elementor-element-38add16 .aux-widget-testimonial.aux-testimonial-image-top{
+     margin-top: 0;
+ }/* End custom CSS */
