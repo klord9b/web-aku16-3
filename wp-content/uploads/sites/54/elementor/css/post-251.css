@@ -1,0 +1,31 @@
+.elementor-251 .elementor-element.elementor-element-9eda245{margin-top:50px;margin-bottom:0px;padding:0px 35px 0px 35px;}.elementor-251 .elementor-element.elementor-element-df02840 .aux-media-image{border-radius:0px 80px 0px 120px !important;}.elementor-251 .elementor-element.elementor-element-df02840 .entry-header .entry-title a{color:var( --e-global-color-accent );font-size:28px;font-weight:600;text-transform:capitalize;}.elementor-251 .elementor-element.elementor-element-df02840 .entry-tax a{color:#FFFFFF99;}.elementor-251 .elementor-element.elementor-element-df02840 .entry-tax{font-size:18px;font-weight:400;text-transform:capitalize;font-style:normal;letter-spacing:0.54px;}.elementor-251 .elementor-element.elementor-element-df02840 .aux-iso-item{margin-bottom:30px !important;}.elementor-251 .elementor-element.elementor-element-df02840{animation-timing-function:cubic-bezier(0.25,0.46,0.45,0.94);}@media(max-width:1024px){.elementor-251 .elementor-element.elementor-element-df02840 .entry-header .entry-title a{font-size:24px;}}@media(max-width:767px){.elementor-251 .elementor-element.elementor-element-df02840 .entry-header .entry-title a{font-size:20px;}.elementor-251 .elementor-element.elementor-element-df02840 .entry-tax{font-size:15px;}}/* Start custom CSS for aux_recent_portfolios_grid, class: .elementor-element-df02840 */.elementor-251 .elementor-element.elementor-element-df02840 .entry-header{
+    min-width: 100%;
+}
+.elementor-251 .elementor-element.elementor-element-df02840 .aux-mc-item{
+    z-index: 99;
+}
+.elementor-251 .elementor-element.elementor-element-df02840 .entry-main{
+    background: transparent linear-gradient(0deg, var(--e-global-color-primary) 0%, var(--e-global-color-d762115) 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 13px 11px #FFE04633;
+    border-radius: 0px 50px;
+    display: inline-block;
+    padding: 30px 50px 20px 40px;
+    position: absolute;
+    right: -15%;
+    bottom: 10%;
+}
+.elementor-251 .elementor-element.elementor-element-df02840 article{
+    margin: 0 10%;
+}
+.elementor-251 .elementor-element.elementor-element-df02840 .wpulike{
+    display: none;
+}
+@media screen and (max-width:767px){
+   .elementor-251 .elementor-element.elementor-element-df02840 .entry-main{
+       padding:15px 30px 10px 20px !important;
+       right:-18%
+   } 
+   .elementor-251 .elementor-element.elementor-element-df02840 .aux-media-image {
+    border-radius: 0px 60px 0px 80px !important;
+    }
+}/* End custom CSS */
