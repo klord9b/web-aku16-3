@@ -1,0 +1,51 @@
+.elementor-36 .elementor-element.elementor-element-c0abe7d{margin-top:0px;margin-bottom:0px;padding:32px 35px 32px 35px;}.elementor-bc-flex-widget .elementor-36 .elementor-element.elementor-element-93b47be.elementor-column .elementor-column-wrap{align-items:center;}.elementor-36 .elementor-element.elementor-element-93b47be.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-36 .elementor-element.elementor-element-93b47be.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:space-between;}.elementor-36 .elementor-element.elementor-element-d8ca551{width:auto;max-width:auto;}.elementor-bc-flex-widget .elementor-36 .elementor-element.elementor-element-144cc8e.elementor-column .elementor-column-wrap{align-items:center;}.elementor-36 .elementor-element.elementor-element-144cc8e.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-36 .elementor-element.elementor-element-144cc8e.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:flex-end;}.elementor-36 .elementor-element.elementor-element-0cb11ae .aux-icon-list-item, .elementor-36 .elementor-element.elementor-element-0cb11ae .aux-icon-list-items{justify-content:center;text-align:center;}.elementor-36 .elementor-element.elementor-element-0cb11ae .aux-direction-horizontal{align-items:center;}.elementor-36 .elementor-element.elementor-element-0cb11ae .aux-icon-list-item{align-items:center;padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;}.elementor-36 .elementor-element.elementor-element-0cb11ae .aux-icon-list-text{font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:400;line-height:25px;margin:0px 52px 0px 0px;}.elementor-36 .elementor-element.elementor-element-0cb11ae .aux-icon-list-text2{margin:0px 0px 0px 0px;}.elementor-36 .elementor-element.elementor-element-0cb11ae .aux-icon-list-icon{color:#24af29;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;line-height:0;}.elementor-36 .elementor-element.elementor-element-0cb11ae{width:auto;max-width:auto;}.elementor-36 .elementor-element.elementor-element-1fb3369{text-align:left;width:auto;max-width:auto;}.elementor-36 .elementor-element.elementor-element-1fb3369 .aux-vertical .aux-menu-depth-0 .aux-item-content{text-align:left;}.elementor-36 .elementor-element.elementor-element-1fb3369 .aux-fs-menu .aux-menu-item > .aux-item-content{color:#FFFFFF33;font-family:"Poppins", Sans-serif;font-size:40px;font-weight:bold;text-transform:capitalize;line-height:55px;padding:10px 0px 10px 0px;}.elementor-36 .elementor-element.elementor-element-1fb3369 .aux-fs-menu .aux-master-menu{text-align:right;}.elementor-36 .elementor-element.elementor-element-1fb3369 > .elementor-widget-container{margin:0px 0px 0px 35px;}/* Start custom CSS for aux_icon_list, class: .elementor-element-0cb11ae */.elementor-36 .elementor-element.elementor-element-0cb11ae ul {
+    margin-top: 0
+}/* End custom CSS */
+/* Start custom CSS for aux_menu_box, class: .elementor-element-1fb3369 */.elementor-36 .elementor-element.elementor-element-1fb3369 .aux-fs-menu:before{
+	content:'';
+	width:965px;
+	height:965px;
+   background-color: transparent;
+   background-image: linear-gradient(360deg, rgba(26,26,26,0.20) 10%, rgba(33,33,33,0.50) 100%);
+	position:absolute;
+	border-radius:50%;
+	top:-105px;
+	right:-300px;
+	z-index:0;
+} 
+.elementor-36 .elementor-element.elementor-element-1fb3369 .aux-fs-menu:after{
+	content:'';
+	width:965px;
+	height:965px;
+   background-color: transparent;
+    background-image: linear-gradient(360deg, rgba(26,26,26,0.20) 0%, rgba(33,33,33,0.50) 100%);
+	position:absolute;
+	border-radius:50%;
+	top:350px;
+	left:-250px;
+	z-index:0;
+} 
+ .elementor-36 .elementor-element.elementor-element-1fb3369 .aux-fs-menu{
+	max-width:1675px;
+	overflow: visible;
+	padding: 0 35px;
+}
+ .elementor-36 .elementor-element.elementor-element-1fb3369 .aux-fs-popup .aux-panel-close{
+	  border: none;
+	  width: 40px;
+    height: 40px;
+	  right: 135px;
+    top:40px;
+}
+
+.elementor-36 .elementor-element.elementor-element-1fb3369 .aux-fs-menu .aux-master-menu .aux-menu-item {
+    text-align: right;
+}
+.elementor-36 .elementor-element.elementor-element-1fb3369 .aux-menu-item.current-menu-item a {
+     color: #2C63E2 !important;
+ }
+ 
+ .elementor-36 .elementor-element.elementor-element-1fb3369 .aux-panel-close .aux-close:before,
+  .elementor-36 .elementor-element.elementor-element-1fb3369 .aux-panel-close .aux-close:after{
+     background-color: #FFF;
+ }/* End custom CSS */
