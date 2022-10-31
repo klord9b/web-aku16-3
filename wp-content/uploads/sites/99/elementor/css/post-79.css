@@ -1,0 +1,27 @@
+.elementor-79 .elementor-element.elementor-element-9234a74 > .elementor-container{max-width:900px;}.elementor-79 .elementor-element.elementor-element-9234a74{padding:35px 0px 0px 0px;}.elementor-79 .elementor-element.elementor-element-dc09439 .aux-widget-testimonial .aux-testimonial-image{width:112px;}.elementor-79 .elementor-element.elementor-element-dc09439 .aux-testimonial-image img{border-radius:100% 100% 100% 100%;overflow:hidden;}.elementor-79 .elementor-element.elementor-element-dc09439 .col-title, .elementor-79 .elementor-element.elementor-element-dc09439 .col-title a{font-size:20px;font-weight:bold;letter-spacing:-0.6px;}.elementor-79 .elementor-element.elementor-element-dc09439 .col-subtitle{color:rgba(255, 255, 255, 0.7) !important;font-family:"Raleway", Sans-serif;font-size:16px;font-weight:400;letter-spacing:-0.48px;margin-bottom:40px;}.elementor-79 .elementor-element.elementor-element-dc09439 .aux-testimonial-content{font-family:"Raleway", Sans-serif;font-size:27px;font-weight:600;}.elementor-79 .elementor-element.elementor-element-dc09439 .aux-widget-testimonial{text-align:center;}@media(max-width:767px){.elementor-79 .elementor-element.elementor-element-dc09439 .col-title, .elementor-79 .elementor-element.elementor-element-dc09439 .col-title a{font-size:16px;}.elementor-79 .elementor-element.elementor-element-dc09439 .col-subtitle{font-size:14px;}.elementor-79 .elementor-element.elementor-element-dc09439 .aux-testimonial-content{font-size:16px;}.elementor-79 .elementor-element.elementor-element-dc09439 .aux-testimonial-content .entry-content{margin-top:40px;margin-bottom:0px;padding:15px 0px 0px 0px;}}/* Start custom CSS for aux_testimonial, class: .elementor-element-dc09439 */.elementor-79 .elementor-element.elementor-element-dc09439 .entry-content {
+    margin-bottom: 0 !important;
+}
+
+.elementor-79 .elementor-element.elementor-element-dc09439 .entry-content:before {
+    top: -60px !important;
+    left: 50% !important;
+    font-size: 70px !important;
+    color: var( --auxin-featured-color-1 )
+}
+
+.elementor-79 .elementor-element.elementor-element-dc09439 .entry-content:after {
+    display: none;
+}
+
+.elementor-79 .elementor-element.elementor-element-dc09439 .aux-testimonial-infobox, .elementor-79 .elementor-element.elementor-element-dc09439 .aux-testimonial-image {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+@media only screen and (max-width: 768px) {
+    .elementor-79 .elementor-element.elementor-element-dc09439 .entry-content:before {
+        left: 40% !important;
+    }
+}/* End custom CSS */
