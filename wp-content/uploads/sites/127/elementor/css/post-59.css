@@ -1,0 +1,60 @@
+.elementor-59 .elementor-element.elementor-element-45bda62:not(.elementor-motion-effects-element-type-background), .elementor-59 .elementor-element.elementor-element-45bda62 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-50f502d );}.elementor-59 .elementor-element.elementor-element-45bda62{border-style:solid;border-width:1px 0px 0px 0px;border-color:#EAEAEA;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:80px 39.5px 50px 39.5px;}.elementor-59 .elementor-element.elementor-element-45bda62 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-59 .elementor-element.elementor-element-7955f17 .widget-content{color:#FFFFFF !important;font-family:"Roboto", Sans-serif;font-weight:400;margin-top:0px;}.elementor-59 .elementor-element.elementor-element-7955f17 .aux-widget-text .aux-text-widget-content{padding:0px 0px 0px 0px;}.elementor-59 .elementor-element.elementor-element-7955f17 .aux-widget-advanced-text{text-align:left !important;padding:0px 0px 0px 0px;}.elementor-59 .elementor-element.elementor-element-7955f17 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-59 .elementor-element.elementor-element-06b4ad8 .aux-modern-heading-primary{font-family:"Roboto", Sans-serif;font-size:16px;font-weight:500;letter-spacing:2px;color:#FFFFFF;margin:0px 0px 10px 0px;}.elementor-59 .elementor-element.elementor-element-9f028ad .aux-modern-heading-primary{font-family:"Roboto", Sans-serif;font-size:16px;font-weight:500;letter-spacing:2px;color:#FFFFFF;margin:0px 0px 10px 0px;}.elementor-59 .elementor-element.elementor-element-1e42df8 .aux-modern-heading-primary{font-family:"Roboto", Sans-serif;font-size:16px;font-weight:500;letter-spacing:2px;color:#FFFFFF;margin:0px 0px 10px 0px;}.elementor-59 .elementor-element.elementor-element-7a8dbfb:not(.elementor-motion-effects-element-type-background), .elementor-59 .elementor-element.elementor-element-7a8dbfb > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-50f502d );}.elementor-59 .elementor-element.elementor-element-7a8dbfb{border-style:solid;border-width:1px 0px 0px 0px;border-color:#555555;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:15px 39.5px 15px 39.5px;}.elementor-59 .elementor-element.elementor-element-7a8dbfb > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-bc-flex-widget .elementor-59 .elementor-element.elementor-element-6264b10.elementor-column .elementor-column-wrap{align-items:center;}.elementor-59 .elementor-element.elementor-element-6264b10.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-59 .elementor-element.elementor-element-6264b10.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:space-between;}.elementor-59 .elementor-element.elementor-element-7956d8e small{color:var( --e-global-color-44ac725e );font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-59 .elementor-element.elementor-element-7956d8e{width:auto;max-width:auto;}.elementor-59 .elementor-element.elementor-element-fbcf6e5{--grid-template-columns:repeat(0, auto);--icon-size:16px;--grid-column-gap:1px;--grid-row-gap:0px;width:auto;max-width:auto;}.elementor-59 .elementor-element.elementor-element-fbcf6e5 .elementor-widget-container{text-align:right;}.elementor-59 .elementor-element.elementor-element-fbcf6e5 .elementor-social-icon{background-color:#00000000;}.elementor-59 .elementor-element.elementor-element-fbcf6e5 .elementor-social-icon i{color:#CCCCCC;}.elementor-59 .elementor-element.elementor-element-fbcf6e5 .elementor-social-icon svg{fill:#CCCCCC;}.elementor-59 .elementor-element.elementor-element-fbcf6e5 .elementor-social-icon:hover i{color:#505050;}.elementor-59 .elementor-element.elementor-element-fbcf6e5 .elementor-social-icon:hover svg{fill:#505050;}@media(max-width:1024px) and (min-width:768px){.elementor-59 .elementor-element.elementor-element-6aeb079{width:33%;}.elementor-59 .elementor-element.elementor-element-8c6eb54{width:33%;}.elementor-59 .elementor-element.elementor-element-01a02bc{width:33%;}.elementor-59 .elementor-element.elementor-element-794c6fe{width:33%;}}/* Start custom CSS for wp-widget-categories, class: .elementor-element-b8ae4ea */.elementor-59 .elementor-element.elementor-element-b8ae4ea li a {
+    font-size: 14px;
+    font-family: "Roboto";
+    font-weight: 300;
+    text-transform: capitalize;
+    color: #fff;
+}
+.elementor-59 .elementor-element.elementor-element-b8ae4ea h5 {
+    display: none;
+}
+.elementor-59 .elementor-element.elementor-element-b8ae4ea ul, .elementor-59 .elementor-element.elementor-element-b8ae4ea li {
+    margin: 0;
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-45bda62 */.elementor-59 .elementor-element.elementor-element-45bda62 .widget-title {
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 500 !important;
+  line-height: 19px;
+  margin-bottom: 40px;
+}
+.elementor-59 .elementor-element.elementor-element-45bda62 .media-land {
+  display: table;
+  border: none;
+  margin-bottom: 1.5625em;
+  padding-bottom: 0;
+  padding-top : 0;
+}
+.elementor-59 .elementor-element.elementor-element-45bda62 .media-land .entry-media {
+  display: table-cell;
+  float: none;
+  width: auto;
+}
+.elementor-59 .elementor-element.elementor-element-45bda62 .media-land .entry-info {
+  display: table-cell;
+  vertical-align: middle;
+  padding-left: 20px;
+}
+.elementor-59 .elementor-element.elementor-element-45bda62 .media-land .entry-title {
+  font-size: 14px;
+  font-family: "Roboto";
+  font-weight: 300;
+  color: #fff;
+}
+.elementor-59 .elementor-element.elementor-element-45bda62 li a {
+  font-size: 14px;
+  font-family: "Roboto";
+  font-weight: 300;
+  text-transform: capitalize;
+}
+
+.elementor-59 .elementor-element.elementor-element-45bda62 .entry-content time {
+    color: #BBB;
+    font-style: italic;
+    font-size: 0.875em;
+    font-weight: 400;
+    line-height: 19px;
+}/* End custom CSS */
+/* Start custom CSS for column, class: .elementor-element-6264b10 */.elementor-59 .elementor-element.elementor-element-6264b10 {
+    min-height: 60px;
+}/* End custom CSS */
