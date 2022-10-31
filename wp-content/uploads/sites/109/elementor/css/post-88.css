@@ -1,0 +1,33 @@
+.elementor-88 .elementor-element.elementor-element-d65dae2{margin-top:200px;margin-bottom:0px;padding:0px 35px 0px 35px;}.elementor-88 .elementor-element.elementor-element-4ffa02a .aux-modern-heading-primary{font-size:50px;font-weight:800;text-transform:capitalize;letter-spacing:-1px;color:var( --e-global-color-text );}.elementor-88 .elementor-element.elementor-element-4ffa02a .aux-modern-heading-secondary{font-size:50px;line-height:0.4em;}.elementor-88 .elementor-element.elementor-element-4ffa02a{animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-88 .elementor-element.elementor-element-24d4037 .aux-filters:not(.aux-slideup) li > a span, .elementor-88 .elementor-element.elementor-element-24d4037 .aux-filters.aux-slideup li > a span:before{color:rgba(255, 255, 255, 0.52);}.elementor-88 .elementor-element.elementor-element-24d4037 .aux-filters li > a{font-size:16px;font-weight:400;text-transform:capitalize;}.elementor-88 .elementor-element.elementor-element-24d4037 .aux-filters li > a.aux-selected span:after, .elementor-88 .elementor-element.elementor-element-24d4037 .aux-filters:not(.aux-slideup) li > a.aux-selected span{color:var( --e-global-color-text );}.elementor-88 .elementor-element.elementor-element-24d4037 .aux-media-image{border-radius:25px 25px 25px 25px !important;}.elementor-88 .elementor-element.elementor-element-24d4037 .entry-header .entry-title a{color:var( --e-global-color-text );font-size:60px;font-weight:800;line-height:1.1em;letter-spacing:-1.2px;}.elementor-88 .elementor-element.elementor-element-24d4037 .entry-tax a{color:var( --e-global-color-text );}.elementor-88 .elementor-element.elementor-element-24d4037 .entry-tax{font-size:14px;font-weight:300;text-transform:capitalize;font-style:normal;letter-spacing:2.14px;}.elementor-88 .elementor-element.elementor-element-24d4037 .entry-main{padding:190px 70px 33px 33px !important;border-style:solid;border-width:2px 2px 2px 2px;border-color:var( --e-global-color-text );}.elementor-88 .elementor-element.elementor-element-24d4037 .aux-iso-item{margin-bottom:30px !important;}.elementor-88 .elementor-element.elementor-element-24d4037{animation-delay:200ms;animation-timing-function:cubic-bezier(0.25,0.46,0.45,0.94);}@media(max-width:1024px){.elementor-88 .elementor-element.elementor-element-4ffa02a .aux-modern-heading-primary{font-size:40px;}.elementor-88 .elementor-element.elementor-element-24d4037 .entry-header .entry-title a{font-size:36px;}.elementor-88 .elementor-element.elementor-element-24d4037 .entry-main{padding:170px 20px 33px 33px !important;}}@media(max-width:767px){.elementor-88 .elementor-element.elementor-element-4ffa02a .aux-modern-heading-primary{font-size:30px;}.elementor-88 .elementor-element.elementor-element-24d4037 .aux-filters li > a{font-size:14px;}}/* Start custom CSS for aux_recent_portfolios_grid, class: .elementor-element-24d4037 */.elementor-88 .elementor-element.elementor-element-24d4037 .entry-main{
+    position:relative;
+    bottom: 170px;
+    margin: 0 30px;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column-reverse;
+}
+.elementor-88 .elementor-element.elementor-element-24d4037 .aux-col:hover .entry-title a , .elementor-88 .elementor-element.elementor-element-24d4037 .aux-col:hover .entry-tax a{
+    color: var(--e-global-color-accent) !important;
+}
+.elementor-88 .elementor-element.elementor-element-24d4037 .aux-col:hover .entry-main{
+    border: 2px solid var(--e-global-color-accent);
+}
+.elementor-88 .elementor-element.elementor-element-24d4037 .aux-col:hover .entry-main:after{
+    content: '';
+    width: 40px;
+    height: 22px;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='23.146' height='19.839' viewBox='0 0 23.146 19.839'%3E%3Cpath id='left-arrow' d='M9.926,0,0,9.92l9.923,9.92,1.169-1.166L3.164,10.746H23.146V9.093H3.164L11.1,1.162Z' transform='translate(23.146 19.839) rotate(180)' fill='%23FFCA1A'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    position: absolute;
+    bottom: -13%;
+}
+@media screen and (max-width:900px){
+    .elementor-88 .elementor-element.elementor-element-24d4037 .entry-main{
+        bottom: 100px;
+        padding: 90px 20px 20px 33px !important;
+    }
+    .elementor-88 .elementor-element.elementor-element-24d4037 .entry-header .entry-title a{
+        font-size:28px;
+    }
+
+}/* End custom CSS */
