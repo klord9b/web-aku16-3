@@ -1,0 +1,22 @@
+.elementor-56 .elementor-element.elementor-element-416dc88 .col-title a, .elementor-56 .elementor-element.elementor-element-416dc88 .col-title{color:var( --e-global-color-text );}.elementor-56 .elementor-element.elementor-element-416dc88 .col-title, .elementor-56 .elementor-element.elementor-element-416dc88 .col-title a{font-size:18px;font-weight:500;}.elementor-56 .elementor-element.elementor-element-416dc88 .aux-staff-content .col-title{margin-top:0px;}.elementor-56 .elementor-element.elementor-element-416dc88 .aux-staff-content  .col-title{margin-bottom:0px;}.elementor-56 .elementor-element.elementor-element-416dc88 .entry-content{color:var( --e-global-color-text );font-size:16px;font-weight:bold;line-height:1.7em;margin-bottom:15px;}.elementor-56 .elementor-element.elementor-element-416dc88 .aux-widget-staff > div{padding:27px 27px 35px 27px;}.elementor-56 .elementor-element.elementor-element-416dc88 .aux-widget-staff .aux-staff-content{padding:22px 0px 0px 0px;}.elementor-56 .elementor-element.elementor-element-416dc88 > .elementor-widget-container{background-color:#FFFFFF;border-style:solid;border-width:1px 1px 1px 1px;border-color:#E2E4E8;border-radius:10px 10px 10px 10px;}.elementor-56 .elementor-element.elementor-element-416dc88:hover .elementor-widget-container{background-color:#1D293F;}@media(max-width:1024px){.elementor-56 .elementor-element.elementor-element-416dc88 .col-title, .elementor-56 .elementor-element.elementor-element-416dc88 .col-title a{font-size:17px;}.elementor-56 .elementor-element.elementor-element-416dc88 .entry-content{font-size:15px;}}@media(max-width:767px){.elementor-56 .elementor-element.elementor-element-416dc88 .col-title, .elementor-56 .elementor-element.elementor-element-416dc88 .col-title a{font-size:15px;}}/* Start custom CSS for aux_staff, class: .elementor-element-416dc88 */.elementor-56 .elementor-element.elementor-element-416dc88 .aux-staff-content{
+    display: flex;
+    flex-direction: column-reverse;
+}
+.elementor-56 .elementor-element.elementor-element-416dc88 .aux-staff-header{
+    width: 48px;
+    height: 48px;
+}
+.elementor-56 .elementor-element.elementor-element-416dc88 .elementor-widget-container , .elementor-56 .elementor-element.elementor-element-416dc88 .entry-content , .elementor-56 .elementor-element.elementor-element-416dc88 .col-title{
+    transition: all 250ms ease-in;
+}
+.elementor-56 .elementor-element.elementor-element-416dc88:hover .entry-content , .elementor-56 .elementor-element.elementor-element-416dc88:hover .col-title{
+    color: var(--e-global-color-88f65ef);
+}
+@media screen and (max-width:767px){
+    .elementor-56 .elementor-element.elementor-element-416dc88 .aux-staff-content{
+        text-align:center;
+    }
+    .elementor-56 .elementor-element.elementor-element-416dc88 .aux-staff-header{
+        margin:0 auto;
+    }
+}/* End custom CSS */
