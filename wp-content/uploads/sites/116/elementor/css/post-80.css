@@ -1,0 +1,72 @@
+.elementor-80 .elementor-element.elementor-element-a867563 > .elementor-container{max-width:1281px;}.elementor-80 .elementor-element.elementor-element-d450ac0{animation-timing-function:cubic-bezier(0.25,0.46,0.45,0.94);}.elementor-80 .elementor-element.elementor-element-52c6c58c .aux-widget-inner > *{text-align:center;margin-left:auto !important;margin-right:auto !important;}.elementor-80 .elementor-element.elementor-element-52c6c58c .aux-modern-heading-primary{font-family:"Lato", Lato;font-size:17px;font-weight:bold;line-height:21px;letter-spacing:0.6px;color:rgba(35,35,35,0.5);margin:0px 0px 25px 0px;}.elementor-80 .elementor-element.elementor-element-52c6c58c .aux-modern-heading-description{color:#232323;font-family:"Merriweather", Lato;font-size:53px;line-height:66px;margin:0px 0px 0px 0px;}.elementor-80 .elementor-element.elementor-element-52c6c58c > .elementor-widget-container{margin:90px 0px 0px 0px;}.elementor-80 .elementor-element.elementor-element-52c6c58c{animation-delay:150ms;animation-timing-function:cubic-bezier(0.25,0.46,0.45,0.94);}.elementor-80 .elementor-element.elementor-element-4ec7a90c{text-align:center;color:#8B8B8B;font-family:"Lato", Lato;font-size:19px;font-weight:400;line-height:31px;animation-delay:300ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-80 .elementor-element.elementor-element-4ec7a90c > .elementor-widget-container{margin:43px 0px 0px 0px;padding:0px 30px 0px 30px;}.elementor-80 .elementor-element.elementor-element-d3ad1f2 input:not([type="submit"]){transition:all ease-out 0.3s;}.elementor-80 .elementor-element.elementor-element-d3ad1f2 input[type="text"]{transition:all ease-out 0.3s;}.elementor-80 .elementor-element.elementor-element-d3ad1f2 input[type="email"]{transition:all ease-out 0.3s;}.elementor-80 .elementor-element.elementor-element-d3ad1f2 select{transition:all ease-out 0.3s;}.elementor-80 .elementor-element.elementor-element-d3ad1f2 textarea{transition:all ease-out 0.3s;}.elementor-80 .elementor-element.elementor-element-d3ad1f2 input[type="submit"]{transition:all ease-out 0.3s;}.elementor-80 .elementor-element.elementor-element-d3ad1f2 > .elementor-widget-container{margin:70px 0px 0px 0px;}.elementor-80 .elementor-element.elementor-element-d3ad1f2{animation-delay:450ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}@media(max-width:1024px){.elementor-80 .elementor-element.elementor-element-52c6c58c .aux-modern-heading-primary{font-size:15px;}.elementor-80 .elementor-element.elementor-element-52c6c58c .aux-modern-heading-description{font-size:33px;line-height:46px;}.elementor-80 .elementor-element.elementor-element-4ec7a90c{font-size:17px;line-height:26px;}}/* Start custom CSS for aux_modern_heading, class: .elementor-element-52c6c58c */.elementor-80 .elementor-element.elementor-element-52c6c58c .aux-modern-heading-primary:before{
+    content: '';
+    width: 30px;
+    height: 2px;
+    background: #707070;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 13.5px;
+}/* End custom CSS */
+/* Start custom CSS for aux_contact_form, class: .elementor-element-d3ad1f2 */.elementor-80 .elementor-element.elementor-element-d3ad1f2 .aux-modern-form {
+  max-width: 959px;
+  margin: 30px auto 0;
+  text-align: center;
+}
+.elementor-80 .elementor-element.elementor-element-d3ad1f2 .aux-modern-form .aux-input-group {
+  margin-bottom: 30px;
+}
+.elementor-80 .elementor-element.elementor-element-d3ad1f2 .aux-modern-form .aux-row:first-child{
+    margin-bottom: 60px;
+}
+.elementor-80 .elementor-element.elementor-element-d3ad1f2 .aux-modern-form .aux-input-group label {
+  left: 15px;
+  top: 5px;
+  color: #393939;
+  font-family: Lato;
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 26px;
+}
+.elementor-80 .elementor-element.elementor-element-d3ad1f2 .aux-modern-form .aux-input-group.aux-focused .aux-modern-form-border {
+  height: 1px;
+  box-shadow: none;
+  background-color:#232323;
+}
+.elementor-80 .elementor-element.elementor-element-d3ad1f2 .aux-modern-form input {
+  margin-bottom: 10px;
+  padding: 15px 0;
+}
+.elementor-80 .elementor-element.elementor-element-d3ad1f2 .aux-modern-form textarea {
+  margin: 0;
+  min-height: 100px;
+}
+.elementor-80 .elementor-element.elementor-element-d3ad1f2 .aux-modern-form .aux-modern-form-border {
+  background-color: #393939;
+  height: 1px;
+} 
+.elementor-80 .elementor-element.elementor-element-d3ad1f2 .aux-button{
+    margin-top: 40px;
+    border-radius: 0;
+    background-color: #232323;
+}
+.elementor-80 .elementor-element.elementor-element-d3ad1f2 .wpcf7-response-output{
+    position: fixed;
+    left: 30px;
+    bottom: 30px;
+    z-index: 99;
+    vertical-align: middle;
+    line-height: 40px;
+    background: #fff;
+    font-weight: 500;
+    padding: 10px 20px !important;
+    border-radius: 6px;
+    animation: auxHideAlert 10s forwards;
+    list-style: none;
+} 
+@keyframes auxHideAlert {
+    0%   {opacity: 0;}
+    10%  {opacity: 1;}
+    90%  {opacity: 1;}
+    100% {opacity: 0; display: none; }
+}/* End custom CSS */
