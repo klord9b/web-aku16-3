@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="152" height="152" viewBox="0 0 152 152">
+  <defs>
+    <filter id="about_us_-_chart" x="0" y="0" width="152" height="152" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#fe346e" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="about_us_-_chart-2" data-name="about us - chart" transform="translate(-1634 -2842)">
+    <g id="about_us_-_chart_-_bg" data-name="about us - chart - bg" transform="translate(1649 2852)" fill="none" stroke="#f8f8f8" stroke-linecap="round" stroke-width="14">
+      <circle cx="61" cy="61" r="61" stroke="none"/>
+      <circle cx="61" cy="61" r="54" fill="none"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 1634, 2842)" filter="url(#about_us_-_chart)">
+      <g id="about_us_-_chart-3" data-name="about us - chart" transform="translate(15 10)" fill="none" stroke="#fe346e" stroke-linecap="round" stroke-width="14" stroke-dasharray="89 102">
+        <circle cx="61" cy="61" r="61" stroke="none"/>
+        <circle cx="61" cy="61" r="54" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
