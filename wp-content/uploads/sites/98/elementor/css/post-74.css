@@ -1,0 +1,54 @@
+.elementor-74 .elementor-element.elementor-element-6f1a129 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-74 .elementor-element.elementor-element-6f1a129{margin-top:25px;margin-bottom:0px;padding:0px 35px 0px 35px;}.elementor-74 .elementor-element.elementor-element-ebeb8a8{width:auto;max-width:auto;animation-duration:2500ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);flex-grow:1;}.elementor-74 .elementor-element.elementor-element-20c11c6 .aux-modern-heading-primary{font-size:23px;font-weight:400;color:var( --e-global-color-primary );}.elementor-74 .elementor-element.elementor-element-20c11c6 > .elementor-widget-container{margin:0px 30px -30px 0px;}.elementor-74 .elementor-element.elementor-element-20c11c6{width:auto;max-width:auto;align-self:center;animation-duration:2500ms;animation-delay:400ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-74 .elementor-element.elementor-element-4cd48f0{text-align:left;width:auto;max-width:auto;align-self:center;animation-duration:2500ms;animation-delay:200ms;animation-timing-function:cubic-bezier(0.77,0,0.175,1);}.elementor-74 .elementor-element.elementor-element-4cd48f0 .aux-vertical .aux-menu-depth-0 .aux-item-content{text-align:left;}.elementor-74 .elementor-element.elementor-element-4cd48f0 .aux-burger:before,  .elementor-74 .elementor-element.elementor-element-4cd48f0 .aux-burger:after, .elementor-74 .elementor-element.elementor-element-4cd48f0 .aux-burger .mid-line{border-color:var( --e-global-color-primary );}.elementor-74 .elementor-element.elementor-element-4cd48f0 .aux-fs-menu .aux-menu-item > .aux-item-content{color:var( --e-global-color-primary );font-family:"Heebo";font-size:63px;font-weight:700;text-transform:capitalize;padding:25px 0px 25px 0px;}.elementor-74 .elementor-element.elementor-element-4cd48f0 .aux-fs-menu .aux-menu-item.aux-hover > .aux-item-content{color:var( --e-global-color-accent );}.elementor-74 .elementor-element.elementor-element-4cd48f0 .aux-fs-menu .aux-master-menu{text-align:left;}.elementor-74 .elementor-element.elementor-element-4cd48f0 .aux-fs-popup{background-color:var( --e-global-color-secondary );background-image:url("/wp-content/uploads/sites/98/2020/10/volkan-vardar-y7RW7g2izy0-unsplash.jpg");background-position:center left;background-repeat:no-repeat;}.elementor-74 .elementor-element.elementor-element-4cd48f0 .aux-fs-popup .aux-panel-close .aux-close:before{background-color:var( --e-global-color-primary );}.elementor-74 .elementor-element.elementor-element-4cd48f0 .aux-fs-popup .aux-panel-close .aux-close:after{background-color:var( --e-global-color-primary );}@media(max-width:1024px){.elementor-74 .elementor-element.elementor-element-ebeb8a8 .aux-has-logo img{width:80%;}.elementor-74 .elementor-element.elementor-element-20c11c6 .aux-modern-heading-primary{font-size:20px;}.elementor-74 .elementor-element.elementor-element-4cd48f0 .aux-fs-menu .aux-menu-item > .aux-item-content{font-size:50px;}}@media(max-width:767px){.elementor-74 .elementor-element.elementor-element-ebeb8a8 .aux-has-logo img{width:70%;}.elementor-74 .elementor-element.elementor-element-ebeb8a8 > .elementor-widget-container{margin:10px 0px 0px 0px;}.elementor-74 .elementor-element.elementor-element-4cd48f0 .aux-fs-menu .aux-menu-item > .aux-item-content{font-size:40px;}}/* Start custom CSS for aux_menu_box, class: .elementor-element-4cd48f0 */.elementor-74 .elementor-element.elementor-element-4cd48f0 ul li{
+    text-align: left;
+    position: relative;
+    left: 550px;
+}
+.elementor-74 .elementor-element.elementor-element-4cd48f0 ul{
+    overflow: hidden;
+}
+.elementor-74 .elementor-element.elementor-element-4cd48f0 .aux-fs-popup:after{
+    content: 'ARchitect';
+    font-family: 'poppins';
+    font-size: 290px;
+    font-weight: 900;
+    -webkit-text-stroke: 2px rgba(25, 25, 25, 0.12);
+    -webkit-text-fill-color: transparent;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    position: absolute;
+    top:75%;
+}
+.elementor-74 .elementor-element.elementor-element-4cd48f0 .aux-fs-popup .aux-panel-close{
+    border: none;
+}
+.elementor-74 .elementor-element.elementor-element-4cd48f0 .aux-menu-depth-0.current-menu-item .aux-item-content{
+    color: #fff !important;
+}
+@media screen and (max-width:1440px) and (min-width:1025px){
+    .elementor-74 .elementor-element.elementor-element-4cd48f0 .aux-fs-popup:after{
+        font-size:190px;
+        top:84%;
+    }
+}
+@media screen and (max-width:1024px) and (min-width:768px){
+    .elementor-74 .elementor-element.elementor-element-4cd48f0 .aux-fs-popup:after{
+        font-size:110px;
+        top:90%;
+    }
+    .elementor-74 .elementor-element.elementor-element-4cd48f0 ul li{
+        left: 500px;
+    }
+}
+@media screen and (max-width:767px){
+    .elementor-74 .elementor-element.elementor-element-4cd48f0 .aux-fs-popup:after{
+        font-size:66px;
+        top:92%;
+    }
+    .elementor-74 .elementor-element.elementor-element-4cd48f0 ul li{
+        left: 35px;
+    }
+    .elementor-74 .elementor-element.elementor-element-4cd48f0 .aux-fs-popup{
+        background-image:none;
+    }
+}/* End custom CSS */
