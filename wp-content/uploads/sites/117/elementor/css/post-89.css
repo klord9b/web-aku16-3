@@ -1,0 +1,50 @@
+.elementor-89 .elementor-element.elementor-element-56bc830{margin-top:100px;margin-bottom:100px;padding:0px 35px 0px 35px;}.elementor-89 .elementor-element.elementor-element-33ee10e .entry-media img{border-radius:56px 56px 56px 56px !important;}.elementor-89 .elementor-element.elementor-element-33ee10e .entry-title a{color:var( --e-global-color-text );font-size:19px;font-weight:bold;text-transform:capitalize;line-height:1em;}.elementor-89 .elementor-element.elementor-element-33ee10e .entry-info a, .elementor-89 .elementor-element.elementor-element-33ee10e .entry-info{color:#AFB2B6;}.elementor-89 .elementor-element.elementor-element-33ee10e .entry-info, .elementor-89 .elementor-element.elementor-element-33ee10e .entry-info a{font-size:12px;font-weight:400;}.elementor-89 .elementor-element.elementor-element-33ee10e .entry-content{color:var( --e-global-color-c0524dc );font-size:14px;font-weight:400;line-height:1.7em;margin-bottom:20px;}.elementor-89 .elementor-element.elementor-element-33ee10e{text-align:left;animation-duration:1800ms;animation-delay:500ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-89 .elementor-element.elementor-element-33ee10e > .elementor-widget-container{margin:30px 0px 0px 0px;}@media(max-width:1024px){.elementor-89 .elementor-element.elementor-element-33ee10e .entry-title a{font-size:18px;}}@media(max-width:767px){.elementor-89 .elementor-element.elementor-element-33ee10e .entry-title a{font-size:17px;}}/* Start custom CSS for aux_recent_posts, class: .elementor-element-33ee10e */.elementor-89 .elementor-element.elementor-element-33ee10e .entry-main{
+    display: flex;
+    flex-direction: column;
+}
+.elementor-89 .elementor-element.elementor-element-33ee10e .entry-main .entry-info{
+    order: 1;
+    display: flex;
+    flex-direction: column-reverse;
+}
+.elementor-89 .elementor-element.elementor-element-33ee10e .entry-main .entry-info .entry-meta-sep , .elementor-89 .elementor-element.elementor-element-33ee10e .entry-main .entry-info i , .elementor-89 .elementor-element.elementor-element-33ee10e .entry-main .entry-info .post-edit-link{
+    display: none;
+}
+.elementor-89 .elementor-element.elementor-element-33ee10e .entry-main .entry-info .author a{
+    color: #020303;
+    font-weight: bold;
+    font-size: 12px;
+}
+.elementor-89 .elementor-element.elementor-element-33ee10e .entry-main .entry-info .author{
+    margin-bottom: 5px;
+}
+.elementor-89 .elementor-element.elementor-element-33ee10e .aux-circle{
+    display: none;
+}
+.elementor-89 .elementor-element.elementor-element-33ee10e .aux-load-more{
+    height: 50px;
+    border: none;
+    background-color: var(--e-global-color-primary);
+    border-radius: 12px;
+    transition: all 250ms ease-in;
+}
+.elementor-89 .elementor-element.elementor-element-33ee10e .aux-load-more:hover{
+    background-color:var(--e-global-color-accent);
+}
+.elementor-89 .elementor-element.elementor-element-33ee10e .aux-label-text , .elementor-89 .elementor-element.elementor-element-33ee10e  .aux-load-more .aux-loading-label{
+    line-height: 48px;
+    text-transform: capitalize;
+    color: var(--e-global-color-aefd6de);
+    font-weight: 600;
+}
+.elementor-89 .elementor-element.elementor-element-33ee10e .aux-load-more:hover .aux-label-text{
+    color: var(--e-global-color-aefd6de);
+}
+
+@media screen and (max-width:1024px){
+    .elementor-89 .elementor-element.elementor-element-33ee10e .aux-match-height{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+}/* End custom CSS */
