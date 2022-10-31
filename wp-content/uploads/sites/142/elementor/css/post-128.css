@@ -1,0 +1,106 @@
+.elementor-128 .elementor-element.elementor-element-9cbdbee{margin-top:0px;margin-bottom:130px;padding:0px 35px 0px 35px;}.elementor-128 .elementor-element.elementor-element-42a62cc.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:space-between;}.elementor-128 .elementor-element.elementor-element-45e2b0c .aux-modern-heading-primary{font-family:"Raleway", Sans-serif;font-size:60px;font-weight:800;text-transform:uppercase;line-height:70px;letter-spacing:0px;color:var( --e-global-color-primary );}.elementor-128 .elementor-element.elementor-element-45e2b0c > .elementor-widget-container{margin:0px 0px 50px 0px;}.elementor-128 .elementor-element.elementor-element-45e2b0c{width:auto;max-width:auto;}.elementor-128 .elementor-element.elementor-element-fe1ebe1 span:not(.aux-breadcrumb-sep) a{color:var( --e-global-color-primary );}.elementor-128 .elementor-element.elementor-element-fe1ebe1 span:not(.aux-breadcrumb-sep){color:var( --e-global-color-primary );}.elementor-128 .elementor-element.elementor-element-fe1ebe1 span{font-size:16px;font-weight:300;line-height:1.2em;}.elementor-128 .elementor-element.elementor-element-fe1ebe1 p.aux-breadcrumbs{transition:all ease-out 0.3s;}.elementor-128 .elementor-element.elementor-element-fe1ebe1{width:auto;max-width:auto;align-self:center;}.elementor-128 .elementor-element.elementor-element-be7cf2c .entry-title a{color:var( --e-global-color-primary );}.elementor-128 .elementor-element.elementor-element-be7cf2c .entry-title a:hover{color:var( --e-global-color-secondary );}.elementor-128 .elementor-element.elementor-element-be7cf2c .entry-title{font-size:23px;font-weight:700;line-height:1.5em;margin-bottom:15px;}.elementor-128 .elementor-element.elementor-element-be7cf2c .entry-info a, .elementor-128 .elementor-element.elementor-element-be7cf2c .entry-info{color:var( --e-global-color-text );}.elementor-128 .elementor-element.elementor-element-be7cf2c .entry-info, .elementor-128 .elementor-element.elementor-element-be7cf2c .entry-info a{font-size:12px;font-weight:400;text-transform:uppercase;line-height:1.2em;letter-spacing:0px;}.elementor-128 .elementor-element.elementor-element-be7cf2c .entry-content{color:var( --e-global-color-75c5547 );font-size:16px;font-weight:300;line-height:2em;margin-bottom:20px;}.elementor-128 .elementor-element.elementor-element-be7cf2c{text-align:left;}.elementor-128 .elementor-element.elementor-element-be7cf2c .column-entry{padding:5px 5px 5px 5px;}@media(max-width:1024px){.elementor-128 .elementor-element.elementor-element-be7cf2c .entry-title{font-size:18px;margin-bottom:0px;}.elementor-128 .elementor-element.elementor-element-be7cf2c .entry-content{font-size:14px;margin-bottom:15px;}}/* Start custom CSS for aux_recent_posts_masonry, class: .elementor-element-be7cf2c */.elementor-128 .elementor-element.elementor-element-be7cf2c .entry-content { margin-bottom: 0;
+} 
+
+.elementor-128 .elementor-element.elementor-element-be7cf2c .column-entry:hover .entry-title a {
+    color: var(--e-global-color-secondary) !important;
+}
+
+/* -- Post Hover Border -- */
+.elementor-128 .elementor-element.elementor-element-be7cf2c .column-entry::after {
+    content: '';	
+	position: absolute;
+    height: 4px;
+    width: 0;
+    background: var(--e-global-color-secondary);
+    bottom: 0;
+	transition: all .6s ease-out;
+}
+
+.elementor-128 .elementor-element.elementor-element-be7cf2c .column-entry:hover::after {
+    transition: all .6s .5s ease-out;
+    width: 69%;
+}
+
+/* -- Button on Hover -- */
+.elementor-128 .elementor-element.elementor-element-be7cf2c .column-entry .aux-media-frame a::after {
+    content: '';
+    opacity: 0;
+    width: 42px;
+    height: 42px;
+    background-color: var(--e-global-color-secondary);
+    position: absolute;
+    bottom: 43px;
+    right: 34px;
+    background-image: url(https://web-aku16-4.run-us-west2.goorm.io/site142/https://web-aku16-4.run-us-west2.goorm.io/wp-content/themes/phlox-pro/css/images/svg/symbols.svg);
+    background-repeat: no-repeat;
+    display: block;
+    background-position: -160px -595px !important;
+        transition: all .5s ease;
+}
+
+.elementor-128 .elementor-element.elementor-element-be7cf2c .column-entry .aux-media-frame a:hover::after {
+    box-shadow: 0px 11px 17px #FF5E1466;
+    cursor: pointer;
+    transition: all .5s ease;
+}
+
+.elementor-128 .elementor-element.elementor-element-be7cf2c .column-entry:hover .aux-media-frame a::after {
+    opacity: 1;
+}
+
+/* -- Next-Prev Gallery -- */
+.elementor-128 .elementor-element.elementor-element-be7cf2c .aux-next.aux-mc-arrows {
+    transform: translateX(100%);
+    right: auto;
+}
+
+.elementor-128 .elementor-element.elementor-element-be7cf2c .aux-prev.aux-mc-arrows {
+    transform: unset;
+}
+
+.elementor-128 .elementor-element.elementor-element-be7cf2c .aux-mc-arrows {
+    top: calc(100% - 47px);
+    left: 0;
+}
+
+.elementor-128 .elementor-element.elementor-element-be7cf2c .aux-arrow-nav {
+    width: 47px;
+    height: 47px;
+}
+
+
+.elementor-128 .elementor-element.elementor-element-be7cf2c .aux-arrow-nav.aux-round {
+    border-radius: 0 !important;
+}
+
+.elementor-128 .elementor-element.elementor-element-be7cf2c .aux-arrow-nav.aux-white {
+    background-color: rgba(255, 94, 20, 0.49);
+}
+
+.elementor-128 .elementor-element.elementor-element-be7cf2c .aux-medium-left {
+    background-position: -178px -560px !important;
+    width: 9px !important;
+    height: 16px !important;
+}
+
+.elementor-128 .elementor-element.elementor-element-be7cf2c .aux-medium-right {
+    background-position: -178px -607px!important;
+    width: 9px !important;
+    height: 16px !important;
+}
+
+
+/* -- Next-Prev Hover -- */
+.elementor-128 .elementor-element.elementor-element-be7cf2c .aux-arrow-nav .aux-overlay::after {
+    border-radius: 0;
+    
+}
+
+.elementor-128 .elementor-element.elementor-element-be7cf2c .aux-widget-post-slider .aux-mc-arrows .aux-arrow-nav .aux-overlay::after, .type-post.format-gallery .aux-mc-arrows .aux-arrow-nav .aux-overlay::after {
+    background-color: var(--e-global-color-secondary);
+}
+
+.elementor-128 .elementor-element.elementor-element-be7cf2c .aux-masonry-layout{
+    margin-right: -15px;
+    margin-left: -15px;
+}/* End custom CSS */
