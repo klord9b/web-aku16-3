@@ -1,0 +1,25 @@
+.elementor-50 .elementor-element.elementor-element-2bf47ad > .elementor-container{min-height:135px;}.elementor-50 .elementor-element.elementor-element-2bf47ad{padding:0px 35px 0px 36px;}.elementor-bc-flex-widget .elementor-50 .elementor-element.elementor-element-4e4a0f0.elementor-column .elementor-column-wrap{align-items:center;}.elementor-50 .elementor-element.elementor-element-4e4a0f0.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-50 .elementor-element.elementor-element-4e4a0f0.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:space-between;}.elementor-50 .elementor-element.elementor-element-4e4a0f0 > .elementor-element-populated > .elementor-widget-wrap{padding:0px 0px 0px 0px;}.elementor-50 .elementor-element.elementor-element-1b71f00{text-align:center;width:auto;max-width:auto;align-self:center;}.aux-sticky .elementor-50 .elementor-element.elementor-element-1b71f00 .aux-logo-anchor{transition:transform 300ms ease-out;transform-origin:left;transform:scale(0.85);}.elementor-50 .elementor-element.elementor-element-4161066{text-align:left;width:auto;max-width:auto;}.elementor-50 .elementor-element.elementor-element-4161066 .aux-vertical .aux-menu-depth-0 .aux-item-content{text-align:left;}.elementor-50 .elementor-element.elementor-element-4161066 .aux-fs-menu .aux-menu-item > .aux-item-content{color:#FFFFFF;font-family:"Raleway", Sans-serif;font-weight:600;text-transform:capitalize;}.elementor-50 .elementor-element.elementor-element-4161066 .aux-fs-menu .aux-master-menu{text-align:left;}.elementor-50 .elementor-element.elementor-element-4161066 .aux-fs-popup{background-image:url("/wp-content/uploads/sites/104/2016/07/menu-bg3.jpg");background-size:cover;}.elementor-50 .elementor-element.elementor-element-4161066 .aux-fs-popup .aux-panel-close{border-color:#FFFFFF;}.elementor-50 .elementor-element.elementor-element-4161066 .aux-fs-popup .aux-panel-close .aux-close:before{background-color:#FFFFFF;}.elementor-50 .elementor-element.elementor-element-4161066 .aux-fs-popup .aux-panel-close .aux-close:after{background-color:#FFFFFF;}@media(max-width:1024px){.elementor-50 .elementor-element.elementor-element-1b71f00{width:100%;max-width:100%;}.elementor-50 .elementor-element.elementor-element-4161066{width:100%;max-width:100%;}}@media(max-width:767px){.elementor-50 .elementor-element.elementor-element-1b71f00 .aux-has-logo img{width:170px;}}/* Start custom CSS for aux_logo, class: .elementor-element-1b71f00 */.elementor-50 .elementor-element.elementor-element-1b71f00 .aux-logo-anchor {
+    max-width: 272px;
+}/* End custom CSS */
+/* Start custom CSS for aux_menu_box, class: .elementor-element-4161066 */.elementor-50 .elementor-element.elementor-element-4161066  .aux-menu-item .aux-submenu-indicator::before , .elementor-50 .elementor-element.elementor-element-4161066  .aux-menu-item .aux-submenu-indicator::after {
+    background-color: #ffffff;
+}
+.elementor-50 .elementor-element.elementor-element-4161066 .aux-fs-popup:before {
+        background-color: rgba(61, 61, 61, 0.5);
+}
+
+@media ( max-width: 1025px ) {
+    .elementor-50 .elementor-element.elementor-element-4161066 .aux-burger {
+        position: absolute;
+        right: 0;
+        top: -33px;
+    }
+}
+@media ( max-width: 767px) {
+    .elementor-50 .elementor-element.elementor-element-4161066 .aux-burger {
+        top: -30px;
+    }
+}/* End custom CSS */
+/* Start custom CSS for column, class: .elementor-element-4e4a0f0 */.elementor-50 .elementor-element.elementor-element-4e4a0f0 {
+    max-width: 1270px;
+}/* End custom CSS */
