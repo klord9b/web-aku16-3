@@ -1,0 +1,23 @@
+.elementor-88 .elementor-element.elementor-element-de86ebe:not(.elementor-motion-effects-element-type-background), .elementor-88 .elementor-element.elementor-element-de86ebe > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("/wp-content/uploads/sites/103/2020/10/Mask-Group-7.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-88 .elementor-element.elementor-element-de86ebe > .elementor-background-overlay{background-color:transparent;background-image:linear-gradient(-180deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 43%);opacity:1;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-88 .elementor-element.elementor-element-de86ebe{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:70px 35px 420px 35px;}.elementor-88 .elementor-element.elementor-element-0a25873.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:center;}.elementor-88 .elementor-element.elementor-element-2ea7593 .aux-widget-inner > *{text-align:center;margin-left:auto !important;margin-right:auto !important;}.elementor-88 .elementor-element.elementor-element-2ea7593 .aux-modern-heading-primary{font-family:"Poppins", Sans-serif;font-size:35px;font-weight:700;text-transform:lowercase;line-height:1.5em;letter-spacing:2px;color:#000000;}.elementor-88 .elementor-element.elementor-element-2ea7593 .aux-modern-heading-secondary{font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:500;line-height:1.5em;color:#000000;margin:65px 0px 0px 0px;}.elementor-88 .elementor-element.elementor-element-28aaf67 .mc4wp-form input[type="text"],.elementor-88 .elementor-element.elementor-element-28aaf67 .mc4wp-form input[type="email"]{width:574px;max-width:100%;border-style:solid;border-width:0px 0px 1px 0px;border-color:#AAAAAA;padding:0px 0px 10px 45px;transition:all ease-out 0.3s;}.elementor-88 .elementor-element.elementor-element-28aaf67 .mc4wp-form input[type="text"], .elementor-88 .elementor-element.elementor-element-28aaf67 .mc4wp-form input[type="email"]{background-image:url("/wp-content/uploads/sites/103/2020/10/email.svg");background-position:top left;background-repeat:no-repeat;background-size:28px auto;}.elementor-88 .elementor-element.elementor-element-28aaf67 .mc4wp-form input[type="text"]::placeholder,.elementor-88 .elementor-element.elementor-element-28aaf67 .mc4wp-form input[type="email"]::placeholder{font-family:"Montserrat", Sans-serif;font-size:15px;font-weight:500;font-style:normal;line-height:1.5em;color:#807474;}.elementor-88 .elementor-element.elementor-element-28aaf67 .mc4wp-form input[type="submit"]{background-image:url("/wp-content/uploads/sites/103/2020/10/right-arrow-small.png");background-position:center right;background-repeat:no-repeat;background-size:auto;transition:all ease-out 0.3s;}.elementor-88 .elementor-element.elementor-element-28aaf67 > .elementor-widget-container{margin:55px 0px 0px 0px;}.elementor-88 .elementor-element.elementor-element-28aaf67{width:auto;max-width:auto;}.elementor-88 .elementor-element.elementor-element-d684782{display:block;text-align:center;}.elementor-88 .elementor-element.elementor-element-d684782 .aux-vertical .aux-menu-depth-0 .aux-item-content{display:block;text-align:center;}.elementor-88 .elementor-element.elementor-element-d684782 .aux-menu-depth-0 > .aux-item-content{font-family:"Montserrat", Sans-serif;font-size:15px;font-weight:500;text-transform:capitalize;line-height:1.5em;}.elementor-88 .elementor-element.elementor-element-d684782 .aux-menu-depth-0.aux-hover > .aux-item-content {color:#505050 !important;}.elementor-88 .elementor-element.elementor-element-d684782 .aux-menu-depth-0.current-menu-item > a{color:#505050;}.elementor-88 .elementor-element.elementor-element-d684782 > .elementor-widget-container{margin:50px 0px 0px 0px;}/* Start custom CSS for aux_mailchimp, class: .elementor-element-28aaf67 */.elementor-88 .elementor-element.elementor-element-28aaf67 .mc4wp-form-fields{
+    position: relative;
+    width: 574px;
+    max-width: 100%;
+}
+.elementor-88 .elementor-element.elementor-element-28aaf67 .mc4wp-form-fields p:last-child{
+    position: absolute;
+    top: -9px;
+    right: 0;
+}
+
+.elementor-88 .elementor-element.elementor-element-28aaf67 input[type="submit"] {
+    position: absolute;
+    top: -15px;
+    right: 0px;
+    background: transparent;
+}
+@media ( max-width: 768px ) {
+    .elementor-88 .elementor-element.elementor-element-28aaf67 .aux-travel-subscribe-wrapper {
+        width: 100%;
+        overflow: hidden;
+    }
+}/* End custom CSS */
