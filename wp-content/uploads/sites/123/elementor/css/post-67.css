@@ -1,0 +1,45 @@
+.elementor-67 .elementor-element.elementor-element-f56beae{margin-top:50px;margin-bottom:130px;padding:0px 35px 0px 35px;}.elementor-67 .elementor-element.elementor-element-130f842 .entry-media img{border-radius:10px 10px 10px 10px !important;}.elementor-67 .elementor-element.elementor-element-130f842 .entry-title a{color:var( --e-global-color-text );font-size:26px;font-weight:bold;line-height:1.3em;}.elementor-67 .elementor-element.elementor-element-130f842 .entry-title{margin-bottom:23px;}.elementor-67 .elementor-element.elementor-element-130f842 .entry-info a, .elementor-67 .elementor-element.elementor-element-130f842 .entry-info{color:var( --e-global-color-40f0feb );}.elementor-67 .elementor-element.elementor-element-130f842 .entry-info, .elementor-67 .elementor-element.elementor-element-130f842 .entry-info a{font-size:18px;font-weight:500;line-height:1.3em;}.elementor-67 .elementor-element.elementor-element-130f842 .entry-content{color:var( --e-global-color-40f0feb );font-size:16px;font-weight:400;line-height:1.4em;}.elementor-67 .elementor-element.elementor-element-130f842 .entry-meta{padding:0px 0px 0px 0px;margin-bottom:16px;}.elementor-67 .elementor-element.elementor-element-130f842 .type-post .entry-main{padding:35px 30px 56px 60px;}.elementor-67 .elementor-element.elementor-element-130f842 .aux-col .column-entry{box-shadow:0px 5px 15px 0px rgba(0, 0, 0, 0.050980392156862744);}.elementor-67 .elementor-element.elementor-element-130f842{text-align:left;animation-duration:1500ms;animation-delay:200ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-67 .elementor-element.elementor-element-130f842 .entry-meta .aux-read-more{color:var( --e-global-color-primary );font-size:18px;font-weight:400;text-transform:uppercase;line-height:1.3em;padding:0px 0px 0px 0px;}.elementor-67 .elementor-element.elementor-element-130f842 > .elementor-widget-container{margin:46px 0px 0px 0px;}@media(max-width:1024px){.elementor-67 .elementor-element.elementor-element-f56beae{margin-top:50px;margin-bottom:100px;}.elementor-67 .elementor-element.elementor-element-130f842 .entry-title a{font-size:23px;line-height:1em;}.elementor-67 .elementor-element.elementor-element-130f842 .entry-info, .elementor-67 .elementor-element.elementor-element-130f842 .entry-info a{font-size:14px;}.elementor-67 .elementor-element.elementor-element-130f842 .entry-content{font-size:14px;}.elementor-67 .elementor-element.elementor-element-130f842 .entry-meta{margin-bottom:0px;}.elementor-67 .elementor-element.elementor-element-130f842 .type-post .entry-main{padding:29px 20px 30px 20px;}.elementor-67 .elementor-element.elementor-element-130f842 .entry-meta .aux-read-more{font-size:15px;}.elementor-67 .elementor-element.elementor-element-130f842 > .elementor-widget-container{margin:0px 0px 0px 0px;}}/* Start custom CSS for aux_recent_posts, class: .elementor-element-130f842 */.elementor-67 .elementor-element.elementor-element-130f842 .entry-main{
+    position: relative;
+}
+.elementor-67 .elementor-element.elementor-element-130f842 .entry-info .entry-tax  a{
+    color: var( --e-global-color-d71c267 )!important;
+    text-transform: uppercase;
+    background-color: var( --e-global-color-27a02a2 );
+    padding: 14px 40px;
+    border-radius: 28px;
+    border: 2px solid var( --e-global-color-cab4ce6 );
+    position: absolute;
+    top: -48px;
+    right: 49px;
+}
+.elementor-67 .elementor-element.elementor-element-130f842 .column-entry{
+    border-radius: 0 0px 10px 10px;
+}
+.elementor-67 .elementor-element.elementor-element-130f842 .aux-read-more::after{
+    content: '\e201';
+    font-family: "auxin-front" !important;
+    font-size: 14px;
+    padding: 8px 13px 0;
+}
+.elementor-67 .elementor-element.elementor-element-130f842 .entry-content{
+    max-width: 398px;
+}
+.elementor-67 .elementor-element.elementor-element-130f842 .entry-media img{
+     width: 100%;
+} 
+@media only screen and (min-width: 1025px){
+.elementor-67 .elementor-element.elementor-element-130f842 .aux-col{
+   margin-bottom: 44px!important;
+    
+} 
+}
+.elementor-67 .elementor-element.elementor-element-130f842 .entry-tax {
+    display: none;
+}
+.elementor-67 .elementor-element.elementor-element-130f842 .status-publish:hover{
+    box-shadow: 25px 25px 40px 0px rgb(7 104 159 / 7%)!important;
+}
+
+.elementor-67 .elementor-element.elementor-element-130f842 .entry-meta {
+    left: auto;
+}/* End custom CSS */
