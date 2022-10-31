@@ -1,0 +1,60 @@
+.elementor-87 .elementor-element.elementor-element-672d037:not(.elementor-motion-effects-element-type-background), .elementor-87 .elementor-element.elementor-element-672d037 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-a52f733 );}.elementor-87 .elementor-element.elementor-element-672d037, .elementor-87 .elementor-element.elementor-element-672d037 > .elementor-background-overlay{border-radius:20px 20px 20px 20px;}.elementor-87 .elementor-element.elementor-element-672d037{box-shadow:0px 15px 60px 0px rgba(45,54,173,0.26);transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-87 .elementor-element.elementor-element-672d037 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-87 .elementor-element.elementor-element-c6ed2d1 > .elementor-element-populated, .elementor-87 .elementor-element.elementor-element-c6ed2d1 > .elementor-element-populated > .elementor-background-overlay, .elementor-87 .elementor-element.elementor-element-c6ed2d1 > .elementor-background-slideshow{border-radius:20px 20px 20px 20px;}.elementor-87 .elementor-element.elementor-element-c6ed2d1:hover > .elementor-element-populated{box-shadow:0px 30px 60px 0px rgba(255,115,106,0.33);}.elementor-87 .elementor-element.elementor-element-c6ed2d1 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-87 .elementor-element.elementor-element-c6ed2d1 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-87 .elementor-element.elementor-element-c6ed2d1 > .elementor-element-populated > .elementor-widget-wrap{padding:15% 11% 11% 12%;}.elementor-87 .elementor-element.elementor-element-91f8746 .aux-widget-image{text-align:left;}.elementor-87 .elementor-element.elementor-element-91f8746{width:auto;max-width:auto;position:absolute;top:-109px;}.elementor-87 .elementor-element.elementor-element-c435a92 .elementor-testimonial-wrapper{text-align:left;}.elementor-87 .elementor-element.elementor-element-c435a92 .elementor-testimonial-content{color:rgba(255,255,255,0.80);font-size:16px;font-weight:400;line-height:25px;letter-spacing:-0.48px;}.elementor-87 .elementor-element.elementor-element-c435a92 .elementor-testimonial-name{color:#ffffff;font-family:"Poppins", Sans-serif;font-size:16px;font-weight:bold;line-height:23px;letter-spacing:0.48px;}.elementor-87 .elementor-element.elementor-element-c435a92 .elementor-testimonial-job{color:rgba(255,255,255,0.60);font-size:15px;font-weight:400;line-height:19px;letter-spacing:-0.48px;}@media(max-width:1024px){.elementor-87 .elementor-element.elementor-element-91f8746{top:-89px;}.elementor-87 .elementor-element.elementor-element-c435a92 .elementor-testimonial-content{font-size:14px;}}@media(max-width:767px){.elementor-87 .elementor-element.elementor-element-91f8746{top:-125px;}}/* Start custom CSS for aux_image, class: .elementor-element-91f8746 */.elementor-87 .elementor-element.elementor-element-91f8746 .widget-container{
+    background-color: #2D36AD;
+    padding: 22px 20px;
+    border-radius: 100px;
+    box-shadow: 0 10px 40px #00000033;
+}
+@media only screen and (max-width: 1399px) and (min-width: 1009px)  {
+    .elementor-87 .elementor-element.elementor-element-91f8746{
+        top: -83px;
+    }
+}
+@media only screen and (max-width: 500px) {
+    .elementor-87 .elementor-element.elementor-element-91f8746{
+           top: -86px!important;
+    }
+}/* End custom CSS */
+/* Start custom CSS for testimonial, class: .elementor-element-c435a92 */.elementor-87 .elementor-element.elementor-element-c435a92 .elementor-testimonial-image {
+    padding-right: 23px;
+}
+.elementor-87 .elementor-element.elementor-element-c435a92 .elementor-testimonial-content{
+    padding-bottom: 20px;
+}
+@media only screen and (max-width: 1130px) and (min-width: 1009px)  {
+.elementor-87 .elementor-element.elementor-element-c435a92 .elementor-testimonial-content {
+font-size: 14px;
+height: 78px;
+    overflow: hidden;
+}
+.elementor-87 .elementor-element.elementor-element-c435a92 .elementor-testimonial-job {
+font-size: 13px;
+    line-height: 24px;
+}
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-672d037 */.elementor-87 .elementor-element.elementor-element-672d037 .elementor-column-wrap  {
+    position: relative;
+    z-index: 1;
+    transition: all .5s;
+         
+}
+.elementor-87 .elementor-element.elementor-element-672d037 .elementor-column-wrap:after{
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background-color: red;
+    background: var(--e-global-color-accent);
+background: -moz-linear-gradient(121deg, var(--e-global-color-accent) 40%, var(--e-global-color-248a829) 89%);
+background: -webkit-linear-gradient(121deg, var(--e-global-color-accent) 40%, var(--e-global-color-248a829) 89%);
+background: linear-gradient(121deg, var(--e-global-color-accent) 40%, var(--e-global-color-248a829) 89%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="var(--e-global-color-accent)",endColorstr="var(--e-global-color-248a829)",GradientType=1)!important;
+   z-index: -1;
+   border-radius:20px;
+   opacity: 0;
+   transition: all .5s;
+}
+.elementor-87 .elementor-element.elementor-element-672d037 .elementor-column-wrap:hover:after{
+      opacity: 1; 
+}/* End custom CSS */
