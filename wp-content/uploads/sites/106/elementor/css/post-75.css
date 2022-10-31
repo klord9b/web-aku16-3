@@ -1,0 +1,25 @@
+.elementor-75 .elementor-element.elementor-element-8779494 > .elementor-container{max-width:1600px;}.elementor-75 .elementor-element.elementor-element-8779494{padding:33px 35px 33px 35px;z-index:9;}.elementor-bc-flex-widget .elementor-75 .elementor-element.elementor-element-3040b7a.elementor-column .elementor-column-wrap{align-items:center;}.elementor-75 .elementor-element.elementor-element-3040b7a.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-75 .elementor-element.elementor-element-3040b7a.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:space-between;}.elementor-75 .elementor-element.elementor-element-0b55e77{width:auto;max-width:auto;animation-duration:2000ms;animation-delay:900ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-75 .elementor-element.elementor-element-729fdc9{text-align:left;width:auto;max-width:auto;animation-duration:2000ms;animation-delay:900ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-75 .elementor-element.elementor-element-729fdc9 .aux-vertical .aux-menu-depth-0 .aux-item-content{text-align:left;}.elementor-75 .elementor-element.elementor-element-729fdc9 .aux-menu-depth-0 > .aux-item-content{color:#000000;font-size:16px;font-weight:500;text-transform:capitalize;line-height:19px;letter-spacing:-0.64px;padding:0px 21px 0px 21px;}.elementor-75 .elementor-element.elementor-element-729fdc9 .aux-burger:before,  .elementor-75 .elementor-element.elementor-element-729fdc9 .aux-burger:after, .elementor-75 .elementor-element.elementor-element-729fdc9 .aux-burger .mid-line{border-color:#000000 !important;}.elementor-75 .elementor-element.elementor-element-729fdc9 .aux-fs-menu .aux-master-menu{text-align:left;}.elementor-75 .elementor-element.elementor-element-729fdc9 .aux-fs-popup{background-color:#000000;}@media(max-width:767px){.elementor-75 .elementor-element.elementor-element-8779494{padding:20px 35px 20px 35px;}.elementor-75 .elementor-element.elementor-element-0b55e77 .aux-has-logo img{width:70%;}.elementor-75 .elementor-element.elementor-element-729fdc9 .aux-menu-depth-0 > .aux-item-content{font-size:24px;padding:20px 0px 20px 0px;}}/* Start custom CSS for aux_menu_box, class: .elementor-element-729fdc9 */.elementor-75 .elementor-element.elementor-element-729fdc9 .aux-menu-item:last-of-type .aux-item-content {
+    padding-right: 0 !important;
+}
+
+.elementor-75 .elementor-element.elementor-element-729fdc9 .aux-menu-item:first-of-type .aux-item-content {
+    padding-left: 0 !important;
+}
+
+.elementor-75 .elementor-element.elementor-element-729fdc9 .aux-menu-item.current_page_item .aux-item-content  {
+    font-weight: bold;
+}
+.aux-burger.aux-regular-small .mid-line {
+    margin: 4px 0;
+}
+@media screen and (max-width:767px){
+    .elementor-75 .elementor-element.elementor-element-729fdc9 .aux-panel-close {
+        left: 86%;
+    }
+    .elementor-75 .elementor-element.elementor-element-729fdc9 .aux-cross-symbol::after , .elementor-75 .elementor-element.elementor-element-729fdc9 .aux-cross-symbol::before{
+        background-color:#fff;
+    }
+    .elementor-75 .elementor-element.elementor-element-729fdc9 .aux-item-content{
+        color:#fff !important;
+    }
+}/* End custom CSS */
