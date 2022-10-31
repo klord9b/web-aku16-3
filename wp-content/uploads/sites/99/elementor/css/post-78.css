@@ -1,0 +1,32 @@
+.elementor-78 .elementor-element.elementor-element-51755d0 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-78 .elementor-element.elementor-element-51755d0{padding:50px 35px 0px 35px;}.elementor-78 .elementor-element.elementor-element-81da439.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:space-between;}.elementor-78 .elementor-element.elementor-element-81da439 > .elementor-element-populated{border-style:solid;border-width:0px 0px 2px 0px;border-color:rgba(255, 255, 255, 0.25);transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-78 .elementor-element.elementor-element-81da439 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-78 .elementor-element.elementor-element-81da439 > .elementor-element-populated > .elementor-widget-wrap{padding:0px 0px 45px 0px;}.elementor-78 .elementor-element.elementor-element-1a0f239{width:auto;max-width:auto;animation-duration:3500ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-78 .elementor-element.elementor-element-3cc38b4{display:block;text-align:right;width:auto;max-width:auto;}.elementor-78 .elementor-element.elementor-element-3cc38b4 .aux-vertical .aux-menu-depth-0 .aux-item-content{display:block;text-align:right;}.elementor-78 .elementor-element.elementor-element-3cc38b4 .aux-menu-depth-0 > .aux-item-content{color:rgba(255, 255, 255, 0.2);font-size:50px;font-weight:500;text-transform:capitalize;}.elementor-78 .elementor-element.elementor-element-3cc38b4 .aux-menu-depth-0.aux-hover > .aux-item-content {color:var( --e-global-color-text );}.elementor-78 .elementor-element.elementor-element-3cc38b4 .aux-menu-depth-0.current-menu-item > a{color:var( --e-global-color-text );font-weight:bold;}.elementor-78 .elementor-element.elementor-element-3cc38b4 .aux-burger:before,  .elementor-78 .elementor-element.elementor-element-3cc38b4 .aux-burger:after, .elementor-78 .elementor-element.elementor-element-3cc38b4 .aux-burger .mid-line{border-color:var( --e-global-color-text );}/* Start custom CSS for aux_menu_box, class: .elementor-element-3cc38b4 */.elementor-78 .elementor-element.elementor-element-3cc38b4 .aux-offcanvas-menu .offcanvas-content{
+    display: flex;
+    align-items: center;
+}
+
+.elementor-78 .elementor-element.elementor-element-3cc38b4 .offcanvas-content .aux-master-menu{
+    padding-right: 20%;
+    padding-left: 10%;
+}
+
+.elementor-78 .elementor-element.elementor-element-3cc38b4 .aux-offcanvas-menu.aux-pin-right .aux-close{
+    float: right;
+    margin:12% 19% 0 0;
+    width:30px;
+}
+
+.elementor-78 .elementor-element.elementor-element-3cc38b4 .aux-cross-symbol::before , .elementor-78 .elementor-element.elementor-element-3cc38b4 .aux-cross-symbol::after{
+    background-color: var(--e-global-color-text);
+    height: 2px;
+}
+
+.elementor-78 .elementor-element.elementor-element-3cc38b4 .aux-offcanvas-menu {
+    width: 690px;
+}
+
+.elementor-78 .elementor-element.elementor-element-3cc38b4 .offcanvas-content .aux-menu-depth-0 > a {
+    padding: 20px 0 20px 0 !important;
+}/* End custom CSS */
+/* Start custom CSS for column, class: .elementor-element-81da439 */body.home .elementor-78 .elementor-element.elementor-element-81da439 .elementor-column-wrap {
+    padding-bottom: 0 !important;
+     border-width: 0;
+}/* End custom CSS */
