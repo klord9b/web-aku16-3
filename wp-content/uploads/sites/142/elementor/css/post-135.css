@@ -1,0 +1,153 @@
+.elementor-135 .elementor-element.elementor-element-1cac6b2{padding:0px 35px 100px 35px;}.elementor-135 .elementor-element.elementor-element-6a54282.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:space-between;}.elementor-135 .elementor-element.elementor-element-7bf0921 .aux-modern-heading-primary{font-size:60px;font-weight:800;text-transform:uppercase;line-height:1.2em;letter-spacing:0px;color:var( --e-global-color-primary );}.elementor-135 .elementor-element.elementor-element-7bf0921{width:auto;max-width:auto;align-self:center;}.elementor-135 .elementor-element.elementor-element-530a13f .entry-header .entry-title a{color:var( --e-global-color-823e46c );font-size:31px;line-height:1.2em;letter-spacing:0px;}.elementor-135 .elementor-element.elementor-element-530a13f .entry-tax a{color:rgba(255,255,255,0.73);}.elementor-135 .elementor-element.elementor-element-530a13f .entry-tax{font-weight:300;font-style:normal;line-height:1.2em;letter-spacing:0px;}.elementor-135 .elementor-element.elementor-element-530a13f .entry-tax a:after{margin-right:10px;margin-left:10px;}@media(max-width:1024px){.elementor-135 .elementor-element.elementor-element-1cac6b2{padding:0px 20px 0px 20px;}.elementor-135 .elementor-element.elementor-element-7bf0921 .aux-modern-heading-primary{font-size:45px;}.elementor-135 .elementor-element.elementor-element-7bf0921 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-135 .elementor-element.elementor-element-530a13f .entry-header .entry-title a{font-size:22px;line-height:30px;}.elementor-135 .elementor-element.elementor-element-530a13f .entry-tax{font-size:14px;line-height:20px;}}@media(max-width:767px){.elementor-135 .elementor-element.elementor-element-1cac6b2{padding:0px 10px 20px 10px;}.elementor-135 .elementor-element.elementor-element-6a54282 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-135 .elementor-element.elementor-element-7bf0921 .aux-modern-heading-primary{font-size:30px;}.elementor-135 .elementor-element.elementor-element-7bf0921{width:auto;max-width:auto;}.elementor-135 .elementor-element.elementor-element-530a13f .entry-header .entry-title a{font-size:18px;}.elementor-135 .elementor-element.elementor-element-530a13f .entry-tax{font-size:12px;}}/* Start custom CSS for aux_recent_portfolios_tile, class: .elementor-element-530a13f */.elementor-135 .elementor-element.elementor-element-530a13f .aux-portfolio-columns {
+    position:relative;
+}
+
+@media screen and (max-width: 1024px) {
+    .elementor-135 .elementor-element.elementor-element-530a13f .entry-info {
+        margin-bottom: 10px !important;
+    }
+}
+
+@media screen and (max-width: 750px) {
+.elementor-135 .elementor-element.elementor-element-530a13f .aux-portfolio-columns .aux-overlay-content  .entry-main {
+    left: -40px !important;
+    bottom: 0 !important;
+    }
+}
+
+@media screen and (max-width: 1650px) {
+.elementor-135 .elementor-element.elementor-element-530a13f .aux-filters.aux-underline {
+    margin-left: 0;
+    }
+}
+
+/* -- BG Overlay -- */
+.elementor-135 .elementor-element.elementor-element-530a13f .aux-frame-darken::after {
+    background-color: rgba(0, 35, 90, 0.69);
+}
+
+/* -- Filters -- */
+.elementor-135 .elementor-element.elementor-element-530a13f .aux-filters li>a {
+    font-weight: 400;
+    text-transform: none;
+    line-height: 22px;
+    color: #536E98;
+    margin-right: 25px;
+}
+
+.elementor-135 .elementor-element.elementor-element-530a13f .aux-filters .aux-selected {
+    color: var(--e-global-color-secondary);
+}
+
+.elementor-135 .elementor-element.elementor-element-530a13f .aux-filters li>a:hover {
+    color: var(--e-global-color-secondary);
+}
+
+.elementor-135 .elementor-element.elementor-element-530a13f .aux-filters span {
+    position: relative;
+}
+
+.elementor-135 .elementor-element.elementor-element-530a13f .aux-filters .aux-selected span::after {
+    opacity: 1;
+}
+
+.elementor-135 .elementor-element.elementor-element-530a13f .aux-filters li span::after {
+    width: 10px;
+    height: 10px;
+    background: var(--e-global-color-secondary);
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: -20px;
+    z-index: 1;
+    display: block;
+    opacity: 0;
+    margin: 0;
+}
+
+.elementor-135 .elementor-element.elementor-element-530a13f .aux-filters li:first-of-type span::after {
+    display: none;
+}
+
+/* -- Content -- */
+.elementor-135 .elementor-element.elementor-element-530a13f .aux-portfolio-columns .aux-overlay-content .entry-header {
+    flex: 0 0 100%;
+    text-align: left;
+}
+
+.elementor-135 .elementor-element.elementor-element-530a13f .entry-info {
+    text-align: left;
+    margin-bottom: -10px;
+}
+
+.elementor-135 .elementor-element.elementor-element-530a13f .entry-info .entry-tax {
+    line-height: 65px !important;
+}
+
+.elementor-135 .elementor-element.elementor-element-530a13f .entry-main {
+    display: flex;
+    flex-wrap: wrap;
+    flex-flow: column-reverse;
+    padding-left: 40px;
+    padding-bottom: 25px;
+}
+
+.elementor-135 .elementor-element.elementor-element-530a13f .aux-portfolio-columns .aux-overlay-content .entry-main {
+    margin-bottom: 0;
+    position: absolute;
+    left: 25px;
+    right: 25px;
+    bottom: 25px;
+}
+
+/* -- Button -- */
+.elementor-135 .elementor-element.elementor-element-530a13f .aux-hover-circle-link {
+    float: right;
+}
+
+.elementor-135 .elementor-element.elementor-element-530a13f .aux-portfolio-columns .aux-overlay-content {
+    top: auto;
+    bottom: 0;
+    transform: none;
+    padding: 64px 64px;
+    height: 100%;
+}
+
+.elementor-135 .elementor-element.elementor-element-530a13f .aux-arrow-nav.aux-round.aux-semi-small {
+    width: 43px;
+    height: 43px;
+    border-radius: 0;
+    background-color: var(--e-global-color-secondary);
+}
+
+.elementor-135 .elementor-element.elementor-element-530a13f .aux-arrow-nav.aux-outline.aux-white {
+    border-color: var(--e-global-color-secondary);
+    box-shadow: 0 0 0 1px var(--e-global-color-secondary) inset;
+}
+
+.elementor-135 .elementor-element.elementor-element-530a13f .aux-arrow-nav.aux-outline.aux-white .aux-overlay::after {
+    background-color: var(--e-global-color-secondary);
+}
+
+.elementor-135 .elementor-element.elementor-element-530a13f .aux-hover-circle-plus {
+    display: none;
+}
+
+.elementor-135 .elementor-element.elementor-element-530a13f .aux-svg-arrow.aux-medium-right, .aux-svg-symbol.aux-medium-right {
+    background-position: -178px -607px;
+    transition: none;
+}
+.elementor-135 .elementor-element.elementor-element-530a13f .aux-arrow-nav {
+    transition: all 3s ease !important;
+    box-shadow: none;
+}
+.elementor-135 .elementor-element.elementor-element-530a13f .aux-arrow-nav:hover {
+    box-shadow: 0px 11px 17px #FF5E1466 !important;
+    transition: all 3s ease !important;
+}
+
+@media only screen and (max-width: 600px) {
+    .elementor-135 .elementor-element.elementor-element-530a13f .aux-filters li>a {
+    margin-right: 0;
+    }
+}/* End custom CSS */
