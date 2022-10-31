@@ -1,0 +1,14 @@
+<svg id="shopping" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="30" height="30" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="bag_1" data-name="bag – 1" clip-path="url(#clip-path)">
+    <g id="Group_10" data-name="Group 10" transform="translate(3.559 2.542)">
+      <path id="Path_31" data-name="Path 31" d="M5.593,14H17.8a3.051,3.051,0,0,1,3.051,3.051L23.39,27.22a3.051,3.051,0,0,1-3.051,3.051H3.051A3.051,3.051,0,0,1,0,27.22L2.542,17.051A3.051,3.051,0,0,1,5.593,14Z" transform="translate(0 -4.847)" fill="#fff"/>
+      <path id="Subtraction_2" data-name="Subtraction 2" d="M5.085,14.746A5.091,5.091,0,0,1,0,9.661V5.085a5.085,5.085,0,1,1,10.169,0V9.661A5.09,5.09,0,0,1,5.085,14.746Zm0-13.729a3.564,3.564,0,0,0-3.56,3.56v5.593a3.559,3.559,0,0,0,7.119,0V4.577A3.564,3.564,0,0,0,5.085,1.017Z" transform="translate(6.61 0)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="30" height="30" fill="none"/>
+  </g>
+</svg>
