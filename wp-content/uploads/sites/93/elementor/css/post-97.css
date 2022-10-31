@@ -1,0 +1,95 @@
+.elementor-97 .elementor-element.elementor-element-39cdd05{margin-top:0px;margin-bottom:135px;padding:0px 035px 0px 35px;}.elementor-97 .elementor-element.elementor-element-51c5228 .entry-title a{color:#FFFFFF;font-size:20px;font-weight:900;line-height:1.2em;letter-spacing:-1px;}.elementor-97 .elementor-element.elementor-element-51c5228 .entry-info a, .elementor-97 .elementor-element.elementor-element-51c5228 .entry-info{color:#FFFFFF94;}.elementor-97 .elementor-element.elementor-element-51c5228 .entry-info, .elementor-97 .elementor-element.elementor-element-51c5228 .entry-info a{font-size:14px;line-height:1.14em;}.elementor-97 .elementor-element.elementor-element-51c5228 .type-post .entry-main{padding:30px 0px 0px 0px;}.elementor-97 .elementor-element.elementor-element-51c5228{text-align:left;animation-timing-function:cubic-bezier(0.25,0.46,0.45,0.94);}/* Start custom CSS for aux_recent_posts, class: .elementor-element-51c5228 */.elementor-97 .elementor-element.elementor-element-51c5228 .aux-media-image {
+  box-shadow: -7px 59px 64px rgba(0, 0, 0, 0.0392156862745098);
+  border-radius: 38px;
+ 
+}
+.elementor-97 .elementor-element.elementor-element-51c5228 .post .aux-media-image:before{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 60%;
+    top: 40%;
+    left: 0;
+    border-radius: 0 0 38px 38px;
+    background-image: linear-gradient(180deg,#00000000, #000 );
+    background-repeat: no-repeat;
+    transition: all 300ms ease-in;
+    background-position: 0 100%;
+    opacity:1;
+     }
+     .elementor-97 .elementor-element.elementor-element-51c5228 .post .aux-media-image:after{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 60%;
+    top: 40%;
+    left: 0;
+    border-radius:38px;
+    background-image: linear-gradient(180deg,#00000000, var( --e-global-color-secondary ));
+    background-repeat: no-repeat;
+        transition: all 300ms ease-in;
+    background-position: 0 100%;
+    opacity: 0;
+     }
+     
+.elementor-97 .elementor-element.elementor-element-51c5228 .post .aux-media-image{
+    transition: all 300ms ease-out;
+}
+.elementor-97 .elementor-element.elementor-element-51c5228 .post:hover .aux-media-image:before{
+   opacity:0;
+}
+.elementor-97 .elementor-element.elementor-element-51c5228 .post:hover .aux-media-image:after{
+   opacity:1;
+}
+
+.elementor-97 .elementor-element.elementor-element-51c5228 .entry-main .entry-header{
+    margin-bottom: 0;
+}
+.elementor-97 .elementor-element.elementor-element-51c5228 .entry-main{
+    position: absolute;
+    bottom: 30px;
+   border-top: 2px solid #ffffff4d;
+   width: 80%;
+   margin-left: 10%;
+   margin-right: 10%;
+   }
+
+.elementor-97 .elementor-element.elementor-element-51c5228 .aux-widget-recent-posts .post .entry-info{
+    margin-bottom: 10px;
+}
+.elementor-97 .elementor-element.elementor-element-51c5228 .aux-widget-recent-posts .post .entry-media{
+    margin-bottom: 0;
+}
+.elementor-97 .elementor-element.elementor-element-51c5228 .aux-de-col4 .aux-col{
+    margin-top: 0px;
+}
+.elementor-97 .elementor-element.elementor-element-51c5228 .aux-row{
+    margin-right:-30px;
+    margin-left:-30px;
+}
+.elementor-97 .elementor-element.elementor-element-51c5228 .aux-widget-recent-posts .aux-match-height .aux-col{
+    margin-bottom:60px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+@media only screen and (max-width:1400px) and (min-width:1025px){
+    .elementor-97 .elementor-element.elementor-element-51c5228 .aux-row{
+    margin-right:-15px;
+    margin-left:-15px;
+}
+.elementor-97 .elementor-element.elementor-element-51c5228 .aux-widget-recent-posts .aux-match-height .aux-col{
+    margin-bottom:30px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+}
+.elementor-97 .elementor-element.elementor-element-51c5228 .aux-col{
+     margin-top:0!important;
+}
+.elementor-97 .elementor-element.elementor-element-51c5228  .post .aux-media-image{
+    height: 100%;
+}
+.elementor-97 .elementor-element.elementor-element-51c5228 .entry-media{
+    height: 100%;
+    margin-bottom: 0
+}/* End custom CSS */
