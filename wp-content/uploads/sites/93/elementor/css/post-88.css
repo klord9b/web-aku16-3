@@ -1,0 +1,43 @@
+.elementor-88 .elementor-element.elementor-element-1b5d957 > .elementor-element-populated > .elementor-widget-wrap{padding:40px 0px 35px 0px;}.elementor-88 .elementor-element.elementor-element-1b5d957{max-width:392px;}.elementor-88 .elementor-element.elementor-element-b1bc8c3 .aux-widget-testimonial .aux-testimonial-image{width:128px;}.elementor-88 .elementor-element.elementor-element-b1bc8c3 .aux-testimonial-image img{border-radius:100% 100% 100% 100%;overflow:hidden;}.elementor-88 .elementor-element.elementor-element-b1bc8c3 .aux-testimonial-content{color:#4D4D4D !important;font-size:20px;font-weight:500;line-height:1.3em;}.elementor-88 .elementor-element.elementor-element-b1bc8c3 .aux-widget-testimonial{text-align:left;padding:0px 0px 0px 0px;box-shadow:0px 0px 10px 0px rgba(0, 0, 0, 0);border-style:solid;border-width:0px 0px 0px 0px;}.elementor-88 .elementor-element.elementor-element-b1bc8c3 > .elementor-widget-container{margin:0px 0px 20px 0px;}.elementor-88 .elementor-element.elementor-element-dd17d4e .aux-widget-container{text-align:center;}.elementor-88 .elementor-element.elementor-element-dd17d4e{width:auto;max-width:auto;position:absolute;bottom:-3px;left:73px;}.elementor-88 .elementor-element.elementor-element-f060e33 > .elementor-widget-container{margin:0px 40px 0px 0px;}.elementor-88 .elementor-element.elementor-element-f060e33{width:auto;max-width:auto;}.elementor-88 .elementor-element.elementor-element-37107c3 .aux-modern-heading-secondary{font-size:20px;font-weight:900;line-height:1.2em;letter-spacing:-1px;color:var( --e-global-color-c8a2f94 );margin:0px 0px 5px 0px;}.elementor-88 .elementor-element.elementor-element-37107c3 .aux-modern-heading-secondary .aux-head-highlight{color:var( --e-global-color-c8a2f94 );margin:0px 0px 0px 0px;}.elementor-88 .elementor-element.elementor-element-37107c3 .aux-modern-heading-description{color:#CECECE;font-size:14px;line-height:1.5em;letter-spacing:0.95px;}.elementor-88 .elementor-element.elementor-element-37107c3{width:auto;max-width:auto;}.elementor-88 .elementor-element.elementor-element-34624de .aux-widget-container{text-align:center;}.elementor-88 .elementor-element.elementor-element-34624de{width:auto;max-width:auto;position:absolute;bottom:71px;left:-5px;}.elementor-88 .elementor-element.elementor-element-13125de .aux-widget-container{text-align:center;}.elementor-88 .elementor-element.elementor-element-13125de{width:auto;max-width:auto;position:absolute;top:-15px;right:0px;}/* Start custom CSS for aux_testimonial, class: .elementor-element-b1bc8c3 */.elementor-88 .elementor-element.elementor-element-b1bc8c3 .aux-testimonial-image img {
+    opacity: 0.2;
+     margin-left: -20px
+}/* End custom CSS */
+/* Start custom CSS for aux_simple_svg, class: .elementor-element-dd17d4e */.elementor-88 .elementor-element.elementor-element-dd17d4e svg g circle{
+    stroke: var( --e-global-color-c8a2f94 );
+    stroke-width:4px;
+}
+.elementor-88 .elementor-element.elementor-element-dd17d4e svg{
+    width: 60%;
+}
+@media only screen and (max-width:1350px) and (min-width:1025px){
+    .elementor-88 .elementor-element.elementor-element-dd17d4e {
+        bottom:74px;
+    }
+}/* End custom CSS */
+/* Start custom CSS for aux_modern_heading, class: .elementor-element-37107c3 */@media only screen and (max-width:1350px) and (min-width:1025px){
+    .elementor-88 .elementor-element.elementor-element-37107c3 {
+        width:100%;
+    }
+}/* End custom CSS */
+/* Start custom CSS for aux_simple_svg, class: .elementor-element-34624de */.elementor-88 .elementor-element.elementor-element-34624de svg  path:last-child{
+    fill:var( --e-global-color-primary );
+}
+.elementor-88 .elementor-element.elementor-element-34624de svg{
+    width: 60%;
+}
+@media only screen and (max-width:1350px) and (min-width:1025px){
+    .elementor-88 .elementor-element.elementor-element-34624de {
+        bottom:148px;
+    }
+}/* End custom CSS */
+/* Start custom CSS for column, class: .elementor-element-1b5d957 */.elementor-88 .elementor-element.elementor-element-1b5d957:hover .aux-testimonial-image img {
+    opacity: 1;
+    transition: all 300ms ease-in;
+}
+.elementor-88 .elementor-element.elementor-element-1b5d957:hover .aux-modern-heading-secondary .aux-head-before + .aux-head-highlight{
+    color: var( --e-global-color-primary );;
+}
+.elementor-88 .elementor-element.elementor-element-1b5d957:hover .elementor-widget:last-child svg path{
+    fill:var( --e-global-color-primary );
+     transition: all 300ms ease-in;
+}/* End custom CSS */
