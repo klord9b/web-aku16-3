@@ -1,0 +1,53 @@
+.elementor-61 .elementor-element.elementor-element-d677239{margin-top:-30px;margin-bottom:230px;padding:0px 35px 0px 35px;}.elementor-61 .elementor-element.elementor-element-845111a .aux-widget-inner > *{text-align:center;margin-left:auto !important;margin-right:auto !important;}.elementor-61 .elementor-element.elementor-element-845111a .aux-modern-heading-secondary .aux-head-highlight{font-size:45px;font-weight:500;text-transform:capitalize;line-height:1.4em;letter-spacing:-0.9px;}.elementor-61 .elementor-element.elementor-element-74fd0d7 .entry-media img{border-radius:20px 20px 20px 20px !important;}.elementor-61 .elementor-element.elementor-element-74fd0d7 .entry-title a{font-size:20px;font-weight:500;line-height:1em;letter-spacing:-0.4px;}.elementor-61 .elementor-element.elementor-element-74fd0d7 .entry-title{margin-bottom:20px;}.elementor-61 .elementor-element.elementor-element-74fd0d7 .entry-info, .elementor-61 .elementor-element.elementor-element-74fd0d7 .entry-info a{font-family:"Rubik", Sans-serif;font-size:16px;font-weight:400;}.elementor-61 .elementor-element.elementor-element-74fd0d7 .type-post .entry-main{padding:37px 50px 43px 70px;}.elementor-61 .elementor-element.elementor-element-74fd0d7{text-align:left;}.elementor-61 .elementor-element.elementor-element-74fd0d7 .entry-meta .aux-read-more{background-color:transparent;background-image:linear-gradient(104deg, #003286 0%, #0085F2 100%);font-size:15px;font-weight:500;text-transform:capitalize;letter-spacing:-0.45px;padding:13px 44px 13px 44px;}.elementor-61 .elementor-element.elementor-element-74fd0d7 > .elementor-widget-container{margin:40px 0px 0px 0px;}@media(max-width:1024px){.elementor-61 .elementor-element.elementor-element-845111a .aux-modern-heading-secondary .aux-head-highlight{font-size:36px;}.elementor-61 .elementor-element.elementor-element-74fd0d7 .entry-title a{font-size:18px;}.elementor-61 .elementor-element.elementor-element-74fd0d7 .entry-info, .elementor-61 .elementor-element.elementor-element-74fd0d7 .entry-info a{font-size:14px;}.elementor-61 .elementor-element.elementor-element-74fd0d7 .type-post .entry-main{padding:25px 25px 35px 35px;}.elementor-61 .elementor-element.elementor-element-74fd0d7 .entry-meta .aux-read-more{font-size:14px;padding:10px 35px 10px 35px;}}@media(max-width:767px){.elementor-61 .elementor-element.elementor-element-845111a .aux-modern-heading-secondary .aux-head-highlight{font-size:30px;}}/* Start custom CSS for aux_recent_posts, class: .elementor-element-74fd0d7 */.elementor-61 .elementor-element.elementor-element-74fd0d7 .entry-media{
+    margin-bottom: 0;
+}
+.elementor-61 .elementor-element.elementor-element-74fd0d7 .entry-main{
+    background: #fff;
+    box-shadow: 0px 20px 60px #040F301A;
+    border-radius: 20px;
+    width: 90%;
+    position: absolute;
+    bottom:-120px;
+    left: 5%;
+    transition:all 250ms ease-in;
+}
+.elementor-61 .elementor-element.elementor-element-74fd0d7 .entry-meta{
+    position: relative;
+    bottom: 0;
+    padding-left: 0;
+}
+.elementor-61 .elementor-element.elementor-element-74fd0d7 .aux-read-more{
+    border-radius: 23px;
+}
+.elementor-61 .elementor-element.elementor-element-74fd0d7 .aux-read-more::after{
+    display: none;
+}
+.elementor-61 .elementor-element.elementor-element-74fd0d7 .entry-info{
+    background: transparent linear-gradient(94deg, #E83155 0%, #FFDFB9 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.elementor-61 .elementor-element.elementor-element-74fd0d7 .aux-col:hover .entry-main{
+    background: #001A6C;
+    box-shadow: 0px 20px 60px #040F3033;
+}
+.elementor-61 .elementor-element.elementor-element-74fd0d7 .aux-col:hover .entry-title a{
+    color: #fff;
+}
+.elementor-61 .elementor-element.elementor-element-74fd0d7 .aux-col:hover .aux-read-more{
+    background: transparent linear-gradient(105deg, #E83155 0%, #E83155 1%, #FFDFB9 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 20px 40px #E8315533;
+}
+.elementor-61 .elementor-element.elementor-element-74fd0d7 .aux-col{
+        margin:0 0 12% 0;
+    }
+@media screen and (max-width:1024px){
+    .elementor-61 .elementor-element.elementor-element-74fd0d7 .aux-col{
+        margin:0 0 25% 0;
+    }
+}
+@media screen and (max-width:767px){
+    .elementor-61 .elementor-element.elementor-element-74fd0d7 .aux-col{
+        margin:0 0 40% 0;
+    }
+}/* End custom CSS */
