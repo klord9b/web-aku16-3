@@ -1,0 +1,24 @@
+.elementor-66 .elementor-element.elementor-element-49fa5e3 .aux-widget-container{text-align:center;}.elementor-66 .elementor-element.elementor-element-49fa5e3{width:auto;max-width:auto;position:absolute;top:-320px;left:-10%;}.elementor-66 .elementor-element.elementor-element-bf197f2 .aux-widget-container{text-align:center;}.elementor-66 .elementor-element.elementor-element-bf197f2{width:auto;max-width:auto;position:absolute;top:-100px;left:-10%;}.elementor-66 .elementor-element.elementor-element-f4c0942 .aux-widget-container{text-align:center;}.elementor-66 .elementor-element.elementor-element-f4c0942{width:auto;max-width:auto;position:absolute;top:-350px;right:-22%;}.elementor-66 .elementor-element.elementor-element-256ea4b > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-66 .elementor-element.elementor-element-256ea4b{margin-top:50px;margin-bottom:0px;padding:0px 35px 0px 35px;}.elementor-66 .elementor-element.elementor-element-ba842a9{width:auto;max-width:auto;animation-delay:750ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);flex-grow:0.13;}.elementor-66 .elementor-element.elementor-element-b4b268d{text-align:left;width:auto;max-width:auto;animation-delay:950ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-66 .elementor-element.elementor-element-b4b268d .aux-vertical .aux-menu-depth-0 .aux-item-content{text-align:left;}.elementor-66 .elementor-element.elementor-element-b4b268d .aux-menu-depth-0 > .aux-item-content{color:rgba(255, 255, 255, 0.6705882352941176);font-size:16px;font-weight:400;text-transform:capitalize;padding:0px 40px 0px 0px;}.elementor-66 .elementor-element.elementor-element-b4b268d .aux-menu-depth-0.aux-hover > .aux-item-content {color:var( --e-global-color-text );}.elementor-66 .elementor-element.elementor-element-b4b268d .aux-burger:before,  .elementor-66 .elementor-element.elementor-element-b4b268d .aux-burger:after, .elementor-66 .elementor-element.elementor-element-b4b268d .aux-burger .mid-line{border-color:var( --e-global-color-text );}.elementor-66 .elementor-element.elementor-element-b4b268d .aux-fs-menu .aux-master-menu{text-align:left;}.elementor-66 .elementor-element.elementor-element-b4b268d .aux-fs-popup{background-color:var( --e-global-color-primary );}@media(max-width:1024px){.elementor-66 .elementor-element.elementor-element-49fa5e3{left:-30%;}.elementor-66 .elementor-element.elementor-element-bf197f2{left:-22%;}.elementor-66 .elementor-element.elementor-element-f4c0942{top:-200px;right:-25%;}.elementor-66 .elementor-element.elementor-element-256ea4b{margin-top:30px;margin-bottom:0px;}.elementor-66 .elementor-element.elementor-element-ba842a9 .aux-has-logo img{width:90%;}.elementor-66 .elementor-element.elementor-element-ba842a9{flex-grow:1;}.elementor-66 .elementor-element.elementor-element-b4b268d .aux-menu-depth-0 > .aux-item-content{font-size:14px;}}@media(max-width:767px){.elementor-66 .elementor-element.elementor-element-f4c0942{top:-100px;}.elementor-66 .elementor-element.elementor-element-ba842a9{flex-grow:1;}.elementor-66 .elementor-element.elementor-element-b4b268d .aux-menu-depth-0 > .aux-item-content{font-size:24px;padding:0px 0px 30px 0px;}}/* Start custom CSS for aux_menu_box, class: .elementor-element-b4b268d */.elementor-66 .elementor-element.elementor-element-b4b268d .aux-menu-depth-0.current-menu-item .aux-item-content{
+    color: var( --e-global-color-text ) !important;
+}
+
+.elementor-66 .elementor-element.elementor-element-b4b268d .aux-fs-popup .aux-panel-close{
+	border-color: var( --e-global-color-text );
+}
+
+.elementor-66 .elementor-element.elementor-element-b4b268d .aux-fs-popup .aux-panel-close .aux-close:before, 
+.elementor-66 .elementor-element.elementor-element-b4b268d .aux-fs-popup .aux-panel-close .aux-close:after{
+	background-color: var( --e-global-color-text );
+} 
+
+@media screen and (max-width:800px){
+    .elementor-66 .elementor-element.elementor-element-b4b268d .aux-item-content{
+        color: var( --e-global-color-text ) !important;
+    }
+    .elementor-66 .elementor-element.elementor-element-b4b268d .aux-menu-item:hover .aux-item-content{
+        color:var(--e-global-color-accent) !important;
+    }
+    .elementor-66 .elementor-element.elementor-element-b4b268d .aux-menu-depth-0.current-menu-item .aux-item-content{
+    color:var(--e-global-color-accent) !important;
+}
+}/* End custom CSS */
