@@ -1,0 +1,66 @@
+.elementor-100 .elementor-element.elementor-element-1775e62{margin-top:0px;margin-bottom:130px;padding:60px 35px 0px 35px;}.elementor-100 .elementor-element.elementor-element-688ad1f > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:0px;}.elementor-100 .elementor-element.elementor-element-a3ff57b .aux-widget-image{text-align:center;}.elementor-100 .elementor-element.elementor-element-a3ff57b .aux-media-image{max-width:330px;}.elementor-100 .elementor-element.elementor-element-a3ff57b{animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-100 .elementor-element.elementor-element-611d4d5{text-align:center;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-100 .elementor-element.elementor-element-611d4d5 .elementor-heading-title{color:var( --e-global-color-text );font-size:80px;}.elementor-100 .elementor-element.elementor-element-611d4d5 > .elementor-widget-container{transition-duration:1000ms;transition-property:all;}.elementor-100 .elementor-element.elementor-element-ae21c87{margin-top:0px;margin-bottom:150px;padding:0px 35px 0px 35px;}.elementor-100 .elementor-element.elementor-element-958397b .type-product{padding-bottom:30px;}.elementor-100 .elementor-element.elementor-element-958397b .aux-shop-info-wrapper{padding:40px 0px 0px 0px;}.elementor-100 .elementor-element.elementor-element-958397b .aux-filters ul > li{font-family:"Playfair Display", Sans-serif;font-size:28px;font-weight:900;}.elementor-100 .elementor-element.elementor-element-958397b .aux-filters{margin:0px 0px 30px 0px;}.elementor-100 .elementor-element.elementor-element-958397b .auxshp-loop-title{color:var( --e-global-color-text );font-size:30px;}.elementor-100 .elementor-element.elementor-element-958397b .woocommerce-Price-amount{color:var( --e-global-color-text );font-size:20px;font-weight:bold;}.elementor-100 .elementor-element.elementor-element-958397b .add_to_cart_button{color:var( --e-global-color-0f211f8 );font-size:20px;padding:0px 0px 20px 0px;}.elementor-100 .elementor-element.elementor-element-958397b{animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}@media(max-width:1024px){.elementor-100 .elementor-element.elementor-element-958397b .auxshp-loop-title{font-size:1.5em;}}@media(max-width:767px){.elementor-100 .elementor-element.elementor-element-1775e62{padding:100px 35px 0px 35px;}.elementor-100 .elementor-element.elementor-element-a3ff57b .aux-widget-image{text-align:center;}.elementor-100 .elementor-element.elementor-element-a3ff57b .aux-media-image{max-width:95%;}.elementor-100 .elementor-element.elementor-element-611d4d5 .elementor-heading-title{font-size:3.5em;}.elementor-100 .elementor-element.elementor-element-958397b .auxshp-loop-title{font-size:1.4em;}.elementor-100 .elementor-element.elementor-element-958397b .add_to_cart_button{font-size:1em;padding:0px 0px 0px 0px;}}/* Start custom CSS for aux_advance_recent_product, class: .elementor-element-958397b */.elementor-100 .elementor-element.elementor-element-958397b .auxshp-loop-title {
+    cursor: pointer;
+}
+.elementor-100 .elementor-element.elementor-element-958397b .auxshp-entry-main {
+    background-color: rgba(216,187,42,0.7);
+    position: absolute;
+    left: 15px;
+    right: 15px;
+    bottom: 0;
+    border-radius: 0 0 10px 10px;
+    opacity: 0;
+}
+.elementor-100 .elementor-element.elementor-element-958397b .aux-widget-recent-products-pro .aux-shop-btns-wrapper {
+    justify-content: center;
+}
+.elementor-100 .elementor-element.elementor-element-958397b .aux-widget-recent-products-pro .type-product:hover .auxshp-entry-main {
+    opacity: 1;
+}
+.elementor-100 .elementor-element.elementor-element-958397b, .elementor-100 .elementor-element.elementor-element-958397b:hover, .elementor-100 .elementor-element.elementor-element-958397b .auxshp-entry-main {
+    transition-property: all;
+    transition-duration: 600ms;
+    transition-delay: 0ms;
+    transition-timing-function: cubic-bezier(.165,.84,.44,1);
+}
+.aux-widget-recent-products-pro .aux-shop-meta-wrapper {
+    display: none;
+}
+.elementor-100 .elementor-element.elementor-element-958397b .aux-widget-recent-products-pro .aux-shop-btns-wrapper {
+    border-top: none;
+    padding-bottom: 30px;
+}
+.elementor-100 .elementor-element.elementor-element-958397b .aux-widget-recent-products-pro .aux-shop-info-wrapper {
+    flex-direction: column;
+}
+.elementor-100 .elementor-element.elementor-element-958397b .aux-widget-recent-products-pro .aux-shop-btns-wrapper .button .aux-ico {
+    display: none;
+}
+.elementor-100 .elementor-element.elementor-element-958397b .aux-widget-recent-products-pro .price {
+    padding: 0 20px 20px 20px;
+    border-bottom: 1px solid var(--e-global-color-text);
+}
+@media screen and (max-width : 767px) {
+    .elementor-100 .elementor-element.elementor-element-958397b .aux-widget-recent-products-pro .price {
+        padding : 0;
+    }
+}
+.elementor-100 .elementor-element.elementor-element-958397b .aux-has-preview.aux-preloaded {
+    border-radius: 10px;
+}
+.elementor-100 .elementor-element.elementor-element-958397b .auxshp-loop-title {
+    text-align: center;
+}
+@media screen and (min-width:768px) and (max-width:1024px) {
+    .elementor-100 .elementor-element.elementor-element-958397b .aux-col:last-child {
+        display : none;
+    }
+}
+.elementor-100 .elementor-element.elementor-element-958397b .type-product {
+    padding-bottom: 0 !important;
+}
+ .elementor-100 .elementor-element.elementor-element-958397b .aux-filters.aux-slideup li > a span::before {
+    color: var( --e-global-color-text )
+}
+.elementor-100 .elementor-element.elementor-element-958397b .aux-filters.aux-slideup li > a span::after {
+    color: var( --e-global-color-primary );
+}/* End custom CSS */
