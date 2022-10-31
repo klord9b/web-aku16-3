@@ -1,0 +1,11 @@
+.elementor-82 .elementor-element.elementor-element-ace9510{margin-top:250px;margin-bottom:0px;padding:0px 35px 0px 35px;}.elementor-82 .elementor-element.elementor-element-0f8ceab .aux-media-image{border-radius:20px 20px 20px 20px !important;}.elementor-82 .elementor-element.elementor-element-0f8ceab .entry-header .entry-title a{color:var( --e-global-color-accent );font-size:20px;font-weight:600;}.elementor-82 .elementor-element.elementor-element-0f8ceab .entry-tax a{color:var( --e-global-color-text );}.elementor-82 .elementor-element.elementor-element-0f8ceab .entry-tax{font-size:16px;font-weight:400;font-style:normal;}.elementor-82 .elementor-element.elementor-element-0f8ceab .aux-iso-item{margin-bottom:30px !important;}/* Start custom CSS for aux_recent_portfolios_grid, class: .elementor-element-0f8ceab */.elementor-82 .elementor-element.elementor-element-0f8ceab .aux-portfolio-columns {
+    overflow: visible;
+}
+
+.elementor-82 .elementor-element.elementor-element-0f8ceab .type-portfolio:hover .entry-media .aux-media-image {
+    box-shadow: -15px 30px 60px #70798B66;
+}
+
+.elementor-82 .elementor-element.elementor-element-0f8ceab .type-portfolio .entry-media .aux-media-image {
+    transition: all .2s ease-in-out;
+}/* End custom CSS */
