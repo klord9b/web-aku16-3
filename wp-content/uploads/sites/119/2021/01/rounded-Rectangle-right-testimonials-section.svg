@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="171.566" height="162.786" viewBox="0 0 171.566 162.786">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2138d1"/>
+      <stop offset="1" stop-color="#3f7ffd"/>
+    </linearGradient>
+  </defs>
+  <rect id="rounded_Rectangle_-_right_-_testimonials_section" data-name="rounded Rectangle  - right - testimonials section" width="163" height="74" rx="37" transform="translate(0 106.938) rotate(-41)" opacity="0.2" fill="url(#linear-gradient)"/>
+</svg>

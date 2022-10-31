@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80.423" height="51.649" viewBox="0 0 80.423 51.649">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3b54ff"/>
+      <stop offset="1" stop-color="#21209c"/>
+    </linearGradient>
+  </defs>
+  <g id="quotes_-_icon" data-name="quotes - icon" transform="translate(0 -8.264)">
+    <path id="Path_19" data-name="Path 19" d="M43.719,8.264A18.41,18.41,0,0,0,25.343,26.857a18.687,18.687,0,0,0,18.7,18.593c.1,0,.258-.014.36-.016a23.553,23.553,0,0,1-14.741,5.181,4.637,4.637,0,0,0-4.634,4.648c0,2.566,1.652,4.648,4.22,4.648A32.732,32.732,0,0,0,61.877,26.857v-.012A18.223,18.223,0,0,0,43.719,8.264Z" transform="translate(18.546 0)" fill="url(#linear-gradient)"/>
+    <path id="Path_20" data-name="Path 20" d="M18.715,8.264A18.421,18.421,0,0,0,.326,26.857a18.681,18.681,0,0,0,18.7,18.593c.1,0,.254-.014.357-.016A23.558,23.558,0,0,1,4.636,50.616,4.638,4.638,0,0,0,0,55.265c0,2.566,1.678,4.648,4.246,4.648A32.754,32.754,0,0,0,36.9,26.857v-.012A18.244,18.244,0,0,0,18.715,8.264Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
