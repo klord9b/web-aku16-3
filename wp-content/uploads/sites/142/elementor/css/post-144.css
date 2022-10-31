@@ -1,0 +1,23 @@
+.elementor-144 .elementor-element.elementor-element-e4b1cc5:not(.elementor-motion-effects-element-type-background) > .elementor-column-wrap, .elementor-144 .elementor-element.elementor-element-e4b1cc5 > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-primary );}.elementor-144 .elementor-element.elementor-element-e4b1cc5 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-144 .elementor-element.elementor-element-e4b1cc5 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-144 .elementor-element.elementor-element-e4b1cc5 > .elementor-element-populated > .elementor-widget-wrap{padding:95px 92px 55px 92px;}.elementor-144 .elementor-element.elementor-element-b540f79 .aux-widget-testimonial .aux-testimonial-image{width:102px;}.elementor-144 .elementor-element.elementor-element-b540f79 .col-title a, .elementor-144 .elementor-element.elementor-element-b540f79 .col-title{color:var( --e-global-color-823e46c );}.elementor-144 .elementor-element.elementor-element-b540f79 .col-title, .elementor-144 .elementor-element.elementor-element-b540f79 .col-title a{font-family:"Raleway", Sans-serif;font-size:30px;font-weight:bold;line-height:43px;letter-spacing:0px;}.elementor-144 .elementor-element.elementor-element-b540f79 .col-title{margin-top:-20px;margin-bottom:0px;}.elementor-144 .elementor-element.elementor-element-b540f79 .col-subtitle{color:#D9D9D9 !important;font-size:16px;font-weight:300;line-height:43px;letter-spacing:0px;}.elementor-144 .elementor-element.elementor-element-b540f79 .aux-testimonial-content{color:var( --e-global-color-823e46c );font-size:20px;font-weight:300;line-height:43px;letter-spacing:0px;}.elementor-144 .elementor-element.elementor-element-b540f79 .aux-testimonial-content .entry-content{margin-top:10px;margin-bottom:0px;}.elementor-144 .elementor-element.elementor-element-b540f79 .aux-widget-testimonial{padding:0px 0px 0px 0px;border-style:solid;border-width:0px 0px 0px 0px;border-color:var( --e-global-color-823e46c );}.elementor-144 .elementor-element.elementor-element-9ff4859 .elementor-star-rating{font-size:20px;}body:not(.rtl) .elementor-144 .elementor-element.elementor-element-9ff4859 .elementor-star-rating i:not(:last-of-type){margin-right:10px;}body.rtl .elementor-144 .elementor-element.elementor-element-9ff4859 .elementor-star-rating i:not(:last-of-type){margin-left:10px;}.elementor-144 .elementor-element.elementor-element-9ff4859 .elementor-star-rating i:before{color:var( --e-global-color-secondary );}.elementor-144 .elementor-element.elementor-element-9ff4859 .elementor-star-rating i{color:rgba(255,94,20,0);}@media(max-width:1024px){.elementor-144 .elementor-element.elementor-element-9fd3cad{max-width:80%;}.elementor-144 .elementor-element.elementor-element-e4b1cc5 > .elementor-element-populated > .elementor-widget-wrap{padding:50px 30px 30px 30px;}.elementor-144 .elementor-element.elementor-element-b540f79 .col-title, .elementor-144 .elementor-element.elementor-element-b540f79 .col-title a{font-size:18px;}.elementor-144 .elementor-element.elementor-element-b540f79 .col-subtitle{font-size:14px;margin-bottom:0px;}.elementor-144 .elementor-element.elementor-element-b540f79 .aux-testimonial-content{font-size:14px;line-height:1.5em;}}@media(max-width:767px){.elementor-144 .elementor-element.elementor-element-9fd3cad{max-width:100%;}.elementor-144 .elementor-element.elementor-element-b540f79 .aux-widget-testimonial .aux-testimonial-image{width:40%;}.elementor-144 .elementor-element.elementor-element-b540f79 .col-title, .elementor-144 .elementor-element.elementor-element-b540f79 .col-title a{font-size:15px;line-height:1.4em;}.elementor-144 .elementor-element.elementor-element-b540f79 .col-title{margin-top:0px;margin-bottom:0px;}.elementor-144 .elementor-element.elementor-element-b540f79 .col-subtitle{line-height:1.4em;}}/* Start custom CSS for aux_testimonial, class: .elementor-element-b540f79 */.elementor-144 .elementor-element.elementor-element-b540f79 img {
+    float: left;
+    margin-right: 35px;
+}
+
+.elementor-144 .elementor-element.elementor-element-b540f79 .aux-testimonial-info {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.elementor-144 .elementor-element.elementor-element-b540f79 .col-subtitle {
+    margin-top: 1.2em;
+}
+
+.elementor-144 .elementor-element.elementor-element-b540f79  .aux-testimonial-image-top  {
+    box-shadow: none;
+}
+
+@media only screen and (max-width: 768px) {
+    .elementor-144 .elementor-element.elementor-element-b540f79 img {
+        margin-right: 20px;
+    }
+}/* End custom CSS */
