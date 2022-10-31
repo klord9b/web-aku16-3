@@ -1,0 +1,87 @@
+.elementor-72 .elementor-element.elementor-element-bd4bba5 .aux-media-image{border-radius:25px 25px 25px 25px;overflow:hidden;}.elementor-72 .elementor-element.elementor-element-bd4bba5 > .elementor-widget-container{margin:0px 0px 15px 0px;}.elementor-72 .elementor-element.elementor-element-149819e .aux-media-image{border-radius:25px 25px 25px 25px;overflow:hidden;}.elementor-72 .elementor-element.elementor-element-149819e > .elementor-widget-container{margin:0px 0px 15px 0px;}.elementor-72 .elementor-element.elementor-element-e442549 .aux-media-image{border-radius:25px 25px 25px 25px;overflow:hidden;}/* Start custom CSS for aux_image, class: .elementor-element-bd4bba5 */.elementor-72 .elementor-element.elementor-element-bd4bba5 .aux-hover-scale-circle-plus .aux-symbol-circle{
+   width: 54px;
+    height:54px;
+    background-color: var(--e-global-color-primary);
+    border: none;
+}
+.elementor-72 .elementor-element.elementor-element-bd4bba5 .aux-hover-scale-circle-plus{
+    bottom: 65px;
+    right: 70px;
+    left:unset;
+    top: unset;
+}
+.elementor-72 .elementor-element.elementor-element-bd4bba5 .aux-frame-darken::after {
+   ;
+   background-color: transparent;
+   height: 50%;
+   top:50%;
+    background-image: linear-gradient(0deg,#FCAA237A,#FCAA2300);
+}
+.elementor-72 .elementor-element.elementor-element-bd4bba5 .aux-hover-scale-circle-plus .aux-symbol-plus::before {
+     height: 2px;
+    width: 50%;
+   left: 8px;
+}
+.elementor-72 .elementor-element.elementor-element-bd4bba5 .aux-hover-scale-circle-plus .aux-symbol-plus::after {
+     height: 2px;
+    width: 50%;
+   left: 8px;
+}/* End custom CSS */
+/* Start custom CSS for aux_image, class: .elementor-element-149819e */.elementor-72 .elementor-element.elementor-element-149819e .aux-hover-scale-circle-plus .aux-symbol-circle{
+   width: 54px;
+    height:54px;
+    background-color: var(--e-global-color-primary);
+    border: none;
+}
+.elementor-72 .elementor-element.elementor-element-149819e .aux-hover-scale-circle-plus{
+    bottom: 65px;
+    right: 70px;
+    left:unset;
+    top: unset;
+}
+.elementor-72 .elementor-element.elementor-element-149819e .aux-frame-darken::after {
+   ;
+   background-color: transparent;
+   height: 50%;
+   top:50%;
+    background-image: linear-gradient(0deg,#FCAA237A,#FCAA2300);
+}
+.elementor-72 .elementor-element.elementor-element-149819e .aux-hover-scale-circle-plus .aux-symbol-plus::before {
+     height: 2px;
+    width: 50%;
+   left: 8px;
+}
+.elementor-72 .elementor-element.elementor-element-149819e .aux-hover-scale-circle-plus .aux-symbol-plus::after {
+     height: 2px;
+    width: 50%;
+   left: 8px;
+}/* End custom CSS */
+/* Start custom CSS for aux_image, class: .elementor-element-e442549 */.elementor-72 .elementor-element.elementor-element-e442549 .aux-hover-scale-circle-plus .aux-symbol-circle{
+   width: 54px;
+    height:54px;
+    background-color: var(--e-global-color-primary);
+    border: none;
+}
+.elementor-72 .elementor-element.elementor-element-e442549 .aux-hover-scale-circle-plus{
+    bottom: 65px;
+    right: 70px;
+    left:unset;
+    top: unset;
+}
+.elementor-72 .elementor-element.elementor-element-e442549 .aux-frame-darken::after {
+   ;
+   background-color: transparent;
+   height: 50%;
+   top:50%;
+    background-image: linear-gradient(0deg,#FCAA237A,#FCAA2300);
+}
+.elementor-72 .elementor-element.elementor-element-e442549 .aux-hover-scale-circle-plus .aux-symbol-plus::before {
+     height: 2px;
+    width: 50%;
+   left: 8px;
+}
+.elementor-72 .elementor-element.elementor-element-e442549 .aux-hover-scale-circle-plus .aux-symbol-plus::after {
+     height: 2px;
+    width: 50%;
+   left: 8px;
+}/* End custom CSS */
