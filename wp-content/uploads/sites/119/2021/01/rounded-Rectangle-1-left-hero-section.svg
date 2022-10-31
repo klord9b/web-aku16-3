@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="460.644" height="389.981" viewBox="0 0 460.644 389.981">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2138d1"/>
+      <stop offset="1" stop-color="#3f7ffd"/>
+    </linearGradient>
+  </defs>
+  <rect id="rounded_Rectangle_1_-_left_-_hero_section" data-name="rounded Rectangle 1 - left - hero section" width="508" height="98" rx="49" transform="translate(0 312.756) rotate(-38)" opacity="0.2" fill="url(#linear-gradient)"/>
+</svg>

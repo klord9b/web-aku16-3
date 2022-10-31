@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="788" height="789" viewBox="0 0 788 789">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2138d1"/>
+      <stop offset="1" stop-color="#3f7ffd"/>
+    </linearGradient>
+  </defs>
+  <rect id="hero_img_-_bg" data-name="hero img - bg" width="788" height="789" rx="394" opacity="0.09" fill="url(#linear-gradient)"/>
+</svg>

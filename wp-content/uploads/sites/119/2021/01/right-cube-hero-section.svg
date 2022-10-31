@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="93.077" height="111.402" viewBox="0 0 93.077 111.402">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3b54ff"/>
+      <stop offset="1" stop-color="#25457f"/>
+    </linearGradient>
+  </defs>
+  <g id="right_cube_-_hero_section" data-name="right cube - hero section" transform="translate(-38.664 -228.196)">
+    <g id="Group_84" data-name="Group 84" transform="translate(38.664 228.196)">
+      <g id="Group_81" data-name="Group 81" transform="translate(7.539 12.475)">
+        <path id="Path_45" data-name="Path 45" d="M133.223,320.9,90.6,339.929V288.365l42.626-19.029Z" transform="translate(-57.383 -249.157)" opacity="0.5" fill="url(#linear-gradient)"/>
+        <path id="Path_46" data-name="Path 46" d="M93.169,296.565,50.543,315.595V264.031L93.169,245Z" transform="translate(-50.543 -245.002)" opacity="0.42" fill="url(#linear-gradient)"/>
+        <path id="Path_47" data-name="Path 47" d="M50.543,326.214l33.214,20.178,42.626-19.029L93.169,307.184Z" transform="translate(-50.543 -255.621)" opacity="0.63" fill="url(#linear-gradient)"/>
+        <path id="Path_48" data-name="Path 48" d="M50.543,264.034l33.214,20.178,42.626-19.029L93.169,245Z" transform="translate(-50.543 -245.002)" opacity="0.71" fill="url(#linear-gradient)"/>
+      </g>
+      <g id="Group_83" data-name="Group 83">
+        <g id="Group_82" data-name="Group 82" opacity="0.96" style="mix-blend-mode: overlay;isolation: isolate">
+          <g id="Path_49" data-name="Path 49" transform="translate(-49.846 -235.058)" fill="none" stroke-miterlimit="10" opacity="0.5">
+            <path d="M142.923,323.105,90.609,346.46V283.177l52.314-23.354Z" stroke="none"/>
+            <path d="M 91.38378143310547 345.2657775878906 L 142.1487731933594 322.6028137207031 L 142.1487731933594 261.0160522460938 L 91.38378143310547 283.6790161132813 L 91.38378143310547 345.2657775878906 M 90.60939025878906 346.4595336914063 L 90.60939025878906 283.1766662597656 L 142.9231567382813 259.8222961425781 L 142.9231567382813 323.1051635742188 L 90.60939025878906 346.4595336914063 Z" stroke="none" fill="#426cda"/>
+          </g>
+          <g id="Path_50" data-name="Path 50" transform="translate(-41.452 -229.958)" fill="none" stroke-miterlimit="10" opacity="0.42">
+            <path d="M93.766,293.241,41.452,316.595V253.312l52.314-23.354Z" stroke="none"/>
+            <path d="M 42.2260856628418 315.4011840820313 L 92.99114990234375 292.7382202148438 L 92.99114990234375 231.1514892578125 L 42.2260856628418 253.8144226074219 L 42.2260856628418 315.4011840820313 M 41.45169830322266 316.5949401855469 L 41.45169830322266 253.3120880126953 L 93.76553344726563 229.9577178955078 L 93.76553344726563 293.2405700683594 L 41.45169830322266 316.5949401855469 Z" stroke="none" fill="#426cda"/>
+          </g>
+          <g id="Path_51" data-name="Path 51" transform="translate(-41.452 -242.99)" fill="none" stroke-miterlimit="10" opacity="0.63">
+            <path d="M41.452,329.628l40.763,24.765,52.314-23.354L93.766,306.273Z" stroke="none"/>
+            <path d="M 93.71044921875 307.145751953125 L 43.11604309082031 329.7325439453125 L 82.26971435546875 353.5194091796875 L 132.8640441894531 330.9326477050781 L 93.71044921875 307.145751953125 M 93.76552581787109 306.2731323242188 L 134.5283813476563 331.0376892089844 L 82.21463775634766 354.3920593261719 L 41.45169067382813 329.6275024414063 L 93.76552581787109 306.2731323242188 Z" stroke="none" fill="#426cda"/>
+          </g>
+          <g id="Path_52" data-name="Path 52" transform="translate(-41.452 -229.958)" fill="none" stroke-miterlimit="10" opacity="0.71">
+            <path d="M41.452,253.315,82.215,278.08l52.314-23.354L93.766,229.961Z" stroke="none"/>
+            <path d="M 93.71044921875 230.8335571289063 L 43.11604309082031 253.4203338623047 L 82.26971435546875 277.2072143554688 L 132.8640441894531 254.6204528808594 L 93.71044921875 230.8335571289063 M 93.76552581787109 229.9609069824219 L 134.5283813476563 254.7254943847656 L 82.21463775634766 278.0798645019531 L 41.45169067382813 253.3153076171875 L 93.76552581787109 229.9609069824219 Z" stroke="none" fill="#426cda"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
