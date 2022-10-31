@@ -1,0 +1,36 @@
+.elementor-74 .elementor-element.elementor-element-661d89a .aux-modern-heading-primary{font-family:"Playfair Display", Sans-serif;font-size:31px;font-weight:bold;line-height:43px;color:var( --e-global-color-18ceb377 );margin:0px 0px 50px 0px;}.elementor-74 .elementor-element.elementor-element-661d89a .aux-modern-heading-description{color:var( --e-global-color-6c0a38d );font-family:"Roboto", Sans-serif;font-size:16px;font-weight:400;line-height:19px;}.elementor-74 .elementor-element.elementor-element-1ec57b3 .aux-modern-heading-primary{font-family:"Playfair Display", Sans-serif;font-size:31px;font-weight:bold;line-height:43px;color:var( --e-global-color-18ceb377 );margin:0px 0px 50px 0px;}.elementor-74 .elementor-element.elementor-element-1ec57b3 .aux-modern-heading-description{color:var( --e-global-color-6c0a38d );font-family:"Roboto", Sans-serif;font-size:16px;font-weight:400;line-height:19px;}.elementor-74 .elementor-element.elementor-element-4c43148 .aux-modern-heading-primary{font-family:"Playfair Display", Sans-serif;font-size:31px;font-weight:bold;line-height:43px;color:var( --e-global-color-18ceb377 );margin:0px 0px 50px 0px;}.elementor-74 .elementor-element.elementor-element-f44a197 input:not([type="submit"]){transition:all ease-out 0.3s;}.elementor-74 .elementor-element.elementor-element-f44a197 input[type="text"]{transition:all ease-out 0.3s;}.elementor-74 .elementor-element.elementor-element-f44a197 input[type="email"]{transition:all ease-out 0.3s;}.elementor-74 .elementor-element.elementor-element-f44a197 select{transition:all ease-out 0.3s;}.elementor-74 .elementor-element.elementor-element-f44a197 textarea{transition:all ease-out 0.3s;}.elementor-74 .elementor-element.elementor-element-f44a197 input[type="submit"]{transition:all ease-out 0.3s;}@media(max-width:1024px) and (min-width:768px){.elementor-74 .elementor-element.elementor-element-380d2d7{width:50%;}.elementor-74 .elementor-element.elementor-element-de86742{width:50%;}.elementor-74 .elementor-element.elementor-element-69a3c3c{width:100%;}}/* Start custom CSS for aux_contact_form, class: .elementor-element-f44a197 */.elementor-74 .elementor-element.elementor-element-f44a197 .aux-widget-text .aux-text-widget-content .col-title {
+    font-size: 32px;
+    line-height: 43px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+.elementor-74 .elementor-element.elementor-element-f44a197 .phone-number {
+    margin-top: 20px;
+    display: inline-block;
+}
+.elementor-74 .elementor-element.elementor-element-f44a197 .aux-modern-form {
+    margin-top: -25px;
+}
+.elementor-74 .elementor-element.elementor-element-f44a197 .wpcf7 textarea {
+    min-height: 125px;
+}
+.elementor-74 .elementor-element.elementor-element-f44a197 .required {
+    color: #1359B6;
+}
+.elementor-74 .elementor-element.elementor-element-f44a197 .aux-modern-form input[type="submit"] {
+   background: none !important;
+    border: 3px solid #303030 !important;
+    color: #222222 !important;
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    padding: 10px 35px !important;
+    border-radius: 26px !important; 
+}
+
+.elementor-74 .elementor-element.elementor-element-f44a197 .aux-content-top-margin .aux-primary {
+    padding-top: 50px;
+}
+.elementor-74 .elementor-element.elementor-element-f44a197 .aux-demo-mail-link {
+    color: #4A94FF !important;
+    text-decoration: underline;
+}/* End custom CSS */
