@@ -1,0 +1,40 @@
+.elementor-81 .elementor-element.elementor-element-148254d > .elementor-container{min-height:150px;}.elementor-81 .elementor-element.elementor-element-148254d{border-style:solid;border-width:0px 0px 1px 0px;border-color:#EAEAEA;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0px 35px 0px 35px;}.elementor-81 .elementor-element.elementor-element-148254d > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-bc-flex-widget .elementor-81 .elementor-element.elementor-element-85bf983.elementor-column .elementor-column-wrap{align-items:center;}.elementor-81 .elementor-element.elementor-element-85bf983.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-81 .elementor-element.elementor-element-85bf983.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:space-between;}.elementor-81 .elementor-element.elementor-element-85bf983 > .elementor-element-populated > .elementor-widget-wrap{padding:0px 0px 0px 0px;}.aux-sticky .elementor-81 .elementor-element.elementor-element-4327ffa .aux-logo-anchor{transition:transform 300ms ease-out;transform-origin:left;transform:scale(0.85);}.elementor-81 .elementor-element.elementor-element-4327ffa > .elementor-widget-container{margin:5px 0px 0px 0px;}.elementor-81 .elementor-element.elementor-element-4327ffa{width:auto;max-width:auto;}.elementor-81 .elementor-element.elementor-element-14779df{text-align:left;width:auto;max-width:auto;align-self:center;}.elementor-81 .elementor-element.elementor-element-14779df .aux-vertical .aux-menu-depth-0 .aux-item-content{text-align:left;}.elementor-81 .elementor-element.elementor-element-14779df .aux-menu-depth-0 > .aux-item-content{color:#3D3D3D;font-family:"Raleway", Sans-serif;font-size:0.875em;font-weight:400;text-transform:uppercase;line-height:100px;}.elementor-81 .elementor-element.elementor-element-14779df .aux-menu-depth-0.aux-hover > .aux-item-content {color:#AAAAAA !important;}.elementor-81 .elementor-element.elementor-element-14779df .aux-menu-depth-0.current-menu-item > a{color:#AAAAAA;}.elementor-81 .elementor-element.elementor-element-14779df .aux-offcanvas-menu{background-color:#FFFFFF;}.elementor-81 .elementor-element.elementor-element-14779df > .elementor-widget-container{margin:-3px 0px 0px 0px;}@media(max-width:1024px){.elementor-81 .elementor-element.elementor-element-148254d > .elementor-container{min-height:0px;}.elementor-bc-flex-widget .elementor-81 .elementor-element.elementor-element-85bf983.elementor-column .elementor-column-wrap{align-items:center;}.elementor-81 .elementor-element.elementor-element-85bf983.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-81 .elementor-element.elementor-element-85bf983.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:center;}.elementor-81 .elementor-element.elementor-element-4327ffa{text-align:center;width:100%;max-width:100%;}.elementor-81 .elementor-element.elementor-element-4327ffa .aux-has-logo img{width:100%;max-width:100%;}.aux-sticky .elementor-81 .elementor-element.elementor-element-4327ffa .aux-logo-anchor{transition:transform 300ms ease-out;transform-origin:left;transform:scale(0.85);}.elementor-81 .elementor-element.elementor-element-14779df .aux-menu-depth-0 > .aux-item-content{line-height:1em;padding:9px 18px 9px 18px;}.elementor-81 .elementor-element.elementor-element-14779df > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-81 .elementor-element.elementor-element-14779df{width:100%;max-width:100%;}}@media(max-width:767px){.elementor-81 .elementor-element.elementor-element-4327ffa{text-align:left;width:100%;max-width:100%;}.elementor-81 .elementor-element.elementor-element-14779df{width:100%;max-width:100%;}}/* Start custom CSS for aux_logo, class: .elementor-element-4327ffa */@media  (max-width: 1025px) {
+    .elementor-81 .elementor-element.elementor-element-4327ffa .aux-widget-logo {
+        height: 150px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+     .aux-elementor-header.aux-sticky .aux-widget-logo {
+         height: 90px !important;
+     }
+}
+
+@media  (max-width: 767px) {
+    .elementor-81 .elementor-element.elementor-element-4327ffa .aux-widget-logo {
+        justify-content: start;
+    }
+}/* End custom CSS */
+/* Start custom CSS for aux_menu_box, class: .elementor-element-14779df */@media (min-width: 1025px) {
+    .elementor-81 .elementor-element.elementor-element-14779df .aux-menu-depth-0 > .aux-item-content {
+        padding: 0.75em 1.3125em;
+        height: 85px;
+    }
+    .elementor-81 .elementor-element.elementor-element-14779df .aux-menu-depth-0:first-child > .aux-item-content {
+        padding-left: 0;
+    }
+    .elementor-81 .elementor-element.elementor-element-14779df .aux-menu-depth-0:last-child > .aux-item-content {
+        padding-right: 0;
+    }
+}
+@media (max-width: 768px) {
+    .elementor-81 .elementor-element.elementor-element-14779df .aux-burger {
+        position:absolute;
+        right: 0;
+        top: -80px;
+    }
+    
+    .aux-sticky .elementor-81 .elementor-element.elementor-element-14779df .aux-burger {
+        top: -50px;
+    }
+}/* End custom CSS */
