@@ -1,0 +1,38 @@
+.elementor-78 .elementor-element.elementor-element-8c034cc:not(.elementor-motion-effects-element-type-background), .elementor-78 .elementor-element.elementor-element-8c034cc > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F3F3F3;}.elementor-78 .elementor-element.elementor-element-8c034cc{border-style:solid;border-width:1px 0px 0px 0px;border-color:#EAEAEA;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:100px 35px 100px 35px;}.elementor-78 .elementor-element.elementor-element-8c034cc > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-78 .elementor-element.elementor-element-97b3f8e:not(.elementor-motion-effects-element-type-background), .elementor-78 .elementor-element.elementor-element-97b3f8e > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FDFDFD;}.elementor-78 .elementor-element.elementor-element-97b3f8e{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:26px 35px 26px 35px;}.elementor-78 .elementor-element.elementor-element-97b3f8e > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-bc-flex-widget .elementor-78 .elementor-element.elementor-element-ec1d405.elementor-column .elementor-column-wrap{align-items:center;}.elementor-78 .elementor-element.elementor-element-ec1d405.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-78 .elementor-element.elementor-element-ec1d405.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:space-between;}.elementor-78 .elementor-element.elementor-element-ec1d405 > .elementor-element-populated > .elementor-widget-wrap{padding:0px 0px 0px 0px;}.elementor-78 .elementor-element.elementor-element-fc00a10 small{color:#AAAAAA;font-family:"Raleway", Sans-serif;font-size:0.875em;font-weight:normal;}.elementor-78 .elementor-element.elementor-element-fc00a10{width:auto;max-width:auto;align-self:center;}.elementor-78 .elementor-element.elementor-element-84a4532{--grid-template-columns:repeat(0, auto);--icon-size:16px;--grid-column-gap:0px;--grid-row-gap:0px;width:auto;max-width:auto;align-self:center;}.elementor-78 .elementor-element.elementor-element-84a4532 .elementor-widget-container{text-align:right;}.elementor-78 .elementor-element.elementor-element-84a4532 .elementor-social-icon{background-color:#02010100;}.elementor-78 .elementor-element.elementor-element-84a4532 .elementor-social-icon i{color:#AAAAAA;}.elementor-78 .elementor-element.elementor-element-84a4532 .elementor-social-icon svg{fill:#AAAAAA;}.elementor-78 .elementor-element.elementor-element-84a4532 .elementor-social-icon:hover i{color:#505050;}.elementor-78 .elementor-element.elementor-element-84a4532 .elementor-social-icon:hover svg{fill:#505050;}@media(max-width:1024px) and (min-width:768px){.elementor-78 .elementor-element.elementor-element-7811d09{width:33%;}.elementor-78 .elementor-element.elementor-element-aa8fd8b{width:33%;}.elementor-78 .elementor-element.elementor-element-17e4c58{width:33%;}.elementor-78 .elementor-element.elementor-element-cf8de0e{width:33%;}}/* Start custom CSS for wp-widget-categories, class: .elementor-element-c4ea34a */.elementor-78 .elementor-element.elementor-element-c4ea34a li {
+    font-weight: 600;
+    color: #BBB;
+    margin-bottom: 0;
+    word-break: break-word;
+    font-size: 0.875em;
+    text-transform: uppercase;
+}
+.elementor-78 .elementor-element.elementor-element-c4ea34a li a {
+    color: #3D3D3D;
+}/* End custom CSS */
+/* Start custom CSS for wp-widget-recent-comments, class: .elementor-element-d19fb16 */.elementor-78 .elementor-element.elementor-element-d19fb16 li {
+    background-color: #EAEAEA;
+    padding: 0.8125em 1em;
+    margin-bottom: 0.6em;
+    word-break: break-word;
+    font-size: 0.875em;
+}
+.elementor-78 .elementor-element.elementor-element-d19fb16 li.recentcomments .comment-author-link {
+    font-weight: 600;
+}
+.elementor-78 .elementor-element.elementor-element-d19fb16 li a {
+    display: inline !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    color: inherit;
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-8c034cc */.elementor-78 .elementor-element.elementor-element-8c034cc h5 {
+    padding: 0 0 1.0625em;
+    margin-bottom: 1.875em;
+    margin-top: 0;
+    border-bottom: 1px #DEDEDE solid;
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    font-weight: normal;
+    letter-spacing: 2px;
+    line-height: 150%;
+}/* End custom CSS */
